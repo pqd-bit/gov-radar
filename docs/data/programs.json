@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T02:14:26.382095Z",
+  "generated_at": "2026-08-04T02:34:17.298465Z",
   "count": 200,
   "items": [
     {
@@ -517,7 +517,7 @@
       "start_date": "2026-07-30",
       "end_date": "2026-08-07",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124969",
-      "is_priority": true
+      "is_priority": false
     },
     {
       "id": "72df2c9869",
@@ -660,7 +660,7 @@
       "start_date": "2026-07-28",
       "end_date": "2026-08-10",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124961",
-      "is_priority": true
+      "is_priority": false
     },
     {
       "id": "8c0723f7d2",
@@ -770,7 +770,7 @@
       "start_date": "2026-07-27",
       "end_date": "2026-08-11",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124934",
-      "is_priority": true
+      "is_priority": false
     },
     {
       "id": "8ae1d53c0b",
@@ -1023,7 +1023,7 @@
       "start_date": "2026-07-28",
       "end_date": "2026-08-14",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178720",
-      "is_priority": true
+      "is_priority": false
     },
     {
       "id": "1a10203e84",
@@ -1111,7 +1111,7 @@
       "start_date": "2026-07-31",
       "end_date": "2026-08-14",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125019",
-      "is_priority": true
+      "is_priority": false
     },
     {
       "id": "421dbde663",
@@ -1155,7 +1155,7 @@
       "start_date": "2026-08-03",
       "end_date": "2026-08-14",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125006",
-      "is_priority": true
+      "is_priority": false
     },
     {
       "id": "c3c426c4a5",
@@ -1320,7 +1320,7 @@
       "start_date": "2026-07-30",
       "end_date": "2026-08-15",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124950",
-      "is_priority": true
+      "is_priority": false
     },
     {
       "id": "cafcefd25e",
@@ -1672,7 +1672,7 @@
       "start_date": "2026-07-29",
       "end_date": "2026-08-21",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124945",
-      "is_priority": true
+      "is_priority": false
     },
     {
       "id": "19ac24c2a0",
@@ -1683,7 +1683,7 @@
       "start_date": "2026-08-14",
       "end_date": "2026-08-21",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124943",
-      "is_priority": true
+      "is_priority": false
     },
     {
       "id": "3efa46f2c3",
@@ -1782,7 +1782,7 @@
       "start_date": "2026-08-03",
       "end_date": "2026-08-25",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124989",
-      "is_priority": true
+      "is_priority": false
     },
     {
       "id": "7360abc88e",
@@ -2024,7 +2024,7 @@
       "start_date": "2026-07-29",
       "end_date": "2026-08-31",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124942",
-      "is_priority": true
+      "is_priority": false
     },
     {
       "id": "b7db7bafa3",
