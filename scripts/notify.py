@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """
 마감 D-N 이내 '우선 관심' 공고만 모아 이메일로 발송한다.
+각 항목에는 "숨기기" 링크가 포함되며, 클릭 시 GitHub 이슈가 생성되고
+.github/workflows/dismiss.yml 이 이를 감지해 dismissed.json 에 등록한다
+(이후 수집부터 해당 공고는 영구 제외됨).
+
 GitHub Actions Secrets 필요:
   SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS  (Gmail이면 앱 비밀번호 사용)
   NOTIFY_TO   : 받을 이메일 주소
@@ -18,6 +22,8 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_PATH = ROOT / "docs" / "data" / "programs.json"
 
 NOTIFY_DAYS = int(os.environ.get("NOTIFY_DAYS", "14"))
+# GitHub Actions가 자동으로 "owner/repo" 형태로 주입해주는 환경변수 (별도 설정 불필요)
+GITHUB_REPO = os.environ.get("GITHUB_REPOSITORY", "")
 
 
 def load_items():
@@ -36,13 +42,25 @@ def days_left(end_date_str):
     return (d - date.today()).days
 
 
+def dismiss_url(item_id: str):
+    if not GITHUB_REPO:
+        return ""
+    title = f"dismiss:{item_id}"
+    body = "이 링크는 자동 생성된 이슈입니다. Gov Radar가 처리 후 자동으로 닫습니다."
+    return (
+        f"https://github.com/{GITHUB_REPO}/issues/new"
+        f"?title={title}&body={body}&labels=dismiss"
+    ).replace(" ", "%20")
+
+
 def build_body(upcoming):
     lines = [f"오늘 기준 D-{NOTIFY_DAYS} 이내 마감 예정 우선 관심 공고 ({len(upcoming)}건)\n"]
     for it in upcoming:
         dleft = days_left(it["end_date"])
         lines.append(
             f"- [D-{dleft}] {it['title']}\n"
-            f"  기관: {it['org']} | 마감: {it['end_date']} | {it['url']}"
+            f"  기관: {it['org']} | 마감: {it['end_date']} | {it['url']}\n"
+            f"  이 공고 그만보기: {dismiss_url(it['id'])}"
         )
     return "\n".join(lines)
 
