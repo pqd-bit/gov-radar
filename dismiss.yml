@@ -1,0 +1,63 @@
+name: Gov Radar Dismiss Handler
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  dismiss:
+    if: startsWith(github.event.issue.title, 'dismiss:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Add id to dismissed.json
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+        run: |
+          python3 - <<'EOF'
+          import json, os, re
+
+          path = "docs/data/dismissed.json"
+          with open(path, "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          title = os.environ["ISSUE_TITLE"]
+          m = re.match(r"dismiss:(\S+)", title)
+          if m:
+              item_id = m.group(1)
+              if item_id not in data["dismissed_ids"]:
+                  data["dismissed_ids"].append(item_id)
+                  with open(path, "w", encoding="utf-8") as f:
+                      json.dump(data, f, ensure_ascii=False, indent=2)
+                  print(f"dismissed: {item_id}")
+          EOF
+
+      - name: Commit dismissed.json
+        run: |
+          git config user.name "gov-radar-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/data/dismissed.json
+          git diff --cached --quiet || git commit -m "chore: ${{ github.event.issue.title }}"
+          git push
+
+      - name: Close issue with confirmation
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: "숨김 처리 완료 — 다음 수집부터 이 공고는 대시보드/이메일에서 제외됩니다."
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: "closed"
+            });
