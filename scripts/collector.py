@@ -63,6 +63,16 @@ EXCLUDE_KEYWORDS = [
 # 특정 지자체(부산/전남/전북/강원/충남/춘천 등) 소속 기업 전용 공고는 자동 배제.
 ELIGIBLE_REGION_HINTS = ["전국", "서울"]
 
+# K-Startup/기업마당 API의 region(supt_regin/area) 필드는 신뢰도가 낮아,
+# 실제로는 특정 지자체 전용 공고인데도 "전국"으로 잘못 태그되는 경우가 흔하다.
+# 이런 공고는 대부분 제목에 "[부산] ...", "『춘천시 ...』" 처럼 지역명이
+# 직접 노출되므로, region 필드와 별개로 제목도 함께 검사한다.
+RESTRICTED_REGION_TITLE_HINTS = [
+    "부산", "대구", "인천", "광주", "대전", "울산", "세종",
+    "경기", "강원", "충북", "충남", "전북", "전남", "경북", "경남", "제주",
+    "춘천",
+]
+
 
 def parse_date(raw: str):
     """YYYYMMDD, YYYY-MM-DD 등 다양한 포맷을 YYYY-MM-DD 로 정규화"""
@@ -89,10 +99,16 @@ def is_region_eligible(region: str):
     return any(hint in region for hint in ELIGIBLE_REGION_HINTS)
 
 
+def has_region_restricted_title(title: str):
+    return any(k in title for k in RESTRICTED_REGION_TITLE_HINTS)
+
+
 def compute_priority(title: str, region: str):
     if any(k in title for k in EXCLUDE_KEYWORDS):
         return False
     if not is_region_eligible(region):
+        return False
+    if has_region_restricted_title(title):
         return False
     return any(k in title for k in PRIORITY_KEYWORDS)
 
