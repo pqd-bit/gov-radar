@@ -107,6 +107,9 @@ def load_dismissed():
         return set()
 
 
+FETCH_ERRORS = []  # 소스별 fetch 예외(타임아웃 등) 기록 - 빈 결과와 구분하기 위함
+
+
 def fetch_kstartup():
     """K-Startup 공고정보 오픈API 호출"""
     if not KSTARTUP_KEY:
@@ -126,6 +129,7 @@ def fetch_kstartup():
         data = resp.json()
     except Exception as e:
         print(f"[ERROR] K-Startup fetch 실패: {e}", file=sys.stderr)
+        FETCH_ERRORS.append("K-Startup")
         return []
 
     rows = data.get("data") or data.get("items") or []
@@ -169,6 +173,7 @@ def fetch_bizinfo():
         root = ElementTree.fromstring(resp.content)
     except Exception as e:
         print(f"[ERROR] 기업마당 fetch 실패: {e}", file=sys.stderr)
+        FETCH_ERRORS.append("기업마당")
         return []
 
     for item in root.iter("item"):
@@ -222,6 +227,16 @@ def main():
 
     # 마감일 기준 정렬 (없는 항목은 뒤로)
     collected.sort(key=lambda x: x.get("end_date") or "9999-99-99")
+
+    if not collected and FETCH_ERRORS:
+        # 모든 fetch가 타임아웃/네트워크 오류로 실패한 경우: 정상적으로 "0건"인 것과 구분해
+        # 기존에 수집돼 있던 programs.json을 빈 데이터로 덮어쓰지 않는다.
+        print(
+            f"[ERROR] 모든 소스 fetch 실패({', '.join(FETCH_ERRORS)}) - "
+            f"기존 {OUT_PATH} 유지, 이번 회차는 갱신 skip",
+            file=sys.stderr,
+        )
+        return
 
     payload = {
         "generated_at": datetime.utcnow().isoformat() + "Z",
