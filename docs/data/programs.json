@@ -1,0 +1,46 @@
+{
+  "generated_at": "SEED-DATA-NOT-YET-COLLECTED",
+  "count": 4,
+  "items": [
+    {
+      "source": "K-Startup",
+      "title": "[예시] 2026년 청년창업사관학교 입교기업 모집",
+      "org": "중소벤처기업진흥공단",
+      "region": "전국",
+      "start_date": "2026-01-05",
+      "end_date": "2026-02-13",
+      "url": "https://www.k-startup.go.kr",
+      "is_priority": true
+    },
+    {
+      "source": "기업마당",
+      "title": "[예시] 글로벌 강소기업 1000+ 프로젝트 지원기업 모집",
+      "org": "중소벤처기업부",
+      "region": "전국",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-31",
+      "url": "https://www.bizinfo.go.kr",
+      "is_priority": true
+    },
+    {
+      "source": "K-Startup",
+      "title": "[예시] 수출바우처(농식품 분야) 지원사업 공고",
+      "org": "한국농수산식품유통공사",
+      "region": "전국",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-25",
+      "url": "https://www.k-startup.go.kr",
+      "is_priority": true
+    },
+    {
+      "source": "기업마당",
+      "title": "[예시] 서울 1인 창조기업 비즈니스센터 입주기업 모집",
+      "org": "서울경제진흥원",
+      "region": "서울",
+      "start_date": "2026-01-20",
+      "end_date": "2026-02-10",
+      "url": "https://www.bizinfo.go.kr",
+      "is_priority": false
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GOV RADAR — 정부지원사업 관제판</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0d1117;
+    --panel:#141a22;
+    --panel-2:#1b232d;
+    --line:#2a333d;
+    --ink:#e8ecf1;
+    --ink-dim:#8b96a3;
+    --signal:#ffb545;      /* radar amber */
+    --signal-dim:#7a5a29;
+    --danger:#ff5d5d;
+    --ok:#4ad991;
+    --mono: 'IBM Plex Mono', monospace;
+    --sans: 'IBM Plex Sans KR', sans-serif;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:var(--sans); -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit;}
+
+  /* ---------- Header ---------- */
+  header{
+    padding:28px 32px 20px; border-bottom:1px solid var(--line);
+    display:flex; justify-content:space-between; align-items:flex-end; flex-wrap:wrap; gap:16px;
+  }
+  .brand{display:flex; align-items:center; gap:12px;}
+  .brand .dot{
+    width:10px;height:10px;border-radius:50%;background:var(--signal);
+    box-shadow:0 0 0 4px rgba(255,181,69,.15);
+    animation: pulse 2.2s infinite;
+  }
+  @keyframes pulse{
+    0%{box-shadow:0 0 0 0 rgba(255,181,69,.35);}
+    70%{box-shadow:0 0 0 8px rgba(255,181,69,0);}
+    100%{box-shadow:0 0 0 0 rgba(255,181,69,0);}
+  }
+  h1{font-family:var(--mono); font-size:20px; letter-spacing:.08em; margin:0; font-weight:600;}
+  .sub{font-size:12px; color:var(--ink-dim); margin-top:4px; font-family:var(--mono);}
+  .stat-strip{display:flex; gap:10px; flex-wrap:wrap;}
+  .stat{
+    background:var(--panel); border:1px solid var(--line); border-radius:8px;
+    padding:8px 14px; font-family:var(--mono); font-size:12px; min-width:96px;
+  }
+  .stat b{display:block; font-size:20px; font-weight:600; margin-top:2px;}
+  .stat.urgent b{color:var(--danger);}
+  .stat.priority b{color:var(--signal);}
+
+  main{padding:24px 32px 60px; max-width:1280px; margin:0 auto;}
+
+  /* ---------- Controls ---------- */
+  .controls{
+    display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-bottom:20px;
+  }
+  input[type=text]{
+    background:var(--panel); border:1px solid var(--line); color:var(--ink);
+    padding:9px 12px; border-radius:6px; font-family:var(--sans); font-size:13px; flex:1; min-width:180px;
+  }
+  select, .toggle{
+    background:var(--panel); border:1px solid var(--line); color:var(--ink);
+    padding:9px 12px; border-radius:6px; font-family:var(--sans); font-size:13px; cursor:pointer;
+  }
+  .toggle.active{border-color:var(--signal); color:var(--signal); background:rgba(255,181,69,.08);}
+
+  /* ---------- Radar Timeline ---------- */
+  .timeline-wrap{
+    background:var(--panel); border:1px solid var(--line); border-radius:10px;
+    padding:20px 20px 12px; margin-bottom:28px; overflow-x:auto;
+  }
+  .timeline-title{font-family:var(--mono); font-size:11px; color:var(--ink-dim); letter-spacing:.1em; margin-bottom:14px; text-transform:uppercase;}
+  .timeline{position:relative; min-width:960px; height:150px;}
+  .timeline-axis{
+    position:absolute; left:0; right:0; top:70px; height:1px; background:var(--line);
+  }
+  .month-col{
+    position:absolute; top:0; bottom:0; width:calc(100%/12);
+    border-left:1px solid var(--line);
+  }
+  .month-col:first-child{border-left:none;}
+  .month-label{
+    position:absolute; top:80px; left:6px; font-family:var(--mono); font-size:10px; color:var(--ink-dim);
+  }
+  .month-col.current .month-label{color:var(--signal); font-weight:600;}
+  .blip{
+    position:absolute; width:9px; height:9px; border-radius:50%;
+    background:var(--ink-dim); border:2px solid var(--bg); cursor:pointer;
+    transform:translate(-50%,-50%);
+  }
+  .blip.priority{background:var(--signal);}
+  .blip.urgent{background:var(--danger);}
+  .blip:hover{outline:2px solid var(--ink); z-index:5;}
+
+  /* ---------- List ---------- */
+  .month-group{margin-bottom:22px;}
+  .month-heading{
+    font-family:var(--mono); font-size:13px; color:var(--ink-dim); letter-spacing:.06em;
+    border-bottom:1px solid var(--line); padding-bottom:6px; margin-bottom:10px;
+    display:flex; justify-content:space-between;
+  }
+  .card{
+    background:var(--panel); border:1px solid var(--line); border-radius:8px;
+    padding:14px 16px; margin-bottom:8px; display:flex; justify-content:space-between; gap:16px; align-items:center;
+    transition:border-color .15s;
+  }
+  .card:hover{border-color:#3d4956;}
+  .card-main{flex:1; min-width:0;}
+  .card-title{font-size:14px; font-weight:500; margin-bottom:5px; display:flex; gap:8px; align-items:center; flex-wrap:wrap;}
+  .badge{
+    font-family:var(--mono); font-size:10px; padding:2px 6px; border-radius:4px; letter-spacing:.03em;
+  }
+  .badge.priority{background:rgba(255,181,69,.15); color:var(--signal); border:1px solid var(--signal-dim);}
+  .badge.source{background:var(--panel-2); color:var(--ink-dim); border:1px solid var(--line);}
+  .card-meta{font-family:var(--mono); font-size:11px; color:var(--ink-dim);}
+  .dday{
+    font-family:var(--mono); font-size:15px; font-weight:600; text-align:right; min-width:64px;
+  }
+  .dday.urgent{color:var(--danger);}
+  .dday.soon{color:var(--signal);}
+  .dday.normal{color:var(--ink-dim);}
+  .card-link{
+    font-family:var(--mono); font-size:11px; color:var(--ink-dim); text-decoration:none; border:1px solid var(--line);
+    padding:6px 10px; border-radius:6px; white-space:nowrap;
+  }
+  .card-link:hover{border-color:var(--signal); color:var(--signal);}
+
+  .empty{color:var(--ink-dim); font-family:var(--mono); font-size:13px; padding:30px 0; text-align:center;}
+  footer{padding:20px 32px 40px; color:var(--ink-dim); font-family:var(--mono); font-size:11px; text-align:center;}
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <div class="brand">
+      <span class="dot"></span>
+      <h1>GOV RADAR</h1>
+    </div>
+    <div class="sub" id="updatedAt">데이터 로딩 중…</div>
+  </div>
+  <div class="stat-strip">
+    <div class="stat"><span>전체 공고</span><b id="statTotal">–</b></div>
+    <div class="stat priority"><span>우선 관심</span><b id="statPriority">–</b></div>
+    <div class="stat urgent"><span>D-14 이내</span><b id="statUrgent">–</b></div>
+  </div>
+</header>
+
+<main>
+  <div class="controls">
+    <input type="text" id="search" placeholder="사업명 · 기관명 검색">
+    <select id="sourceFilter">
+      <option value="">전체 출처</option>
+    </select>
+    <div class="toggle" id="priorityToggle">★ 우선 관심 (청창사·수출·식품 등)만 보기</div>
+  </div>
+
+  <div class="timeline-wrap">
+    <div class="timeline-title">12개월 타임라인</div>
+    <div class="timeline" id="timeline">
+      <div class="timeline-axis"></div>
+    </div>
+  </div>
+
+  <div id="listRoot"></div>
+</main>
+
+<footer>
+  gov-radar · docs/data/programs.json 자동 업데이트 (GitHub Actions, 매일 07:00 KST) · 우선 관심 키워드는 scripts/collector.py PRIORITY_KEYWORDS 에서 조정
+</footer>
+
+<script>
+const state = { items: [], filterPriority: false, filterSource: '', search: '' };
+
+async function loadData(){
+  try{
+    const res = await fetch('data/programs.json', {cache:'no-store'});
+    const json = await res.json();
+    state.items = json.items || [];
+    const updated = json.generated_at === 'SEED-DATA-NOT-YET-COLLECTED'
+      ? '⚠ 예시 데이터 표시 중 — collector.py 미실행 상태 (README 참고)'
+      : '마지막 수집: ' + new Date(json.generated_at).toLocaleString('ko-KR');
+    document.getElementById('updatedAt').textContent = updated;
+  }catch(e){
+    document.getElementById('updatedAt').textContent = '데이터를 불러올 수 없습니다 (data/programs.json 확인)';
+  }
+  populateSourceFilter();
+  render();
+}
+
+function daysLeft(endDate){
+  if(!endDate) return null;
+  const end = new Date(endDate + 'T00:00:00');
+  const today = new Date(); today.setHours(0,0,0,0);
+  return Math.round((end - today) / 86400000);
+}
+
+function ddayClass(d){
+  if(d === null) return 'normal';
+  if(d < 0) return 'normal';
+  if(d <= 7) return 'urgent';
+  if(d <= 14) return 'soon';
+  return 'normal';
+}
+
+function populateSourceFilter(){
+  const sources = [...new Set(state.items.map(i=>i.source))];
+  const sel = document.getElementById('sourceFilter');
+  sources.forEach(s=>{
+    const opt = document.createElement('option');
+    opt.value = s; opt.textContent = s;
+    sel.appendChild(opt);
+  });
+}
+
+function filteredItems(){
+  return state.items.filter(it=>{
+    if(state.filterPriority && !it.is_priority) return false;
+    if(state.filterSource && it.source !== state.filterSource) return false;
+    if(state.search){
+      const q = state.search.toLowerCase();
+      if(!(it.title.toLowerCase().includes(q) || (it.org||'').toLowerCase().includes(q))) return false;
+    }
+    return true;
+  });
+}
+
+function renderStats(){
+  const total = state.items.length;
+  const priority = state.items.filter(i=>i.is_priority).length;
+  const urgent = state.items.filter(i=>{
+    const d = daysLeft(i.end_date);
+    return d !== null && d >= 0 && d <= 14;
+  }).length;
+  document.getElementById('statTotal').textContent = total;
+  document.getElementById('statPriority').textContent = priority;
+  document.getElementById('statUrgent').textContent = urgent;
+}
+
+function renderTimeline(items){
+  const el = document.getElementById('timeline');
+  el.querySelectorAll('.month-col, .blip').forEach(n=>n.remove());
+
+  const now = new Date();
+  const months = [];
+  for(let i=0;i<12;i++){
+    const d = new Date(now.getFullYear(), now.getMonth()+i, 1);
+    months.push(d);
+  }
+
+  months.forEach((d, idx)=>{
+    const col = document.createElement('div');
+    col.className = 'month-col' + (idx===0 ? ' current' : '');
+    col.style.left = (idx * (100/12)) + '%';
+    col.innerHTML = `<div class="month-label">${d.getFullYear()}.${String(d.getMonth()+1).padStart(2,'0')}</div>`;
+    el.appendChild(col);
+  });
+
+  const rangeStart = new Date(months[0].getFullYear(), months[0].getMonth(), 1);
+  const rangeEnd = new Date(months[11].getFullYear(), months[11].getMonth()+1, 0);
+  const totalSpan = rangeEnd - rangeStart;
+
+  // 같은 위치 겹침 방지용 높이 슬롯
+  const laneOf = {};
+
+  items.forEach(it=>{
+    if(!it.end_date) return;
+    const end = new Date(it.end_date + 'T00:00:00');
+    if(end < rangeStart || end > rangeEnd) return;
+    const pos = ((end - rangeStart) / totalSpan) * 100;
+    const key = Math.round(pos);
+    laneOf[key] = (laneOf[key] || 0) + 1;
+    const lane = laneOf[key] % 4;
+
+    const blip = document.createElement('div');
+    const d = daysLeft(it.end_date);
+    let cls = 'blip';
+    if(it.is_priority) cls += ' priority';
+    if(d !== null && d >= 0 && d <= 7) cls += ' urgent';
+    blip.className = cls;
+    blip.style.left = pos + '%';
+    blip.style.top = (20 + lane * 14) + 'px';
+    blip.title = `${it.title}\n${it.org}\n마감: ${it.end_date}`;
+    el.appendChild(blip);
+  });
+}
+
+function render(){
+  renderStats();
+  const items = filteredItems();
+  renderTimeline(items);
+
+  const root = document.getElementById('listRoot');
+  root.innerHTML = '';
+
+  if(items.length === 0){
+    root.innerHTML = '<div class="empty">조건에 맞는 공고가 없습니다.</div>';
+    return;
+  }
+
+  const groups = {};
+  items.forEach(it=>{
+    const key = it.end_date ? it.end_date.slice(0,7) : '기한미정';
+    groups[key] = groups[key] || [];
+    groups[key].push(it);
+  });
+
+  Object.keys(groups).sort().forEach(monthKey=>{
+    const groupEl = document.createElement('div');
+    groupEl.className = 'month-group';
+    const label = monthKey === '기한미정' ? '기한 미정' : monthKey.replace('-', '년 ') + '월 마감';
+    groupEl.innerHTML = `<div class="month-heading"><span>${label}</span><span>${groups[monthKey].length}건</span></div>`;
+
+    groups[monthKey].forEach(it=>{
+      const d = daysLeft(it.end_date);
+      const dCls = ddayClass(d);
+      const dLabel = d === null ? '–' : (d < 0 ? '마감' : 'D-' + d);
+
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
+        <div class="dday ${dCls}">${dLabel}</div>
+        <div class="card-main">
+          <div class="card-title">
+            ${it.title}
+            ${it.is_priority ? '<span class="badge priority">★ 우선</span>' : ''}
+            <span class="badge source">${it.source}</span>
+          </div>
+          <div class="card-meta">${it.org} · ${it.region || '전국'} · 마감 ${it.end_date || '미정'}</div>
+        </div>
+        <a class="card-link" href="${it.url}" target="_blank" rel="noopener">공고 보기 ↗</a>
+      `;
+      groupEl.appendChild(card);
+    });
+    root.appendChild(groupEl);
+  });
+}
+
+document.getElementById('search').addEventListener('input', e=>{
+  state.search = e.target.value; render();
+});
+document.getElementById('sourceFilter').addEventListener('change', e=>{
+  state.filterSource = e.target.value; render();
+});
+document.getElementById('priorityToggle').addEventListener('click', e=>{
+  state.filterPriority = !state.filterPriority;
+  e.target.classList.toggle('active', state.filterPriority);
+  render();
+});
+
+loadData();
+</script>
+</body>
+</html>
