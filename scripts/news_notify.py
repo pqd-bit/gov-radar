@@ -3,10 +3,10 @@
 F&B 건강기능식품/웰니스 트렌드 + 국제무역 기회 뉴스 중 아직 발송하지 않은
 기사를 골라 이메일로 보낸다.
 
-news.json의 관련도 판정(category, keyword_score)은 news_collector.py의
-is_relevant() 단일 함수 결과를 그대로 신뢰하며, 이 스크립트에서 키워드를
-다시 매칭하지 않는다 - 상위 N건 선정은 news_collector.py가 이미 계산해 둔
-keyword_score로만 정렬한다.
+news.json의 관련도 판정(category, keyword_score)과 신선도 필터는
+news_collector.py에서 이미 끝난 상태로 신뢰하며, 이 스크립트에서 키워드나
+발행일을 다시 매칭/필터링하지 않는다 - 국내(domestic)/해외(foreign) 5:5
+비율 선정만 select_daily_articles()에서 수행한다.
 
 기존 정부지원사업 notify.py와는 완전히 독립된 별도 스크립트다.
 
@@ -27,13 +27,20 @@ DATA_PATH = ROOT / "docs" / "data" / "news.json"
 SENT_PATH = ROOT / "docs" / "data" / "news_sent.json"
 
 MAX_PER_DAY = 10
+
 SENT_RETENTION_DAYS = 14
 
 CATEGORY_LABELS = {
     "wellness_trend": "웰니스 트렌드",
     "trade_opportunity": "무역 기회",
 }
-CATEGORY_ORDER = ["wellness_trend", "trade_opportunity"]
+
+ORIGIN_LABELS = {
+    "domestic": "국내 소식",
+    "foreign": "해외 트렌드·규제",
+}
+# 국내가 항상 먼저 나오도록 순서 고정
+ORIGIN_ORDER = ["domestic", "foreign"]
 
 
 def load_news():
@@ -57,16 +64,48 @@ def prune_sent(sent_records):
     return [r for r in sent_records if r.get("sent_at", "0000-00-00") >= cutoff]
 
 
+def select_daily_articles(domestic, foreign, quota=10):
+    """
+    국내:해외 5:5 비율 선정 단일 authority.
+
+    domestic/foreign은 호출 전에 이미 (신선도 통과 + keyword_score 내림차순)
+    으로 정렬되어 있어야 한다. quota의 절반씩 우선 배정하고, 한쪽이 절반에
+    못 미치면 부족한 만큼을 다른 쪽에서 채운다(총합은 최대 quota 유지). 양쪽
+    다 부족하면 채우지 않고 있는 만큼만 반환한다 - 오래된 기사로 억지로
+    채우는 로직은 두지 않는다(신선도 필터는 news_collector.py의 is_fresh()가
+    이미 적용했으므로 여기 후보 리스트 자체에 오래된 기사가 없다).
+
+    이 함수 밖에서 선정 결과 리스트를 추가로 자르거나 순서를 섞지 않는다.
+    """
+    half = quota // 2
+
+    dom_n = min(half, len(domestic))
+    for_n = min(half, len(foreign))
+
+    leftover = quota - dom_n - for_n
+    if leftover > 0:
+        extra_dom = min(leftover, len(domestic) - dom_n)
+        dom_n += extra_dom
+        leftover -= extra_dom
+    if leftover > 0:
+        extra_for = min(leftover, len(foreign) - for_n)
+        for_n += extra_for
+        leftover -= extra_for
+
+    return domestic[:dom_n] + foreign[:for_n]
+
+
 def _card_html(it):
     title = html.escape(it["title"])
     source = html.escape(it.get("source") or "")
     published = html.escape(it.get("published_date") or "날짜 미상")
+    category = html.escape(CATEGORY_LABELS.get(it.get("category"), it.get("category") or ""))
     view_href = html.escape(it["url"], quote=True)
 
     return f"""
 <div style="border:1px solid #e0e0e0;border-radius:8px;padding:16px;margin-bottom:12px;">
   <div style="font-size:15px;font-weight:bold;color:#111111;margin-bottom:6px;">{title}</div>
-  <div style="font-size:13px;color:#767676;margin-bottom:12px;">{source} · {published}</div>
+  <div style="font-size:13px;color:#767676;margin-bottom:12px;">{source} · <strong style="color:#111111;">{published}</strong> · {category}</div>
   <div>
     <a href="{view_href}" style="display:inline-block;background-color:#2563eb;color:#ffffff;text-decoration:none;font-size:13px;padding:6px 12px;border-radius:6px;">기사 보기 →</a>
   </div>
@@ -91,8 +130,8 @@ def build_body(selected):
         f"</p>"
     )
     sections = "".join(
-        _section_html(CATEGORY_LABELS.get(cat, cat), [it for it in selected if it.get("category") == cat])
-        for cat in CATEGORY_ORDER
+        _section_html(ORIGIN_LABELS.get(origin, origin), [it for it in selected if it.get("origin") == origin])
+        for origin in ORIGIN_ORDER
     )
     return (
         '<div style="font-family:-apple-system,Helvetica,Arial,sans-serif;'
@@ -108,8 +147,12 @@ def main():
     sent_urls = {r["url"] for r in sent_records if r.get("url")}
 
     candidates = [it for it in items if it.get("url") and it["url"] not in sent_urls]
-    candidates.sort(key=lambda x: x.get("keyword_score", 0), reverse=True)
-    selected = candidates[:MAX_PER_DAY]
+    domestic = [it for it in candidates if it.get("origin") == "domestic"]
+    foreign = [it for it in candidates if it.get("origin") == "foreign"]
+    domestic.sort(key=lambda x: x.get("keyword_score", 0), reverse=True)
+    foreign.sort(key=lambda x: x.get("keyword_score", 0), reverse=True)
+
+    selected = select_daily_articles(domestic, foreign, quota=MAX_PER_DAY)
 
     if not selected:
         print("[INFO] 발송 대상 없음 (신규 관련 뉴스 없음)")

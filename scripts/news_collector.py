@@ -9,12 +9,17 @@ RSS로 수집해 docs/data/news.json 으로 저장한다.
 독립된 별도 스크립트이며, 위 파일들을 참조하거나 수정하지 않는다.
 
 데이터 소스 (전부 무료, API 키 불필요)
-  1) Google News RSS - 검색어별 개별 쿼리 (한국어/영어)
+  1) Google News RSS - 검색어별 개별 쿼리 (국내 한글 키워드 / 해외 영문 키워드)
   2) 업계 전문매체 RSS
-     - just-food.com
-     - fooddive.com
-     - nutritionaloutlook.com   (NutraIngredients-Asia 대체)
-     - foodbev.com              (FoodNavigator 대체)
+     국내(domestic):
+       - 식품음료신문 thinkfood.co.kr
+       - 식품저널 foodnews.co.kr
+       - 식품외식경제 foodbank.co.kr
+     해외(foreign):
+       - just-food.com
+       - fooddive.com
+       - nutritionaloutlook.com   (NutraIngredients-Asia 대체)
+       - foodbev.com              (FoodNavigator 대체)
 
   주: 실제 접속 검증 결과 FoodNavigator/NutraIngredients-Asia(William Reed/
   Informa 플랫폼)는 공개 RSS를 폐지하고 뉴스 sitemap만 제공한다
@@ -24,6 +29,10 @@ RSS로 수집해 docs/data/news.json 으로 저장한다.
   불가능하다. 위 대체 소스(Nutritional Outlook, FoodBev Media)로 커버하고,
   Google News 쿼리에 무역/관세 키워드를 포함시켜 GAIN 리포트 관련 보도를
   간접적으로 커버한다.
+
+  aT(한국농수산식품유통공사)는 사이트에 RSS 피드가 없어(보도자료 게시판만
+  존재) Google News RSS에 site:at.or.kr 연산자를 건 쿼리로 대체 수집한다
+  (직접 접속 검증 결과 정상적으로 관련 기사를 반환함).
 
   KOTRA 뉴스레터, 푸드위크 뉴스레터는 이미 다른 경로로 수신 중이므로
   중복 소스로 추가하지 않는다.
@@ -49,11 +58,26 @@ OUT_PATH = ROOT / "docs" / "data" / "news.json"
 REQUEST_TIMEOUT = 20
 USER_AGENT = "Mozilla/5.0 (compatible; gov-radar-news-bot/1.0)"
 
-# Google News RSS 검색어 - (검색어, hl, gl, ceid)
-GOOGLE_NEWS_QUERIES = [
-    ("건강기능식품 트렌드", "ko", "KR", "KR:ko"),
+# Google News RSS 검색어 - (검색어, hl, gl, ceid). 국내/해외를 별도 리스트로
+# 관리하며, 각 항목의 origin은 어느 리스트에서 왔는지로 결정된다 (fetch
+# 시점에 명시적으로 태깅 - main.py 등 다른 곳에서 origin을 추론하지 않는다).
+DOMESTIC_GOOGLE_NEWS_QUERIES = [
+    ("건강기능식품", "ko", "KR", "KR:ko"),
+    ("건강기능식품 수출", "ko", "KR", "KR:ko"),
+    ("기능성 원료", "ko", "KR", "KR:ko"),
     ("기능성 원료 수출", "ko", "KR", "KR:ko"),
-    ("식품 바이어 수입", "ko", "KR", "KR:ko"),
+    ("프로바이오틱스", "ko", "KR", "KR:ko"),
+    ("식품 수출", "ko", "KR", "KR:ko"),
+    ("농식품 수출", "ko", "KR", "KR:ko"),
+    ("K-푸드 수출", "ko", "KR", "KR:ko"),
+    ("해외 바이어", "ko", "KR", "KR:ko"),
+    ("식품 트렌드", "ko", "KR", "KR:ko"),
+    ("웰니스", "ko", "KR", "KR:ko"),
+    # aT(한국농수산식품유통공사)는 자체 RSS가 없어 site: 연산자로 대체 수집
+    ("site:at.or.kr 수출", "ko", "KR", "KR:ko"),
+]
+
+FOREIGN_GOOGLE_NEWS_QUERIES = [
     ("functional food trend", "en", "US", "US:en"),
     ("nutraceutical market", "en", "US", "US:en"),
     ("plant-based food trend", "en", "US", "US:en"),
@@ -62,7 +86,13 @@ GOOGLE_NEWS_QUERIES = [
 ]
 
 # 업계 전문매체 RSS - 실제 접속해 <item> 존재까지 확인한 URL만 등록 (모듈 docstring 참고)
-INDUSTRY_FEEDS = [
+DOMESTIC_INDUSTRY_FEEDS = [
+    ("식품음료신문", "https://www.thinkfood.co.kr/rss/allArticle.xml"),
+    ("식품저널", "https://www.foodnews.co.kr/rss/allArticle.xml"),
+    ("식품외식경제", "https://www.foodbank.co.kr/rss/allArticle.xml"),
+]
+
+FOREIGN_INDUSTRY_FEEDS = [
     ("just-food", "https://www.just-food.com/feed"),
     ("Food Dive", "https://www.fooddive.com/feeds/news/"),
     ("Nutritional Outlook", "https://www.nutritionaloutlook.com/rss.xml"),
@@ -84,6 +114,15 @@ TRADE_OPPORTUNITY_KEYWORDS = [
     "import demand", "export demand", "tariff", "관세", "mou",
     "무역관", "trade mission", "distributor wanted", "import ban",
     "export ban",
+]
+
+# origin(국내/해외) 버킷 내부에서 상위 노출시킬 기사에 주는 가산점 키워드.
+# 반드시 priority_bonus() 내부에서만 참조한다 - is_relevant()의 관련도
+# 판정과는 별개의 부가 스코어이며, 다른 곳에서 직접 매칭하지 않는다.
+DOMESTIC_PRIORITY_KEYWORDS = ["칼럼", "사설", "기고", "리포트", "보고서", "연구"]
+FOREIGN_PRIORITY_KEYWORDS = [
+    "regulation", "compliance", "fda", "eu", "tariff", "관세", "규정",
+    "trend", "트렌드",
 ]
 
 
@@ -120,6 +159,49 @@ def is_relevant(title, summary):
         return True, "trade_opportunity", trade_hits
 
     return False, None, 0
+
+
+def priority_bonus(origin, title, summary):
+    """
+    origin 버킷 내부 정렬용 가산점 단일 authority.
+
+    국내 기사는 칼럼/사설/기고/리포트/보고서/연구가 제목·요약에 포함되면,
+    해외 기사는 규제(regulation/compliance/FDA/EU/tariff/관세/규정)나
+    트렌드(trend/트렌드) 관련 표현이 포함되면 가산점을 받는다. is_relevant()
+    의 관련도 판정과는 무관한 별도 스코어이며, 이 함수 밖에서 같은 키워드를
+    다시 매칭하는 코드를 추가하지 않는다.
+    """
+    text = f"{title} {summary or ''}".lower()
+    keywords = DOMESTIC_PRIORITY_KEYWORDS if origin == "domestic" else FOREIGN_PRIORITY_KEYWORDS
+
+    bonus = 0
+    for kw in keywords:
+        pattern = r"\b" + re.escape(kw.lower()) + r"\b"
+        if re.search(pattern, text, flags=re.UNICODE):
+            bonus += 1
+    return bonus
+
+
+def is_fresh(published_date, run_date, max_age_days=2):
+    """
+    신선도 판정 단일 authority.
+
+    published_date("YYYY-MM-DD" 문자열)가 run_date(실행일, date 객체) 기준
+    max_age_days일보다 오래됐으면 False. RSS 소스별 파싱 지연을 감안해
+    1일이 아닌 2일을 기본 버퍼로 둔다. published_date가 없거나 파싱 불가능한
+    경우, 신선하다고 잘못 통과시키는 쪽보다 안전하게 탈락(False) 처리한다.
+
+    main()에서 최종 후보 리스트(relevant)를 만드는 단 한 곳에서만 호출한다
+    - 이전에 관련도 판정 로직이 여러 곳에 중복 구현됐던 버그와 같은 실수를
+    반복하지 않기 위함.
+    """
+    if not published_date:
+        return False
+    try:
+        pub = datetime.strptime(published_date, "%Y-%m-%d").date()
+    except ValueError:
+        return False
+    return (run_date - pub).days <= max_age_days
 
 
 FETCH_ERRORS = []  # 소스별 fetch 예외 기록 - 빈 결과와 구분하기 위함
@@ -166,9 +248,9 @@ def _fetch_feed(url):
     return feedparser.parse(resp.content)
 
 
-def fetch_google_news():
+def fetch_google_news(queries, origin):
     items = []
-    for query, hl, gl, ceid in GOOGLE_NEWS_QUERIES:
+    for query, hl, gl, ceid in queries:
         url = f"https://news.google.com/rss/search?q={quote(query)}&hl={hl}&gl={gl}&ceid={ceid}"
         try:
             feed = _fetch_feed(url)
@@ -197,13 +279,14 @@ def fetch_google_news():
                 # Google News의 description은 제목을 감싼 HTML anchor뿐이라
                 # 실질적인 요약이 아니므로 비워둔다.
                 "summary": "",
+                "origin": origin,
             })
     return items
 
 
-def fetch_industry_feeds():
+def fetch_industry_feeds(feeds, origin):
     items = []
-    for name, url in INDUSTRY_FEEDS:
+    for name, url in feeds:
         try:
             feed = _fetch_feed(url)
         except Exception as e:
@@ -225,6 +308,7 @@ def fetch_industry_feeds():
                 "source": name,
                 "published_date": _parse_published(entry),
                 "summary": summary,
+                "origin": origin,
             })
     return items
 
@@ -242,7 +326,12 @@ def dedupe_by_url(items):
 
 
 def main():
-    raw_items = fetch_google_news() + fetch_industry_feeds()
+    raw_items = (
+        fetch_google_news(DOMESTIC_GOOGLE_NEWS_QUERIES, "domestic")
+        + fetch_google_news(FOREIGN_GOOGLE_NEWS_QUERIES, "foreign")
+        + fetch_industry_feeds(DOMESTIC_INDUSTRY_FEEDS, "domestic")
+        + fetch_industry_feeds(FOREIGN_INDUSTRY_FEEDS, "foreign")
+    )
     raw_items = [it for it in raw_items if it["title"] and it["url"]]
 
     if not raw_items:
@@ -257,14 +346,19 @@ def main():
         )
         return
 
+    run_date = datetime.now(timezone.utc).date()
+
     relevant = []
     for raw in raw_items:
         ok, category, score = is_relevant(raw["title"], raw["summary"])
         if not ok:
             continue
+        # 최종 후보 리스트를 만드는 단 한 곳 - 신선도 필터는 여기서만 호출한다.
+        if not is_fresh(raw["published_date"], run_date):
+            continue
         item = dict(raw)
         item["category"] = category
-        item["keyword_score"] = score
+        item["keyword_score"] = score + priority_bonus(raw["origin"], raw["title"], raw["summary"])
         relevant.append(item)
 
     relevant = dedupe_by_url(relevant)
@@ -281,9 +375,12 @@ def main():
 
     wellness_n = sum(1 for it in relevant if it["category"] == "wellness_trend")
     trade_n = sum(1 for it in relevant if it["category"] == "trade_opportunity")
+    domestic_n = sum(1 for it in relevant if it["origin"] == "domestic")
+    foreign_n = sum(1 for it in relevant if it["origin"] == "foreign")
     print(
-        f"[OK] {len(relevant)}건 저장 (원본 {len(raw_items)}건 중 관련도 필터 통과, "
-        f"wellness_trend {wellness_n} / trade_opportunity {trade_n}) -> {OUT_PATH}"
+        f"[OK] {len(relevant)}건 저장 (원본 {len(raw_items)}건 중 관련도+신선도 필터 통과, "
+        f"wellness_trend {wellness_n} / trade_opportunity {trade_n}, "
+        f"domestic {domestic_n} / foreign {foreign_n}) -> {OUT_PATH}"
     )
     if FETCH_ERRORS:
         print(f"[WARN] 일부 소스 fetch 실패(다른 소스로 대체 진행됨): {', '.join(FETCH_ERRORS)}", file=sys.stderr)
