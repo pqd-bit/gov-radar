@@ -42,6 +42,7 @@ RSS로 수집해 docs/data/news.json 으로 저장한다.
 출력:
   docs/data/news.json
 """
+import difflib
 import json
 import re
 import sys
@@ -204,6 +205,82 @@ def is_fresh(published_date, run_date, max_age_days=2):
     return (run_date - pub).days <= max_age_days
 
 
+NEAR_DUP_SIMILARITY_THRESHOLD = 0.75
+
+# 제목 맨 앞의 "[식음료브리핑]", "[단독]", "(속보)" 류 대괄호/괄호 접두어를
+# 하나 이상 연속으로 제거한다. _normalize_title() 전용.
+_LEADING_BRACKET_TAGS_RE = re.compile(r"^(?:\s*[\[(][^\]\)]{0,40}[\]\)])+\s*")
+# "서울=", "부산=" 같은 매체 바이라인 접두어. _normalize_title() 전용.
+_BYLINE_PREFIX_RE = re.compile(r"^[가-힣A-Za-z0-9·]{1,12}=\s*")
+_QUOTE_BRACKET_CHARS_RE = re.compile(r"[\"'“”‘’「」『』()\[\]{}〈〉《》<>]")
+_PUNCT_TO_SPACE_RE = re.compile(r"[,.\-–—:;!?~·|]")
+
+
+def _normalize_title(title):
+    """
+    dedupe_near_duplicates() 전용 제목 정규화 헬퍼. 이 함수 밖에서 근접중복
+    판정을 위한 별도 정규화 로직을 새로 만들지 말 것.
+    """
+    text = title or ""
+    text = _LEADING_BRACKET_TAGS_RE.sub("", text)
+    text = _BYLINE_PREFIX_RE.sub("", text)
+    text = text.replace("…", " ")
+    text = re.sub(r"\.{2,}", " ", text)
+    text = text.lower()
+    text = _QUOTE_BRACKET_CHARS_RE.sub("", text)
+    text = _PUNCT_TO_SPACE_RE.sub(" ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def dedupe_near_duplicates(articles):
+    """
+    제목 유사도 기반 근접중복 제거 단일 authority.
+
+    동일 보도자료가 매체명만 바뀐 채 여러 곳에 그대로 게재되면 URL은
+    달라도 사실상 같은 기사가 된다 - URL 기준 중복방지(dedupe_by_url,
+    news_sent.json)로는 못 잡는 케이스다. 제목을 정규화한 뒤
+    difflib.SequenceMatcher로 유사도를 계산해 NEAR_DUP_SIMILARITY_THRESHOLD
+    이상이면 같은 클러스터로 묶고, 클러스터당 1건만 남긴다.
+
+    main()에서 is_fresh() 필터 통과 직후, URL 기준 중복 제거 이전에 단 한
+    번만 호출한다. 근접중복 판정 로직을 다른 곳에 별도로 만들지 말 것
+    (관련도 판정이 여러 곳에 흩어졌던 과거 실수를 반복하지 않기 위함).
+
+    클러스터 내에서 남길 기사 선택 기준:
+      (a) published_date가 가장 이른 것
+      (b) 같으면 summary가 더 긴 것 (정보량이 많다고 가정)
+      (c) 그래도 같으면 source 이름 사전순으로 첫 번째
+    """
+    normalized_titles = [_normalize_title(a.get("title")) for a in articles]
+
+    clusters = []  # list[list[int]] - 원본 인덱스 리스트
+    for idx, norm in enumerate(normalized_titles):
+        target_cluster = None
+        for cluster in clusters:
+            if any(
+                difflib.SequenceMatcher(None, norm, normalized_titles[member]).ratio()
+                >= NEAR_DUP_SIMILARITY_THRESHOLD
+                for member in cluster
+            ):
+                target_cluster = cluster
+                break
+        if target_cluster is not None:
+            target_cluster.append(idx)
+        else:
+            clusters.append([idx])
+
+    def _keep_key(idx):
+        art = articles[idx]
+        return (
+            art.get("published_date") or "9999-99-99",
+            -len(art.get("summary") or ""),
+            art.get("source") or "",
+        )
+
+    return [articles[min(cluster, key=_keep_key)] for cluster in clusters]
+
+
 FETCH_ERRORS = []  # 소스별 fetch 예외 기록 - 빈 결과와 구분하기 위함
 
 
@@ -361,6 +438,13 @@ def main():
         item["keyword_score"] = score + priority_bonus(raw["origin"], raw["title"], raw["summary"])
         relevant.append(item)
 
+    # 신선도 필터 통과 직후, URL 기준 중복 제거보다 먼저 근접중복(제목
+    # 유사도 기반)을 제거한다 - 매체만 바뀐 동일 보도자료가 URL 중복방지를
+    # 통과해 개별 기사로 남는 것을 여기서 잡는다.
+    before_near_dup = len(relevant)
+    relevant = dedupe_near_duplicates(relevant)
+    near_dup_removed = before_near_dup - len(relevant)
+
     relevant = dedupe_by_url(relevant)
     relevant.sort(key=lambda x: x.get("published_date") or "0000-00-00", reverse=True)
 
@@ -379,6 +463,7 @@ def main():
     foreign_n = sum(1 for it in relevant if it["origin"] == "foreign")
     print(
         f"[OK] {len(relevant)}건 저장 (원본 {len(raw_items)}건 중 관련도+신선도 필터 통과, "
+        f"근접중복 제거 {near_dup_removed}건, "
         f"wellness_trend {wellness_n} / trade_opportunity {trade_n}, "
         f"domestic {domestic_n} / foreign {foreign_n}) -> {OUT_PATH}"
     )
