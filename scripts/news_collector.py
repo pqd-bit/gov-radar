@@ -281,6 +281,181 @@ def dedupe_near_duplicates(articles):
     return [articles[min(cluster, key=_keep_key)] for cluster in clusters]
 
 
+ENTITY_DUP_DATE_WINDOW_DAYS = 3
+
+# 따옴표(직선/곡선/한글 낫표)로 감싼 제품명/브랜드명. 최소 2자 이상만 인정해
+# 노이즈를 줄인다. _extract_entities() 전용.
+_QUOTED_ENTITY_RE = re.compile(r"['\"‘’“”「」『』]([^'\"‘’“”「」『』]{2,20})['\"‘’“”「」『』]")
+# "OO그룹" 표기. _extract_entities() 전용.
+_GROUP_SUFFIX_RE = re.compile(r"[가-힣A-Za-z0-9]{1,10}그룹")
+# "㈜OOO" / "OOO㈜" / "OOO 주식회사" 표기. _extract_entities() 전용.
+_CORP_MARK_RE = re.compile(r"㈜\s*[가-힣A-Za-z0-9]{1,10}|[가-힣A-Za-z0-9]{1,10}\s*㈜")
+_JUSIKHOESA_RE = re.compile(r"[가-힣A-Za-z0-9]{1,10}\s*주식회사")
+# "OO사" 표기 - 뒤에 조사/구두점/문장 끝이 와야 온전한 단어로 인정한다.
+_SA_SUFFIX_RE = re.compile(r"[가-힣]{2,6}사(?=[\s,.·’”\"')]|$)")
+# 영문 대문자로 시작하는 고유명사(1~4단어 연속 Title Case). _extract_entities() 전용.
+_ENGLISH_PROPER_NOUN_RE = re.compile(r"\b[A-Z][A-Za-z0-9&.]*(?:\s+[A-Z][A-Za-z0-9&.]*){0,3}\b")
+# 한국 뉴스 제목 관용구: 맨 앞 "회사명," 패턴 (대괄호 접두어는 먼저 제거).
+_LEADING_ENTITY_COMMA_RE = re.compile(r"^([A-Za-z가-힣0-9&·]{1,12}),")
+
+# "OO사" 패턴에서 걸러야 하는 일반 명사(회사 고유명사가 아닌 통칭/역할어).
+# 이 목록에 없는 나머지 "OO사" 매치까지 전부 진짜 회사명이라는 보장은 없지만
+# (완벽한 NER이 아닌 휴리스틱이므로), 뉴스 제목에 실제로 자주 나오는 통칭은
+# 걸러 오탐(false positive) 위험을 낮춘다.
+_GENERIC_SA_WORDS = {
+    "기사", "행사", "회사", "이사", "조사", "검사", "감사", "역사", "강사", "교사",
+    "관계사", "계열사", "협력사", "제조사", "유통사", "판매사", "수출사", "수입사",
+    "운영사", "시행사", "대행사", "물류사", "광고사", "여행사", "항공사", "보험사",
+    "증권사", "방송사", "신문사", "통신사", "건설사", "참가사", "참여사", "발주사",
+    "하청사", "원청사", "계약사", "관련사", "소속사", "당사", "타사", "자사", "귀사",
+    "본사", "지사", "출판사", "잡지사",
+}
+
+# 영문 고유명사 후보에서 걸러야 하는 일반어/약어. _extract_entities() 전용.
+_ENGLISH_STOPWORDS = {
+    "THE", "THIS", "THAT", "THESE", "THOSE", "WHAT", "HOW", "WHY", "WHEN",
+    "WHERE", "WHO", "NEW", "GLOBAL", "WORLD", "KOREA", "KOREAN", "SOUTH",
+    "NORTH", "MOU", "SCI", "FDA", "EU", "US", "UK", "CEO", "IPO", "ESG",
+    "GDP", "AI", "IT", "API", "PR", "IR", "R", "D", "CES", "NEWS", "REPORT",
+    "B2B", "B2C", "USDA", "WTO", "OECD",
+}
+
+# 이름 하나만으로는 특정 사건을 식별하는 신호가 되지 못하는 대형 공공기관/
+# 무역진흥기관. aT(한국농수산식품유통공사), KOTRA(대한무역투자진흥공사)는
+# 하루에도 서로 무관한 여러 사건에 대해 각각 보도자료를 내므로, 이름만
+# 일치한다고 같은 사건으로 묶으면 완전히 다른 기사가 잘못 묶인다(실제
+# news.json 검증에서 "aT" 하나로 인도 K-푸드페어 기사와 한우·한돈 싱가포르
+# 기사가, "KOTRA" 하나로 덴마크 해조류 시장과 파라과이 라면 시장 동향
+# 기사가 잘못 묶이는 것을 확인함). _extract_entities() 전용.
+_LOW_SIGNAL_INSTITUTIONS = {"at", "kotra"}
+
+
+def _normalize_for_feed_match(text):
+    return re.sub(r"[^0-9a-z가-힣]", "", text.casefold())
+
+
+# 업계 전문매체 RSS의 "appeared first on Just Food ." 같은 피드 자체
+# boilerplate 문구가 영문 고유명사 정규식에 걸려 매체 시그니처가 개체명으로
+# 오인식되는 것을 막는다 - 등록된 피드 이름과 일치하면 제외한다.
+# _extract_entities() 전용.
+_FEED_SOURCE_NAMES_NORMALIZED = {
+    _normalize_for_feed_match(name)
+    for name, _url in DOMESTIC_INDUSTRY_FEEDS + FOREIGN_INDUSTRY_FEEDS
+}
+
+
+def _extract_entities(title, summary):
+    """
+    dedupe_by_entity() 전용 개체명(회사/브랜드/제품명) 추출 헬퍼.
+
+    완벽한 NER이 아닌 휴리스틱이다: 따옴표로 묶인 제품명, "OO그룹"/"㈜OOO"/
+    "OOO 주식회사"/"OO사" 회사 표기, 영문 대문자 시작 고유명사, 제목 맨 앞
+    "회사명," 관용구를 정규식으로 뽑는다. 매칭 결과는 대소문자/공백을
+    정규화(casefold + strip)해 반환하므로 호출 측에서 다시 정규화하지 않는다.
+    """
+    text = f"{title or ''} {summary or ''}"
+    entities = set()
+
+    for m in _QUOTED_ENTITY_RE.finditer(text):
+        entities.add(m.group(1))
+
+    for m in _GROUP_SUFFIX_RE.finditer(text):
+        entities.add(m.group(0))
+
+    for m in _CORP_MARK_RE.finditer(text):
+        entities.add(m.group(0).replace("㈜", "").strip())
+
+    for m in _JUSIKHOESA_RE.finditer(text):
+        entities.add(m.group(0))
+
+    for m in _SA_SUFFIX_RE.finditer(text):
+        word = m.group(0)
+        if word not in _GENERIC_SA_WORDS:
+            entities.add(word)
+
+    for m in _ENGLISH_PROPER_NOUN_RE.finditer(text):
+        word = m.group(0).strip()
+        if len(word) >= 2 and word.upper() not in _ENGLISH_STOPWORDS:
+            entities.add(word)
+
+    lead_text = _LEADING_BRACKET_TAGS_RE.sub("", title or "")
+    m = _LEADING_ENTITY_COMMA_RE.match(lead_text)
+    if m:
+        entities.add(m.group(1))
+
+    normalized = {e.strip().casefold() for e in entities if e.strip()}
+    normalized -= _LOW_SIGNAL_INSTITUTIONS
+    normalized = {
+        e for e in normalized
+        if _normalize_for_feed_match(e) not in _FEED_SOURCE_NAMES_NORMALIZED
+    }
+    return normalized
+
+
+def dedupe_by_entity(articles):
+    """
+    개체명(회사/브랜드/제품명) + 발행일 근접 기반 근접중복 제거 단일 authority.
+
+    dedupe_near_duplicates()는 제목 문자열 자체의 유사도(0.75 이상)만 잡는다.
+    매체마다 헤드라인을 독자적으로 재작성해 제목 유사도가 낮게 나오더라도,
+    같은 회사/브랜드/제품을 다루는 기사가 ENTITY_DUP_DATE_WINDOW_DAYS(3일)
+    이내에 몰려 있으면 같은 사건으로 간주해 여기서 추가로 잡는다.
+
+    main()에서 dedupe_near_duplicates() 직후, dedupe_by_url() 이전에 단 한
+    번만 호출한다. 개체명 추출/판정 로직을 다른 곳에 새로 만들지 말 것
+    (관련도 판정이 여러 곳에 흩어졌던 과거 실수를 반복하지 않기 위함).
+
+    같은 개체명이 매칭되는 기사가 2건 이상이고 서로 published_date가 3일
+    이내면 하나의 클러스터로 묶어 summary가 가장 긴(정보량이 많다고 가정하는)
+    1건만 남긴다. 개체명이 하나도 추출되지 않거나 published_date가 없는/
+    파싱 불가능한 기사는 클러스터링 대상에서 제외하고 그대로 남긴다(과매칭
+    방지를 위해 신호가 없으면 병합하지 않는 쪽을 택함).
+    """
+    entity_sets = [_extract_entities(a.get("title"), a.get("summary")) for a in articles]
+
+    dates = []
+    for a in articles:
+        try:
+            dates.append(datetime.strptime(a.get("published_date") or "", "%Y-%m-%d").date())
+        except ValueError:
+            dates.append(None)
+
+    n = len(articles)
+    parent = list(range(n))
+
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    def union(x, y):
+        rx, ry = find(x), find(y)
+        if rx != ry:
+            parent[ry] = rx
+
+    for i in range(n):
+        if not entity_sets[i] or dates[i] is None:
+            continue
+        for j in range(i + 1, n):
+            if not entity_sets[j] or dates[j] is None:
+                continue
+            if abs((dates[i] - dates[j]).days) > ENTITY_DUP_DATE_WINDOW_DAYS:
+                continue
+            if entity_sets[i] & entity_sets[j]:
+                union(i, j)
+
+    clusters = {}
+    for idx in range(n):
+        clusters.setdefault(find(idx), []).append(idx)
+
+    kept = []
+    for member_idxs in clusters.values():
+        best_idx = max(member_idxs, key=lambda i: len(articles[i].get("summary") or ""))
+        kept.append(articles[best_idx])
+    return kept
+
+
 FETCH_ERRORS = []  # 소스별 fetch 예외 기록 - 빈 결과와 구분하기 위함
 
 
@@ -445,6 +620,12 @@ def main():
     relevant = dedupe_near_duplicates(relevant)
     near_dup_removed = before_near_dup - len(relevant)
 
+    # 제목 유사도로는 못 잡는, 매체마다 헤드라인을 다르게 재작성한 근접중복을
+    # 개체명(회사/브랜드/제품명) + 발행일 근접 기준으로 추가 제거한다.
+    before_entity_dup = len(relevant)
+    relevant = dedupe_by_entity(relevant)
+    entity_dup_removed = before_entity_dup - len(relevant)
+
     relevant = dedupe_by_url(relevant)
     relevant.sort(key=lambda x: x.get("published_date") or "0000-00-00", reverse=True)
 
@@ -463,7 +644,7 @@ def main():
     foreign_n = sum(1 for it in relevant if it["origin"] == "foreign")
     print(
         f"[OK] {len(relevant)}건 저장 (원본 {len(raw_items)}건 중 관련도+신선도 필터 통과, "
-        f"근접중복 제거 {near_dup_removed}건, "
+        f"제목 근접중복 제거 {near_dup_removed}건, 개체명 근접중복 제거 {entity_dup_removed}건, "
         f"wellness_trend {wellness_n} / trade_opportunity {trade_n}, "
         f"domestic {domestic_n} / foreign {foreign_n}) -> {OUT_PATH}"
     )
