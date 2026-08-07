@@ -1,11 +1,271 @@
 {
-  "generated_at": "2026-08-05T23:12:56.995041Z",
-  "count": 91,
+  "generated_at": "2026-08-07T01:32:48.784306Z",
+  "count": 60,
   "items": [
     {
-      "title": "\"11억원 건강 나눔\"… 종근당건강, 취약계층에 건강기능식품 7만개 지원",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wY2h5NWpPUVNNOFF4M3BlMVVXRWxDY3B2OTAyRkE4OFA1N1N3c3JSc2xlZHdJelNQWjNYNzZfNHk3U2VNMTdqOU5ncVgycGxiN0hDRWNoSEUzZnhjNzYwY3R4NXRrTnot?oc=5",
-      "source": "한국NGO신문",
+      "title": "hy, 프로바이오틱스 'HP7' 장 건강 연구 SCI 국제학술지 게재",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EZEJNdFdLUl9mSS02V2sxS3hISXFxNF8wNGVqSi13WVZpSENQal9vbWxmRVZPMzFVY2trVGtjZlo0aGRkYmhRWWczTGVBUQ?oc=5",
+      "source": "전자신문",
+      "published_date": "2026-08-07",
+      "summary": "",
+      "origin": "domestic",
+      "category": "wellness_trend",
+      "keyword_score": 3
+    },
+    {
+      "title": "[식음료브리핑] hy 프로바이오틱스 연구 논문, SCI급 논문 게재 외",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwcjhvZnJoOVRVSnZKeHdMSm5FTUhkTW51M1B0ZWQ2UjBMVENqLTY5TXg3eUliaGw3NHRKWEE5SjdrTzBlYl9yY2tfTGdPZGdPbHlPZlRZWDBEeEhZRF9PaUZYYWRQaFI0Y1E?oc=5",
+      "source": "seoulfn.com",
+      "published_date": "2026-08-07",
+      "summary": "",
+      "origin": "domestic",
+      "category": "wellness_trend",
+      "keyword_score": 2
+    },
+    {
+      "title": "hy, 프로바이오틱스 'HP7' 장운동 연구 국제학술지 게재",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OcWdhSktUMFQtRzhPN1JMYlpPblVFa3B3RVZwTXBVSTVkejhKS0dnYUhhbnFxUExHd3N6Y05TUnNyOXA4NzVBSloyUTNmajl0bkd4TWRLRVl0X0dFRHE2RmxrYjZlOW5zLTQzRg?oc=5",
+      "source": "뉴스락",
+      "published_date": "2026-08-07",
+      "summary": "",
+      "origin": "domestic",
+      "category": "wellness_trend",
+      "keyword_score": 2
+    },
+    {
+      "title": "hy, 프로바이오틱스 'HP7' 장 건강 연구 논문 SCI급 국제학술지 게재",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoa0hFd1FpUVN2QTlzTHpxM2l6NjZIekQ2bTJEeFFVbUZKVHVYenEycFRsSXAyd0dvbnVkU19LakNvc1NuQ0Eyc1RMYmdoMEFaODV4U2QtYlEzN0hNZlJybW5KTUNlOUE?oc=5",
+      "source": "청년일보",
+      "published_date": "2026-08-07",
+      "summary": "",
+      "origin": "domestic",
+      "category": "wellness_trend",
+      "keyword_score": 3
+    },
+    {
+      "title": "\"장 운동 살리고 염증 줄였다\"…hy, 특허 프로바이오틱스 'HP7' 연구 결실",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11S3B0akUwckFyT2hEOEZuQzA5OGQ3QWZFa013djRSUzE0VTAzLWVyanEwYzBldHVvRWM3MGwweDUwU0QxbzVXVkFhUDR5al9yU0NnYkFLdHdHOV9RU2dxLQ?oc=5",
+      "source": "네이트",
+      "published_date": "2026-08-07",
+      "summary": "",
+      "origin": "domestic",
+      "category": "wellness_trend",
+      "keyword_score": 2
+    },
+    {
+      "title": "hy, 특허 유산균 'HP7' 장 건강 효능 입증…국제학술지 게재",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tUEZBNVdWZXN1UXUyZHRvX3psM3B0bHdxQjltYm94eUFyN2xwMEZpZ0tkOXRuSWpoTUtYTlFaS2NVQjdfcFlRRnQxcGUtRkxrU3d0WExGaUkzZVhTSzdzX0dtbEY?oc=5",
+      "source": "포쓰저널",
+      "published_date": "2026-08-07",
+      "summary": "",
+      "origin": "domestic",
+      "category": "wellness_trend",
+      "keyword_score": 1
+    },
+    {
+      "title": "하동군, 희창물산㈜와 300만 불 수출 협약 체결",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iQUhWQ25ocjFrelFGOEZCMDhUZHFoMlpNMVRiWkIwYmE4Tngza3JaR3cxMEZFY0xmVTQtWjl3QS1hQU9GSkRwbnNHeU1kU1g2c21vQzE5Rk12NmVudVVBa0Q5dw?oc=5",
+      "source": "경남도민뉴스",
+      "published_date": "2026-08-07",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "해썹인증원, 마늘연합협의회와 단순처리 농수산물 안전성 확보 MOU",
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119667",
+      "source": "식품저널",
+      "published_date": "2026-08-07",
+      "summary": "한국식품안전관리인증원(원장 한상배)은 6일 영천 신녕농협마늘출하조절센터에서 마늘전국연합협의회(회장 이구권)와 단순처리 농수산물 위생관리 수준 향상을 위한 업무협약(MOU)을 체결했다.단순처리 농수산물은 자연 상태 농수산물을 세척, 절단, 탈피, 건조 등 최소한의 공정만 거쳐 원물 형태를 유지한 제품으로, 생산 현장의 자율적인 위생관리 체계 구축이 중요하다.이에 해썹인증원은 식품의약품안전처와 함께 단순처리 농수산물의 안전성을...",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "hy, 특허 균주 ‘HP7’ 위 이어 장까지 연구 확장…국제학술지 논문 게재",
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119666",
+      "source": "식품저널",
+      "published_date": "2026-08-07",
+      "summary": "hy가 특허 프로바이오틱스 ‘HP7(Lacticaseibacillus paracasei HP7)'이 위 건강에 이어 장운동과 장장벽 개선에도 효과가 있음을 입증하며 SCI급 국제학술지에 7번째 연구 논문을 올렸다.HP7은 hy가 개발해 균주번호를 부여한 김치 유래 프로바이오틱스로, 주요 제품에 적용 중이다. 국제학술지 JMB(Journal of Microbiology and Biotechnology)에 게재된 이번 논문은...",
+      "origin": "domestic",
+      "category": "wellness_trend",
+      "keyword_score": 2
+    },
+    {
+      "title": "떡국떡·떡볶이떡 제조업, ‘생계형 적합업종’ 재지정…5년간 대기업 인수‧확장 원칙적 제한",
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119664",
+      "source": "식품저널",
+      "published_date": "2026-08-07",
+      "summary": "떡국떡·떡볶이떡 제조업이 ‘생계형 적합업종’으로 재지정돼 향후 5년간 대기업의 진출이 원칙적으로 제한된다. 다만, 대기업이 수출 목적으로 생산하거나 중소기업 OEM‧국내산 쌀 또는 국내산 밀로 생산, 판매하는 경우 등은 제한 없이 출하할 수 있다.중소벤처기업부는 6일 생계형 적합업종 심의위원회를 열고, 떡국떡‧떡볶이떡 제조업을 생계형 적합업종으로 재지정하기로 심의‧의결했다.생계형 적합업종 제도는 2018년 제정된 소상공인...",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "hy 프로바이오틱스 'HP7' 연구 논문, SCI급 국제학술지 게재",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5adUc0UFBLMGJSOWxkRVFFb29qemJMcHJ2ejhSMEoxUzUzRDNXMDgyci1tRllMRmdMRF9GM2JDRmhqdllFUW1UTHpqS285MW41WXZhWTVuYjNZVEF2bWZV?oc=5",
+      "source": "뉴스1",
+      "published_date": "2026-08-06",
+      "summary": "",
+      "origin": "domestic",
+      "category": "wellness_trend",
+      "keyword_score": 2
+    },
+    {
+      "title": "마더네스트, 신유빈 앞세운 '쿨멜팅 100억 생유산균 프로바이오틱스' 출시",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41ZS02VnQ5YWZQQ1FnVWN1YVk4alprSVNVTDJNZ2NEWm5QaXZTTFZ3OTVSTk1ieENhUmFUNGhmeHBVNnlEQkJMelpleVBOc19aMXhhSUNHLVp3VnlSRmF3aw?oc=5",
+      "source": "네이트",
+      "published_date": "2026-08-06",
+      "summary": "",
+      "origin": "domestic",
+      "category": "wellness_trend",
+      "keyword_score": 1
+    },
+    {
+      "title": "동정/ 남재헌 차관, 수산식품 수출업계 첫 간담회…물류비·관세 애로 해법 모색",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92Znowai1TTjVsLUUtUGpHQURNNzJ1MHV6a3VNU3AzT2FmQ3pjbmMwQVR3cHRsbER0YmhiUVZ3WmM4SlRDQW1nOHhVV1Z2NUpqdmg3R2l3R09jUllyN2xsRDRSa0d5S3pqMmtZ?oc=5",
+      "source": "해사신문",
+      "published_date": "2026-08-06",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "새만금 수산식품단지 두 배 확장…K-씨푸드 수출 전진기지 속도",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBacGkzTnczM3dMalVoMWZ2NktVbUljQXFkSDFSTWk1RnJSUkFmUmtWdE5WOUc1bXFXcHpHTnEwRGNsbDdFR3RiaQ?oc=5",
+      "source": "소비자를 위한 신문",
+      "published_date": "2026-08-06",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "함양군, 베트남서 농식품 수출 협약 잇따라 체결",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJNWtTcTJlSWp3UWFEQ1FYOGNvMkR4YlBJNWg2cy1sakJVTGZDeXZ3d3R0Y0Iyb1p2emlCYXRWNXFwbzd2Wl9helJXLXVOUnJ0NHd5MEdCMjFmbE4wdzhTaTBUaU9CZUdzVW5fbdIBbEFVX3lxTFBJNWtTcTJlSWp3UWFEQ1FYOGNvMkR4YlBJNWg2cy1sakJVTGZDeXZ3d3R0Y0Iyb1p2emlCYXRWNXFwbzd2Wl9helJXLXVOUnJ0NHd5MEdCMjFmbE4wdzhTaTBUaU9CZUdzVW5fbQ?oc=5",
+      "source": "바른지역언론연대",
+      "published_date": "2026-08-06",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "함양군, 베트남 유통망 넓혀 농식품 수출 기반 강화",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93bFN0TGpjQTNZT05pdHFtUnVBTDVDUHh3aTlvN19JaHZPLXZhU19LT2tPaUdYdWh2cWZqQVhQMkhKZjlEYjEyaTlteHZPSE9oV09DY1hDLUlHakw0T010OW12NlN3eW50dmFvVjFn0gFyQVVfeXFMT1NxMno3RVhVV08wcERYV0hSZTRXRExEWlNRTkJLZUY3aXVQbGdmNHVwbk5rZFY5RXdSTDBVYmdsTjBWZEJkbjQ2UkFtLWtBcERxVHE4bEtqczlvOWI3dVBCR1pZQjhpa1QyZV8xZUFpY1d3?oc=5",
+      "source": "폴리뉴스 Polinews",
+      "published_date": "2026-08-06",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "함양군, 지역 농식품 베트남 수출 확대 '시동'",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5odVEzLU1NcWRxMk12bHplNEc4ODFPQmgyS0xtM25CdUx4dmRjdE5BaHU2dkZqSkJibGotaXB3cV90RmtLZFFrR1hZdXd2Z3FGZkJTdzJTQmxwbmNMcDVxOTQzY1VpbVpWWUE?oc=5",
+      "source": "gnmaeil.com",
+      "published_date": "2026-08-06",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "\"해외 바이어 만나면 제품 설명은 참으세요\"",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zUENkVWI2clpCTEdmT215SFJOSWtLcmxKM056dnRWdmRfQXQ0MlBTRHhwY1VhWW0xSVdNTl9ObXRYUnpOLUE?oc=5",
+      "source": "mk.co.kr",
+      "published_date": "2026-08-06",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "GX(그린전환) 시대, K-그린테크에 해외 바이어 발길 코트라, 그린에너텍 전시회 연계 수출상담회 개최",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MVFRyQndtcGhSOExrUW1OZXBfQ1lPQlFhcGg3MHFVTTd4WkhLZkRiVTI4TERnbWZCU2E3blBMOXlIaXhTcGc3cUF0YUZobE5TN2c0ME02aGFQWWJsMDNoWlh4Y01yT1k?oc=5",
+      "source": "dhns.co.kr",
+      "published_date": "2026-08-06",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "“K-그린테크 찾아 삼만리”…세르비아 등 해외 바이어 대거 방한",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yM1JHNkg1N0VnMXZRdjFqV2JBbzMyam80QVNMUzQxeHBOUUVwQ29uanpWNXJZdjBiblM5QmsxcVg5T3d6bXA1OFZ3V0tLLUt1Rm9r0gFTQVVfeXFMTXIzUkc2SDU3RWcxdlF2MWpXYkFvMzJqbzRBU0xTNDF4cE5RRXBDb25qelY1cll2MGJuUzlCazFxWDlPd3ptcDU4VndXS0stS3VGb2s?oc=5",
+      "source": "서울경제",
+      "published_date": "2026-08-06",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "\"해외 바이어, K-그린테크 찾아 인천으로\"...코트라, 그린에너텍 연계 수출상담회 개최",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByaGdMUzE3ZEhoZTRMMXFXbXVyaTNQNTE0cnBvMUVhRnNuVE1pbnJnc2NOTF8wYkwybldZZ0dzcm8yTkNsWm9FQks4NFFyR0N4U0VBUE5OaEFjQQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "published_date": "2026-08-06",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "코트라, 인천 송도서 해외 바이어 초청 그린기술 수출 상담",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IUWhUbDB6RVU3eE1meFNScnV1LXBWaUVJeUJuUHpBQW1rRS15UC1XWFB3TTlyR2xoLUNOcndWQmE2TDJxbFVGOG5uM2VYZGdaRk1yeUhKRzBjUDlrQUw4aXZfRHc0WHg1eWh1YUNGY2NWTnPSAXdBVV95cUxOVWhZYW5vSFVqWGdaTUl3cjhrNDBRM0h2X0Y0M2VWVmthbVZZQ3BYay04bTJ1U1l3RTB6RzlkSExPUl91YXZRSl9NLWwzU0V3YlhOclJVX1lDNzlBV0Q4OC1xVEsxa09PcFJvWXhOYW9hSUlfaTQ1bw?oc=5",
+      "source": "핀포인트뉴스",
+      "published_date": "2026-08-06",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 2
+    },
+    {
+      "title": "South-Korea Nutraceutical Inspection Systems Market Size, Share,Trends, Growth Analysis Report, 2031",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2hpR2lkYm1KdU1BaWM1cG5YRGNzM2FyNlp2MlZzVkQ0djU2OVlQdmIwQjNjN2EyVl9FTUVXdlh2MXJGSjRSbzVXTXQwQk0tWkpTRjFFQmNrN0lfci02eDI0T0JaQm5Ya3NpMk5Bb3lfVzJlUTFuVGE5bmw2TC1xMjdVRE45Q0FwMUIyM0JBck9mN0RiVjBYVVBiR3pMM2g5WmVzYU1QWmVkN19nMlpv?oc=5",
+      "source": "MarketsandMarkets",
+      "published_date": "2026-08-06",
+      "summary": "",
+      "origin": "foreign",
+      "category": "wellness_trend",
+      "keyword_score": 1
+    },
+    {
+      "title": "인도  뉴델리서 ‘K-푸드페어’ 성료… 14억 소비시장진출 지원",
+      "url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68353",
+      "source": "식품외식경제",
+      "published_date": "2026-08-06",
+      "summary": "농림축산식품부(장관 송미령)와 한국농수산식품유통공사(사장 홍문표, 이하 aT)는 지난달 30일부터 이달 2일까지 인도 뉴델리에서 국내 식품기업의 인도 및 남아시아 시장 진출을 지원하기 위한 ‘2026년 인도 뉴델리 K-푸드페어’를 개최했다.인도는 세계 인구 1위, GDP 규모 4위이자 연평균 약 7% 내외의 높은 경제성장률을 기록 중이다. 최근 K-푸드의 새로운 수출 유망시장으로 떠오르고 있다. aT는 남아시아 권역 수출...",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "Glanbia bulks up forecasts amid protein demand",
+      "url": "https://www.just-food.com/news/irelands-glanbia-bulks-up-forecasts/",
+      "source": "just-food",
+      "published_date": "2026-08-06",
+      "summary": "Glanbia has raised its full-year earnings forecast after what the Irish nutrition group said was a strong first half. The post Glanbia bulks up forecasts amid protein demand appeared first on Just Food .",
+      "origin": "foreign",
+      "category": "wellness_trend",
+      "keyword_score": 1
+    },
+    {
+      "title": "What ‘matcha mania’ means for supply chains",
+      "url": "https://www.foodbev.com/post301/what-matcha-mania-means-for-supply-chains",
+      "source": "FoodBev Media",
+      "published_date": "2026-08-06",
+      "summary": "Frances Musgrave, tea sourcing manager at Finlay Beverages, explores what matcha's drastic rise in popularity means for global tea supply chains.",
+      "origin": "foreign",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "건기식 협회 ‘한-중 건강기능식품 정보교류 세미나’ 참가신청 접수",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81NWhYMDlZcFE0NjBWRTRkQkw1YThZckk3MDZkbHVEZ1J5MW5zdnNrNVBXQUFmYVJmYTZxUVNjUU9uZHZXQVdQZ01CMkREZHVDTnl2bEtjbl8zaXFVa0UxeU5FUVhIUG1GQm9PZjZjejF0VVdBNjVF?oc=5",
+      "source": "헬스오",
       "published_date": "2026-08-05",
       "summary": "",
       "origin": "domestic",
@@ -23,29 +283,29 @@
       "keyword_score": 1
     },
     {
+      "title": "\"11억원 건강 나눔\"… 종근당건강, 취약계층에 건강기능식품 7만개 지원",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wY2h5NWpPUVNNOFF4M3BlMVVXRWxDY3B2OTAyRkE4OFA1N1N3c3JSc2xlZHdJelNQWjNYNzZfNHk3U2VNMTdqOU5ncVgycGxiN0hDRWNoSEUzZnhjNzYwY3R4NXRrTnot?oc=5",
+      "source": "한국NGO신문",
+      "published_date": "2026-08-05",
+      "summary": "",
+      "origin": "domestic",
+      "category": "wellness_trend",
+      "keyword_score": 1
+    },
+    {
+      "title": "종근당건강㈜, 지파운데이션에 11억 원 상당 건강기능식품 기부…국내 취약계층 지원",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PMUJ3LW4yMEktQ0dCa0pLa0x5TEQtWDV1MmlTZ0JMY1dKdkNBdEwyNDc4bmd2eE1JTkgxTzZDMmR3ak1JT1ozaFFQTVdYdy1vcWJmUXN2T2Zsandld2FyeERUalpQNVR1Sk9R?oc=5",
+      "source": "고신뉴스 KNC",
+      "published_date": "2026-08-05",
+      "summary": "",
+      "origin": "domestic",
+      "category": "wellness_trend",
+      "keyword_score": 1
+    },
+    {
       "title": "종근당건강, 지파운데이션에 11억원 상당 건강기능식품 기부",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PSmZtcGZEWERKSFZpNXZTOVdXRm5hR3FzakdFNTVnUTJpSEhaYjVoMi1zQ0VNdzhTOGlKNFhCQ2FheS1IbWk1Q1htUUVqaXhRZEFHN1lSeVlXc2lIWXh4V3E2b3c?oc=5",
       "source": "베타뉴스",
-      "published_date": "2026-08-05",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "전북 취약노인 1,589명에게 폭염 대비 식생활·건강기능식품 긴급 지원",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hcGx1dWdYT3dENEQ1ZThWMFZjd0Fsay1fbUpsU29oZTVBcFNkRlZzT044QTVzTkw1cy1kNDdoZzd3MnA3T0VtRHlZMGNDOUV2QUtDSmpOUWNCTTEyRHY2YTBaU3kwYURmcWVBaXBxc3lUVkF4?oc=5",
-      "source": "글로벌뉴스통신GNA",
-      "published_date": "2026-08-05",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "칼로비스, ‘2026 소비자만족 브랜드 대상’ 다이어트 건강기능식품 부문 1위 수상",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TZGd1WWlneTNNcHR1VTVBOHBaMUdORmJkdkp0SWVOeFBSOE01S0RfeVI5NU9MRUduR2ctd2hFbEJhTHpJa0w3eTl2TVJPeWU5czM1ODl6TEY5MlpveFBIZE5CaDJ3SzN5NURrellqd3BkWUlKRkHSAWZBVV95cUxPM2hrUnFMaXMtODBwZVlzZ2FhZ1huU2laVlBRNms2dHdUOWdGblhyOTFOVk11eHYwUkxrUGdSOWpyNm0zc1RIR1J1Z0dFZFV1eDZLU1dwYWZOREdBdVBTQW1NTVFZYkE?oc=5",
-      "source": "동아일보",
       "published_date": "2026-08-05",
       "summary": "",
       "origin": "domestic",
@@ -63,6 +323,26 @@
       "keyword_score": 1
     },
     {
+      "title": "칼로비스, ‘2026 소비자만족 브랜드 대상’ 다이어트 건강기능식품 부문 1위 수상",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TZGd1WWlneTNNcHR1VTVBOHBaMUdORmJkdkp0SWVOeFBSOE01S0RfeVI5NU9MRUduR2ctd2hFbEJhTHpJa0w3eTl2TVJPeWU5czM1ODl6TEY5MlpveFBIZE5CaDJ3SzN5NURrellqd3BkWUlKRkHSAWZBVV95cUxPM2hrUnFMaXMtODBwZVlzZ2FhZ1huU2laVlBRNms2dHdUOWdGblhyOTFOVk11eHYwUkxrUGdSOWpyNm0zc1RIR1J1Z0dFZFV1eDZLU1dwYWZOREdBdVBTQW1NTVFZYkE?oc=5",
+      "source": "동아일보",
+      "published_date": "2026-08-05",
+      "summary": "",
+      "origin": "domestic",
+      "category": "wellness_trend",
+      "keyword_score": 1
+    },
+    {
+      "title": "전북 취약노인 1,589명에게 폭염 대비 식생활·건강기능식품 긴급 지원",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hcGx1dWdYT3dENEQ1ZThWMFZjd0Fsay1fbUpsU29oZTVBcFNkRlZzT044QTVzTkw1cy1kNDdoZzd3MnA3T0VtRHlZMGNDOUV2QUtDSmpOUWNCTTEyRHY2YTBaU3kwYURmcWVBaXBxc3lUVkF4?oc=5",
+      "source": "글로벌뉴스통신GNA",
+      "published_date": "2026-08-05",
+      "summary": "",
+      "origin": "domestic",
+      "category": "wellness_trend",
+      "keyword_score": 1
+    },
+    {
       "title": "종근당건강, 건강기능식품 7만 개 국내 취약계층에 기부…11억원 규모 나눔",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hVm1mOHNKQWFoQ0NMZF9FM2hVdEhHTzk0MzNWWGg0YUlJd2tjUmlWMFpSdlRqOGtUOHQ1TVNkTG0wN3ZvenF5OGI5MWUxM0dscTBudy0taU1WUWhSTHRQVTYxX2hIZFZKZG5V?oc=5",
       "source": "서울타임즈뉴스",
@@ -73,9 +353,19 @@
       "keyword_score": 1
     },
     {
-      "title": "전북 취약노인 1,589명에 폭염 긴급 지원…식생활용품·건강기능식품 전달",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LMHM2Q0xzUURhSHRUQURYaEpkZ0tLRHAzbk1TclViNDZLVXk0bU00TkV2UDF2Vmdfc3dxTk04b1NoeVBabHVGcnpXblpPSTJwWkVJNFhWS0NFUm9Mc2U2SEN4MGJUc2NJ?oc=5",
-      "source": "투데이안",
+      "title": "중동ㆍ유럽ㆍ남미 입맛 잡은 한식⋯지속성장 열쇠는 ‘현지화’ [K-Food+ 수출 새판 짜기②]",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oM1dvRWlPcThDX0MwaV9yS1RvcVBVbE9rNlNqSnRUOFhubmVSSURubUZGSlZoS1NsRmZlQ1lhalYwN19vVDNzVTRpUUgyM2ZDbU9abzdxdUVEeHV2?oc=5",
+      "source": "supple.kr",
+      "published_date": "2026-08-05",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "지난해 건강기능식품 기능성원료 인정 건수 감소세",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDbUZ5UG1PUVNqT1M3RjE0V2NYenJydFV4V1paeENWUUVsNHJ5RmhrY042ODdmLVlVSEVHMldidUZfQkYwRWxaam5LODZiWndhbnQtSTJjcVVuVTg3X1lMcUtqcHZ2ZjB1WEVQRy0xRWV3S29Jb0lR?oc=5",
+      "source": "헬스오",
       "published_date": "2026-08-05",
       "summary": "",
       "origin": "domestic",
@@ -83,14 +373,24 @@
       "keyword_score": 1
     },
     {
-      "title": "전북 취약노인 1,589명에 폭염 대비 식생활·건강기능식품 지원",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCbGl5NEZNT1dMdGJabjdxU0dvNENTb3BOQkpmcUVycm1uUV9wWDNMVVIwaExSMzlpc0lTZTl0LU5uUnhDWGdZbzFFV3pTb25mMFZfbEJEeUoybk1ZVUxpT2JLeWM3cXppbEhzS1Fja3hVdw?oc=5",
-      "source": "웹이코노미",
+      "title": "식약처, 다양한 기능성 원료 인정으로 소비자 선택권 확대",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV21nRjJfM2YwU0pYWUE1X0RkYTFhSk82NGpKdkVTOHJtemlxeHBxaTkxWnYxQ3FJMWZBWjhRZGhtZzJkX0kzaFJJc1pFeDFtZUtONGt0Vl90ZXp3UDJKOWoyaWZqckJzWldTakhvWW80LUVfbndSNllXRFZyNS1udzBVeGg?oc=5",
+      "source": "서울Pn",
       "published_date": "2026-08-05",
       "summary": "",
       "origin": "domestic",
       "category": "wellness_trend",
       "keyword_score": 1
+    },
+    {
+      "title": "일동바이오사이언스, 수면 개선 프로바이오틱스 연구 국제학술대회 수상",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaEpjNnNBWFB6bU5Zb2NjVmNNc1VaM25HNjN5aXo5NldLZnlPbGZTenlJdjlheHNvYzFQXzBvRjcxX1dqb2s0MzY4WHp2YS0wOVNEUjg3S1NfV3pIMFIzLWFCLUR5VmswZEFveWszNFJYZl9ydFJKb3hjcmp5WktFSEZ5UkJuR3dRaGEzdjNlbjNHalpwQ1RkaUJFQ2FnQjZMYVp2cEpn?oc=5",
+      "source": "약업신문",
+      "published_date": "2026-08-05",
+      "summary": "",
+      "origin": "domestic",
+      "category": "wellness_trend",
+      "keyword_score": 2
     },
     {
       "title": "위바이옴, 특허 균주 기반 B2B 프로바이오틱스 원료 사업 본격화",
@@ -114,7 +414,7 @@
     },
     {
       "title": "남재헌 해수부 차관, 수산식품업계와 간담회… 수출 지원 논의",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01X2dMWEhCdm1ENDNxQ2tvSVVQSUxEQXJBSWo3ZFpwU2hXY2xRd3c4NDlwVDNONExpdEt3MmlCdDNHR01KYTM0anQ0RlhiMG8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TQlZieFc4TEc2RFlJalNsV3Z3WW45RVpseXBIbjhtYi05YkUyend0MUlVZjdMZUNQQUZiVlZCZ2hWME5zdUY5cUVpUEpUOGo3S0FJRA?oc=5",
       "source": "v.daum.net",
       "published_date": "2026-08-05",
       "summary": "",
@@ -123,9 +423,19 @@
       "keyword_score": 1
     },
     {
-      "title": "중동·유럽·남미 입맛 잡은 한식···지속성장 열쇠는 '현지화' [K-Food+ 수출 새판 짜기②]",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JRkxyWElQeHNGdWo3SDB3QWt2OEk0bnYwZ3MzYndxd3ExVWVSdDZlWFNHbS1YaDJFZGJneDhNcGRyMWMxY3hESmt2QnFZRzRQdU1kVzA3VnZfeHAtakV3cQ?oc=5",
-      "source": "네이트",
+      "title": "올 상반기 농수산식품 수출 전년 동기 대비 5.6% 증가",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0ZEExdThIbnBFNGdvUmdicDMzbjhCdzFBWFAtRWw0U185REEydkt5cEZ5NTRfQkpKRy1RMmZ0SkJDbDMxdVU3V2RWaUp6WTU1RUhkNF9jZVJVRzlXMVNFSWNkTmUxaWlpN24zQTU1bnJianlEVWhr?oc=5",
+      "source": "헬스오",
+      "published_date": "2026-08-05",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "중동ㆍ유럽ㆍ남미 입맛 잡은 한식⋯지속성장 열쇠는 ‘현지화’ [K-Food+ 수출 새판 짜기②]",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Xdk5BRlBVZmMxTUNpbGdXU0hFaTM5TmhRM1Z2ekJSU3RnSy1sOGVGZ2FpdnhKWlEzSzFSbnVWRVB5aGNHWi1jZUc5OVFodkJKaFQwYQ?oc=5",
+      "source": "이투데이",
       "published_date": "2026-08-05",
       "summary": "",
       "origin": "domestic",
@@ -136,6 +446,16 @@
       "title": "농협목우촌, 필리핀 최대 식품박람회 WOFEX 참가 … 동남아 수출 확대 속도",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LbzZBcFBSVUdsa29iaEw0ZTUtYTlwekpKSk40LVk2QWI3cmE2YzFIeE1RQnVfSFJNbVhyOWlDSWN5SmltcTJjNmdFVWdGRDZ3bVJ4Y0dyaUZON0w1cDhJUjJTa25HQ2JaaHh5cg?oc=5",
       "source": "워크투데이",
+      "published_date": "2026-08-05",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "중동·유럽·남미 입맛 잡은 한식···지속성장 열쇠는 '현지화' [K-Food+ 수출 새판 짜기②]",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JRkxyWElQeHNGdWo3SDB3QWt2OEk0bnYwZ3MzYndxd3ExVWVSdDZlWFNHbS1YaDJFZGJneDhNcGRyMWMxY3hESmt2QnFZRzRQdU1kVzA3VnZfeHAtakV3cQ?oc=5",
+      "source": "네이트",
       "published_date": "2026-08-05",
       "summary": "",
       "origin": "domestic",
@@ -154,8 +474,38 @@
     },
     {
       "title": "김천 복숭아 홍콩 수출 선적식 진행",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfVUMyNkhHM3JhZ3dMWVltampSR21YbzRyRDVkWVUtYVNQZUtJSWVGQV9TM01BRnlKYUxOMUhsc0ZWLTRFR0xvSlpIdS1zVllXOFFrcU83UnVDcmZiRDFZ?oc=5",
-      "source": "뉴스다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lUnRRZmQ2WEJNMjBndUlmdFQ3UWdpb1QzcW1wX3MyWGdUYjA5QlFhOHVpMG4tMjZUa01HQ3NWM1dhTF93ajk4VUdaeW04MWQtcEZuMmxMMFVvRjZKaVJKVg?oc=5",
+      "source": "꽁지환경늬우스",
+      "published_date": "2026-08-05",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "K-푸드, '13억 시장' 인도 공략 속도…뉴델리서 950만 달러 수출 MOU",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00QVRuc09PM3M1MmpuMnl6ZXNmYi16eU9LUktwTVdYVUlMZEY5dzFDaWNpRkx4RUYxbmVQdzNfS1BtTThkTDhyN2VKbmJiSmZaeWhFaGQ1c3VQOUsxbTg4R2J2R3BUbFoyVTIycg?oc=5",
+      "source": "푸드아이콘",
+      "published_date": "2026-08-05",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 2
+    },
+    {
+      "title": "K푸드 新시장 남미 수출 전선 먹구름.. 라면·과자, 李 순방 외교로 반등하나",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyT1k1SHlaVWVUdlEtSTRqdzNtTkVHa3A5b0ZJRUlobHpfTUF3aWZHQ0FvUXk2NnlaNTVCcnpIVnZCRFZHT0NQcGhNNA?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-08-05",
+      "summary": "",
+      "origin": "domestic",
+      "category": "trade_opportunity",
+      "keyword_score": 1
+    },
+    {
+      "title": "K-푸드, 인도 14억 시장 공략…뉴델리 푸드페어 950만 달러 MOU",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrSkxKeEhLZkc4cWJJdEVHa0J1MjRnVFlBNkJfaFVDWHJVajVJMnpWcDAtVC1EODUyRFR0OU5renpPR3RoaF9jVHRZWTFGcjdDUVBwVW5OWGpXWmdQNVg2YzRlb0FTY0U?oc=5",
+      "source": "한국식품의약신문",
       "published_date": "2026-08-05",
       "summary": "",
       "origin": "domestic",
@@ -173,9 +523,9 @@
       "keyword_score": 1
     },
     {
-      "title": "한국의 매운맛 남미서도 통했다…라면 수출 81%↑",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YRjczbmFmQnhNV3YyOVB6cFRzcUJCQ3YtSWx2ZGh2MXZnTWhfVmlqMHBnRlZhZFJ4RURWQmpuVVhPZ21qNTZNcWNOT0lSRUFPWjM0eEQtbFNCUQ?oc=5",
-      "source": "파이낸셜뉴스",
+      "title": "중동ㆍ유럽ㆍ남미 입맛 잡은 한식⋯지속성장 열쇠는 ‘현지화’ [K-Food+ 수출 새판 짜기②]",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Td0pfSzZaejJOOXBKZGF5Vk54X3BrZklBN0xZX1c0VWVYcUsydGtIMENaWXFDSUZkNm44X291R3NiaGRrYWgxOVB2TDF0cWc?oc=5",
+      "source": "v.daum.net",
       "published_date": "2026-08-05",
       "summary": "",
       "origin": "domestic",
@@ -184,31 +534,11 @@
     },
     {
       "title": "“해외 바이어 잡아라”... 성남시, 중소기업 수출길 지원",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96Z2trM3lqZmVHYkFlbkZZVmRlX0UzMmdVb1NCZEMycG1aUnlzSnhkeUczX08ybjVHNFAwWTZ6RHdxcjNORnVNMTltNGwzWW80OWd5emowWTVJOF9ZNVJieDlTVlZiU21KYzB1QXE4S3nSAXRBVV95cUxPaHRwRnBPRU1VQUNwdFNzc3RJVHAtQ2N6OWE2czlVUGNhNmN1VGZyb1hySDJmOENOUVFtcnNrMXUxZE4tb2JYVVV4aDhIWHkyNVhRWkpHRnlYa2dsMDJlNzVxOUozaTc4WHNXa05JUTBqYzA4Ng?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9odHBGcE9FTVVBQ3B0U3NzdElUcC1DY3o5YTZzOVVQY2E2Y3VUZnJvWHJIMmY4Q05RUW1yc2sxdTFkTi1vYlhVVXhoOEhYeTI1WFFaSkdGeVhrZ2wwMmU3NXE5SjNpNzhYc1drTklRMGpjMDg20gF0QVVfeXFMT2h0cEZwT0VNVUFDcHRTc3N0SVRwLUNjejlhNnM5VVBjYTZjdVRmcm9YckgyZjhDTlFRbXJzazF1MWROLW9iWFVVeGg4SFh5MjVYUVpKR0Z5WGtnbDAyZTc1cTlKM2k3OFhzV2tOSVEwamMwODY?oc=5",
       "source": "포인트데일리",
       "published_date": "2026-08-05",
       "summary": "",
       "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "「2026 K-VIETNAM WELLNESS FESTA & EXPO in DALAT」 한국 측 협력 파트너사로 ㈜향유 선정",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XamExUWMzdm9mZnZyQmNPcExVU01jQjdncjVZS2NoOHdodm11UzhweXMwRWpYclJVRTZhNlhXTDFYVTZ2aUwwWUJ0cFVPMi1CcThCRU93UE5VRXFHdFFuck9LX0FFa21KczdNbVJJa2Y?oc=5",
-      "source": "goodmorningvietnam.co.kr",
-      "published_date": "2026-08-05",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "Polish apparel giant suspends Bangladesh sourcing amid $40m payment disputes",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQkprMnFiNDBMb3NpN0g4NlprR0Y2dFpDWUtLRkJZWm91RlFNVzRtRlVmUWNwYl9QbUt6aVBUdHJUSlN5dlJWWWRwd3lvamFPTFlrX05TaGJhV3dSdHMzaldSQkJEdzY1cUwyeVgzMHpTUmNzczBhRlVRQ2tFcGJnNUJjWHF6UTFIaDdqbE9jZ1F2cVRIc3gtLUNIZlFXRnJ6N1JCRGIxenh4TW5zdjNodTJLZ2xZUlRHZmlzYkZKLWlVQdIBxwFBVV95cUxPRk1oRVNQNm8xU3Q0dUViSUMtR3FmdFFGV1N4YlYtSG91SGZBYzJLUUUwN0txVjRlejFpWWotTG5YMWFMeUItWC1uUDZFZmVCeVNUTWU2WUtaMFVPRXpwZjc0RjlhUDdhLURwZzluTUpSNmhVSEJQN0lzOWNGb2gxUjVQV1BfZFdUak1uckhGV25adVcwMmpXV2hoOUoxSHJpYTZWcFdaS1pvSU5nTGZBdFdRN2JhN3RXSW9KbDlRdHRsV29VeHlB?oc=5",
-      "source": "The Business Standard",
-      "published_date": "2026-08-05",
-      "summary": "",
-      "origin": "foreign",
       "category": "trade_opportunity",
       "keyword_score": 1
     },
@@ -243,11 +573,21 @@
       "keyword_score": 1
     },
     {
+      "title": "BellRing Brands poised for price increases",
+      "url": "https://www.just-food.com/news/bellring-brands-poised-for-price-increases/",
+      "source": "just-food",
+      "published_date": "2026-08-05",
+      "summary": "BellRing Brands plans to raise prices again on protein powders and shakes to recover inflationary costs. The post BellRing Brands poised for price increases appeared first on Just Food .",
+      "origin": "foreign",
+      "category": "wellness_trend",
+      "keyword_score": 1
+    },
+    {
       "title": "The biggest food M&A deals of 2026 so far",
       "url": "https://www.fooddive.com/news/food-ma-acquisitions-2026-ingredients/827075/",
       "source": "Food Dive",
       "published_date": "2026-08-05",
-      "summary": "Companies focused on clean-label ingredients and high-protein made up the bulk of acquisition activity as big brands look to strategically capitalize on new trends.",
+      "summary": "Companies focused on clean-label ingredients and high-protein made up the bulk of acquisition activity as big brands strategically capitalize on new trends.",
       "origin": "foreign",
       "category": "wellness_trend",
       "keyword_score": 1
@@ -258,656 +598,6 @@
       "source": "FoodBev Media",
       "published_date": "2026-08-05",
       "summary": "Plant-based nutrition brand Huel has expanded its portfolio in the US with the addition of a new Mixed Berry flavour to its Black Edition Ready-to-Drink (RTD) line-up.",
-      "origin": "foreign",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "닥터블릿, 다이소 전용 건강기능식품 신제품 3종 출시",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JWFhJN29lNUstSTBnSG5KWTd4ODZGdVprcVBkQkJPSEFyZVJLemxIOEliU1hBTE9zeHVoYXVBcm5mTW5uVUtDclhhaUg4NWx6YVFKQjNsdFJ3V0dCd2hQOE94NElvQQ?oc=5",
-      "source": "푸드투데이",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "닥터블릿헬스케어, 다이소 전용 건강기능식품 3종 출시…맞춤형 라인업 강화",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlM1hBZ1g2RVhiSXZwSHE2TEE1QzlGVFNXemVlWWgyRXVmT3VPNUt6LTB1Nk0tY1R3VWhlRzA3eERONTRhUi11RGE2a2Z2bkprdWdOMV9DZTFsZ0hIaE5EMENXb3VodVgyNG40?oc=5",
-      "source": "BBS불교방송",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "위바이옴, ‘2026 소비자만족 브랜드 대상’ 두뇌 건강기능식품 부문 1위 수상",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JYVJDYkxuaGoxa1hfM0E3Q2wwQTM1X19FRW9jNkRGaTlUdEsyMWlpenBkaWgxZ2NkcjF2cFJ5Z25COXNEaUJ1SGpfU05QVzBZMVBkUEhEUjh6QmNqRnNvNmdyM29tR0REY1BzbUEtemVTVlVteUHSAWZBVV95cUxQdTlIek9qb3c4WWxSelhNNmk5NXBkOTBUNnZ1WWhORkNkUzJqQkdjQ1NUdEhlVkhST18zOEFPMk5FSE5faWpOSzZVREI2ZEd1NmdoNV9nTjlkV203THNtcmNrRUdWTnc?oc=5",
-      "source": "동아일보",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "닥터블릿, 다이소 전용 건강기능식품 3종 출시…맞춤형 라인업 확대",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rM0k1bkl6QU9taDVmX3BONzVERDV2XzJYRElhY1FQSGwteFN6bENvaENLa2RyaE4yODBCbGs2V1lNbDBYeTdpNWVSV0hjZThCcUhHYlJNUmdILU9ZeVRWdkxLcW5rM05LSzhxcFQ1RVI?oc=5",
-      "source": "스마트경제",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "부광약품, 태국에 ‘덱시드정’ 수출…동남아 공략 강화",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NeGIxMTJuNFQwZHdPVlJrWHl1ZGJ3SWM0T0pkTjVFY2hXRVlrOXphakhDU081ZWV3WlZvaVVNZXh2ZEhSVDI4angxVDFsWFlCaDlleFZHekxfcGNpdDVUTms2T253dFE?oc=5",
-      "source": "한국식품의약신문",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "위바이옴,특허 균주 기반 맞춤형 B2B 프로바이오틱스 원료 사업 본격화",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlLThSbHpDVzd0NDEyN1lsbFdyR2pKNHVxV1hIWHotTnBMRk5EZi1NTG5aOEN3UXhuYThCZjM1OFR5aW45b25aNmRKc0NOZkJHckd4bkJFMkVJVnBBaTJzMklsR2Fydw?oc=5",
-      "source": "yakup.com",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "위바이옴, B2B 프로바이오틱스 원료 사업 본격화",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NTzZYQmtmeVZPVGRkcGJ5RzVyczJnLVl3LWFhSHhZZlkxX0dBaWd2MG5iNDI5S1owUFhZcnpta04zY01JU05ubjJUOFN5SmdQSHhSNXFQcFc2QmNh?oc=5",
-      "source": "뉴스핌",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "위바이옴, 맞춤형 B2B 프로바이오틱스 원료 사업 본격화",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hLVlfWXBzaE9tMlk5TGgxWnIxS1hhR2ktVEZ0WGNhb2lWWFNPeTZiZWFSTlBsVFQ4bGFTR2dCeHdRbElmWmRrVGprd0hneHdNRG84UFlJRXZVcGVHYjhzUzlB?oc=5",
-      "source": "core.asiae.co.kr",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "바이오일레븐, 5월간 프로바이오틱스 ‘브이에스엘3’ 포토이야기 이벤트",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qckZPUnJMdlNMeWxGeDFTNktMX1ItU09iWnU3bUEybXNjemRJZjJUbkgtT2VSUWh5djRSMjJTd2h0YW92Q3pTVllKRzJXTFdUX3FMdlJTWFByOWhGUXBHMGljR2Q5am1Udi1xaUFMZDRQd29JalE?oc=5",
-      "source": "헬스오",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "동아제약, 건기식 ‘동아 덴마크 프로바이오틱스’ 발매",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84dG04QXN0TE0yOUt2UXRYcnNEZjhVS1V6YzgtYnVMR0RvVHR0ODFUUW8tVXN1SFdfczVuQW9CTmNsRkh3MEIzR01aRGVYOVU3N3U3NU9GTmdyOHZncXVEUk81YzNUYTBnNEZmUWEyV24tN3k4V0xV?oc=5",
-      "source": "헬스오",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "LG생명과학 리튠, 유산균 건기식 ‘프로바이오틱스 듀얼 프리미엄’ 출시",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Qd1ZTa1R0ZEZ1SUVsMVdMYkNYNnBYdDl0d1B3ZjJJTUFkeG9vUk1vSTBQVE14ZXZ3M1JhWHpCNTRkaTg2QU9KWUp6Wl80a3Q1ME9laGJIc3NtX25WZUFxalVDajVCNUE4NmZvSWlTZUwyclVPM0E?oc=5",
-      "source": "헬스오",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "일동제약, 프로바이오틱스 관련 국책과제 주관사로 선정",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFdHhmZjE2MVZlWHdMV2laQVlZbGdBNThJZEVRMjBxRzREMHp5NndxS0pKblBuMmducmc5RHNWRFBmeGV6MGZSUW9XbDl0SnJQUFZXSWpuX040cGRRMjRVSWNMNXFvQS1USEN6YjRleGVzMUl3T3B3?oc=5",
-      "source": "헬스오",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "JW중외제약, 프로바이오틱스 건기식 ‘키바이오틱스 알파앤베타’ 출시",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44SlZINnFnQWwzV1N1bXRxWnJqTWZLSHY0Y3FlU3k5SGhnb05aU1U3OG1EQkpjZjBkS0JmS0ttTTd1WlpEZ1VJWU9aYy1ZLU93R1pTX19LQjZnQzMxaVJuTnJkdU1naEprcUg3YWRoMHFHMjc2a2JV?oc=5",
-      "source": "헬스오",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "위바이옴, 특허 균주 기반 B2B 프로바이오틱스 원료 사업 본격화",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX2tiVG5JN2xlaUlFUEVKY3lMdEdQRU55ay1qdDRHTHl5c1FhSEVkcWxFd2RBS3kxUFkwYzZZSkVXaVREcWNTT0ZjUDBQb0t6Qjd0NkZJQVZvUmE3NkNJem90eEFXOFB5M0VWQnR1S3NSdTVsWUNockZDa0MwU0Nvdg?oc=5",
-      "source": "edaily.co.kr",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "'말레이시아 식음료 전시회'서 1028만 달러 규모 K-쌀가공식품 수출 상담",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoU3pZV280RFo4TXl3TEdldGZwcWozMnFja1FOWGJHdnZDaTQ5Y05ReURKcDU0bklMclY4N0o5eUlxb0J0djdxT3pYZkdXWmd4NGJiTEV4eFl3dzdYYUlPek45eWJxRXhiOGh1ZDBB?oc=5",
-      "source": "식품저널 foodnews",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "마닐라 국제식품박람회 952만달러 수출상담…aT, 포도 수출 심층상담도",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CZ3ZwS1FjR2tEekVZcU5kaW5zNktkSlZlekh6NzVWeE1HTEJ4Zjc1V0V0QXcyZ2JuNjNtMlVyTE1QQjdKLWZGMjFMUFJJcTRma1NsQ2ZvczJNRTR5LU9hdGsxWllOODFZaDJfVTZwLUdKLXZh?oc=5",
-      "source": "부산일보",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "EU, 포장재 규정 강화···농식품기업 수출 대응 시급",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NSGNrZFAtTkZUQ2htbTNyS0FYcl9oY0dDWDhZQVFFaV9yN0hzS0VKMEw0ZW1yaXNqTDlPRkowR2ZoS2FzUk41LTNSNEVIT0JHWDhCMHRoaDZFbDQ4U0tha0JrQ2JSc0MyZXhFVw?oc=5",
-      "source": "한국농어민신문",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "필리핀이 반한 K-푸드, WOFEX서 수출 영토 넓혔다",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nLXM1bnAwY0x5VTBONU5XSjVoVlNXMUt4NEJ5RHNsSV93MTltQ2xfZHhfTW8wQ2hiZWhoMG9Cc0NZRW1Kd0RyenlsOHVsdS1KZ1NLVUdiZFpHSWE5ZHVveG15cGdYX0U?oc=5",
-      "source": "한국식품의약신문",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "인도네시아, 10월부터 수입 식품·음료 할랄 인증 의무화…K-푸드 수출기업 '비상'",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KMjdYSGRMWHVYa1piQ2dTRXdBMi1pUHVza1ZUQUUxOHpkRmhXY2wwWXdpd01pWC0xMEJEaUxDUXNZNmhjaXRnR21mODJ3RTNfcE5Gb2RsRU45d2hpVjFDMjdONDNXNjA?oc=5",
-      "source": "한국식품의약신문",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "농식품부·aT, 마닐라 식품박람회서 952만 달러 수출 상담",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzU2dBWHNibGtTX0swd3hlQ1dfMkRHSmlQX0E1R3NXdXVubkFKMm9EZ3NIZ1QtTFRiQ2FJdmR1Y2JqT0QyQkl2TW10X2hiSm16enMtTXVtMGZDeDdTY2dZdlZUVFpFUQ?oc=5",
-      "source": "푸드투데이",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "마닐라 국제식품박람회서 952만 달러 규모 K-푸드 수출 상담",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FcjdaX1BBZEZKQ1NnYTBpSzBzMTdLTUZlSlkxdGU0UnB1ME1WZE9naXVFZWhsZjk1SDhNX0NBekRvZnJaS3lDVWxEak41ZE5CajRobmR2VXI2dVIyNUJKWW5ocnI0Q0FRQVFCbA?oc=5",
-      "source": "식품저널 foodnews",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "K-푸드 수출 전초기지 된 '식품 클러스터'",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nczJMNjdBOHFGOEUtZGdQX0pCdHNSeS1xbEUyOVI2X2Y5bGlrTkY4aUNYUEZjM3cwcGdIaUxkVzIzamZlMUdwdnVUTk50LXFUWTh4SUVucU1Da3JyVXpobEpyQUJNUUk?oc=5",
-      "source": "한국식품의약신문",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "수출 식품 라벨 어떻게 만드나…식품진흥원, 식품기업 컨설팅 나선다",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nR1VrZms0eUxxVzB0Wk9Sd2J2bGQ2OGVYN1p4ZC1Ka2RnV1VzN3pwTkJTVVVBWGIwa0VycXF6OEdMa3R0ZDlhQUl0WGM5dmR3UEt5TENvbWdqa3NiRDl3dDFyUnliNVBuNzJmSl9MVWxSci1B?oc=5",
-      "source": "부산일보",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "식품진흥원, 식품기업 해외 표시사항 컨설팅 지원…수출 규제 대응 강화",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NUGZZc1BZbE9nY3hveXdmZXFpZXZTTHZxZmNMSGRxSUhnMkhtdDRBX29uV3RyN0JvbUw5UjN5V0tfTDFGSGlhR055MUM2NDlDVzNhb1RvS3I2LWI2akl5cDZZWlNTZFFyN0ZENExR?oc=5",
-      "source": "아시아투데이",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "K-푸드, 필리핀 최대 식품박람회 WOFEX 공략…952만 달러 수출 상담 성과",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fdmJCa1kya1BjTnJWOV9aU2M5S2NIdVdEdEhrMVJLZVIwbkVfRVh2ejh5WmZoUXNtMkRFWTJVaG1hTWZQQnJWX1poNzdqM2dIcmRQUlE1WmtzbXZPNWtaVzR3LW95S2JVX2c?oc=5",
-      "source": "투데이안",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "aT, 필리핀 최대 식품박람회 참가…952만달러 수출 상담",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qX0FjY0d0VlBocGU5Mi0wT0ZfS2RHblZ2VGtocmdGMDI4SHRUNUxSeFY0aDNtZG9XU3lfa0xoZGJSQmJ0WWZMbURXaU9CY0Jsb1c4UTRqZ2RtZlJOdjh0TdIBeEFVX3lxTFB3ODQ4elVzZUN3OXJlZjBFNG5oeDk1XzRsV3VWY3FSdEh1NE10Q180WXFYRnVWZDA3SlcyNXVxSWlObWFXT3ZIbmljcTZsWFktSjhERjBsOHo5Q3NkamotT3hUM0xNWlBUZVRxRzVsVEs4Z1QyLWVyYQ?oc=5",
-      "source": "뉴시스",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "올해 제주산 축산물 수출 급증...작년 比 76% ↑",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tVUpJOEp3TjlnTTAzalZ5a05nVWNMeUY1WHVjU1RQXzVkb3FyVmIxdHVuT0laYnQxZTA3dG1BeS13UktHSnRrSVpfMHZWVWtvMnhBRGJfTkd4QnltUGg1Z3ZVeVkxc2xrQmJFUQ?oc=5",
-      "source": "삼다일보",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "필리핀서 통하는 K-푸드…포도까지 수출 영토 넓힌다",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oX2VadFlIUFRJTWhnc0RlamM0YkdzY3ZVNzg2TmVSTDlYb0pvXzdicTFGbTZGXzNWS0ZEUEhmc0RTbXJEdWVDT0MtdndROWVZbkdpbGh3SmNaeW9YZGdpVg?oc=5",
-      "source": "네이트",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "aT·농림축산식품부, WOFEX 2026 마닐라 식품박람회서 952만 달러 수출 상담 성과",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SUzBfNk1EZUMwNjFJMWNQYjRaWDZjMWhfRmlpWGxVWkV1YnVMenR0QUtNeGJIbzh5dWxIcFktaXFaNndEdVAzNTZRdHpwUmxNa3JRZEFWVjRHYkdEdmNVY2lLNE8tQllWQU5zQktB?oc=5",
-      "source": "gukjenews.com",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "필리핀서 통하는 'K-푸드'…포도까지 수출 영토 넓힌다",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wRVFuVUp6aVRCRi0zUlF6WkNyMTBQVWc2bDN0VDJ1Z0lDZWVIVHozekNuOGloOGdUOTdqeE0zWUZ5MWw3YWZtNGowWjVXN3hfcUUzTXZyLXppekZQ?oc=5",
-      "source": "뉴스핌",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "마닐라 국제식품박람회서 952만 달러 규모 K-푸드 수출 상담",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85aTBETnlfcWhtcHVpbDBuVEN0RVVqcExieVZqTjZLNndrVTF4M2tDbTdhbGdBTWNQVEl2U25rTXZIam9TbkNrSVc3RHJZYW5HaWYtamYwS1hzVUl2SkhYd1U1eHRmXzdsZk5NYXNR?oc=5",
-      "source": "식품저널 foodnews",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "김덕호 이사장 “식품기업 K-푸드 수출 확대 적극 지원”",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HenQ5b0NqWHZSTVlIYnpoMnZYdTV3alJXMjU3SU9vNFRFNV9MblcyOUhmczlNTzFURkJROGxlTzl4SUhyc0ZfbDlLcnpBWjJkX2ZCS2JTOG4?oc=5",
-      "source": "sportsseoul.com",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "Glutathione precursor expands US nutraceutical presence as cellular health market grows",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSzUyY2lldkRUdzRNTDRJeWYycThZVFdmN3E2TlYya05hYWhqUlBVTjdWeGc3VzNmM2NFS3JOVUllQzJEejFYSV9xX2NRSkZnZWZXRUZWeXBTZjNsSWsxc1lqTjRWcUhyMHNXRVNTSmJpdzVSVVBjZlh4MThFUTgwX2stVVh6X25rUnVIN3lsY1l2a0ZoRTF1MFJCWDJyTmNWdGVxZ01QX29XeFU?oc=5",
-      "source": "Nutraceutical Business Review",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "foreign",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "Red Yeast Rice Market Expected to Exceed USD 1,035.1 Million by 2035 Amid Growing Nutraceutical Demand",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOGVMRlRWcl9wd1JZYVp4SW1KVDNkQk5kaHNVNkNaMTdhQTBiRDVYS2MtelZDeVgzQnhOUVZ3VmdYR2lJWFBvNEVQNHhHckdqT0pHalVIbWNYRm9zc2UzazlGYzBneVkwUnhWN2JPdG55eWJlN3JtRzdzekFsUW00U2tkS1NzN0lHcWNLWktVd3hoMC1qUFZ6ZmwxZDZDUzhxM0REZjk1V2tkZFRaQjd2UnlIdDZ2eVdZMVR3WktXd3d5RzR1MEZ3M2RuTlBMU3FOSEoxQ3lTZGNtMU9JR1E?oc=5",
-      "source": "industrytoday.co.uk",
-      "published_date": "2026-08-04",
-      "summary": "",
-      "origin": "foreign",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "[일본 식품 수출 표시·광고 리스크 ②] 한국 라벨을 번역해도 일본 라벨이 되지 않는다",
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=200881",
-      "source": "식품음료신문",
-      "published_date": "2026-08-04",
-      "summary": "“식물성 크림의 하위원료 표를 다시 보내 주세요”한국의 분말라테 제품을 일본에 수출한다고 가정해 보겠다. 완제품 배합표에는 설탕, 식물성 크림, 인스턴트 홍차, 향료가 적혀 있고 한국어 표시도 적법하게 완성돼 있다. 일본어 번역업체는 이 자료를 받아 원재료명을 작성한다. 그런데 일본 수입자가 인쇄 직전에 식물성 크림 제조사의 전체 구성표와 각 첨가물의 사용 목적·함량을 다시 요구한다.담당자는 이렇게 묻는다.“완제품 라벨에는...",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "[동향] 미얀마 음료 시장",
-      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119629",
-      "source": "식품저널",
-      "published_date": "2026-08-04",
-      "summary": "미얀마 음료 시장은 높은 인플레이션과 수입 규제, 가계 구매력 약화 등 어려운 경제 여건 속에서도 도시화와 인구 증가, 신제품 출시, 유통망 확대 등에 힘입어 완만한 성장세를 이어가고 있다. 유로모니터에 따르면 2025년 미얀마의 즉석음료(Off-trade RTD) 판매량은 약 3억6800만 리터로 전년보다 6% 증가했으며, 2030년에는 4억6900만 리터까지 확대될 전망이다. KOTRA 해외시장 뉴스는 미얀마 음료 시장...",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "마닐라 국제식품박람회서 952만 달러 규모 K-푸드 수출 상담",
-      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119624",
-      "source": "식품저널",
-      "published_date": "2026-08-04",
-      "summary": "7월 29일부터 8월 1일까지 필리핀 마닐라에서 열린 ‘2026 마닐라 국제식품박람회(WOFEX, World Food Expo)’에서 952만 달러 규모의 K-푸드 수출 상담이 이뤄졌다.올해로 25회째를 맞은 WOFEX는 필리핀 최대 규모 B2B 식품박람회로 미국, 캐나다, 일본, 스페인, 태국 등 국가관을 포함해 800여 개 식품기업이 참가했으며, 약 5만 명의 식품 바이어와 관람객이 방문했다.이번 박람회에서...",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "[신상품] 샘표 '질러 직화풍미 BBQ 바' 서울우유 ‘우유식빵’ 외",
-      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119618",
-      "source": "식품저널",
-      "published_date": "2026-08-04",
-      "summary": "샘표 '질러 직화풍미 BBQ 바'샘표의 육포 브랜드 질러(Ziller)가 직화 불맛과 단짠 매력을 살린 '질러 직화풍미 BBQ 바'를 출시했다.이 제품은 1봉(42g)당 단백질 10g을 함유하고 있으며, 바(Bar) 형태로 한 개씩 개별 포장해 책상 서랍이나 가방에 두고 출출할 때 꺼내 먹기 좋다. 서울우유 ‘우유식빵 & 우유모닝롤’ 서울우유협동조합이 국내산 우유를 더한 ‘서울우유 우유식빵(410g)’과 ‘서울우유...",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "'말레이시아 식음료 전시회'서 1028만 달러 규모 K-쌀가공식품 수출 상담",
-      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119617",
-      "source": "식품저널",
-      "published_date": "2026-08-04",
-      "summary": "지난달 15일부터 17일까지 말레이시아 쿠알라룸푸르 컨벤션센터에서 열린 ‘2026 말레이시아 국제 식음료 전시회(MIFB 2026)'​에서 1028만 달러 규모의 K-쌀가공식품 수출 상담이 이뤄졌다.이번 전시회에서 중소기업중앙회의 지원을 받아 한국관을 운영한 한국쌀가공식품협회(회장 구일회)는 “아세안 시장에서 한국 쌀가공식품의 수출 확대 가능성을 확인했다”고 밝혔다.협회는 10개 부스, 90㎡ 규모로 조성한 한국관에서 국내...",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "식품진흥원, 표시사항 컨설팅…K-푸드 해외 진출 돕는다",
-      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119616",
-      "source": "식품저널",
-      "published_date": "2026-08-04",
-      "summary": "한국식품산업클러스터진흥원(이사장 김덕호)은 '식품기업 해외인증 지원사업'을 통해 제품 표시사항(라벨) 컨설팅을 지원한다.식품진흥원은 실제 수출 단계에서 필요한 제품 표시사항을 사전에 검토할 수 있도록 지원, 기업의 해외 규제 대응과 수출 경쟁력 강화를 뒷받침할 계획이다.식품진흥원은 현재 표시사항 컨설팅을 수행할 전문 컨설팅 업체를 공고를 통해 모집했으며, 오는 5일부터 18일까지 표시사항 컨설팅 지원을 희망하는 식품기업의...",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "Urban Eat expands food-to-go range with high-protein chicken skewers",
-      "url": "https://www.foodbev.com/post301/urban-eat-expands-food-to-go-range-with-high-protein-chicken-skewers",
-      "source": "FoodBev Media",
-      "published_date": "2026-08-04",
-      "summary": "Urban Eat has launched a new range of high-protein Chicken Satay Skewers aimed at consumers seeking convenient, protein-rich snacks on the go.",
-      "origin": "foreign",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "전북바이오진흥원, 건강기능식품 GMP 2기 교육 발대식 개최",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TbTdobkpsQmlYdmVjVXYwbGlkdWduODhzYjYwTWhlTExZN3lIaFlyWXViYS1OTm1oVWloX3pFa3E3ei1tU19DWG9OMHU3NWNkVi0tSVZ3QXdqR0JDNjhiMnBiaFBxMUZiemc?oc=5",
-      "source": "전북도민일보",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "정관장 홍이장군, 어린이 건강기능식품 '일상면역' 출시",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhZDlySUUzN1pKOW8yLWNJNDV3NFg0S0hyTGVtMXdSWUd1QTVVd1BFMGRlVms4a2p0WXlJUG1hYXA0WEhmOXpCa0xNckowdw?oc=5",
-      "source": "전자신문",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "닥터블릿, 다이소 전용 건강기능식품 3종 선보여",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGTFVYU3ZFQXlPWFlNVlhIbXNEamd6SU9ZSVg5Z0lyMzlHQklpRTN2ek9BeVdoX1ZYb0x2M2hZWnBmZUhacWN4UnpZWERoNHBhVjUtbXFrTHpTb01XOUVGbTRmanBCazQ3OHFONEs4OW5OeUgtX3hjbHNB?oc=5",
-      "source": "로이슈",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "바이오진흥원, 건강기능식품 GMP 전문인력 양성 본격화",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81dzRNVlg5QUlGUVNCaGdTZXRfZ2dVdmRJR2NHLXFfT3ZoWnd5NWtjVlFwX1VfZXBtaEpTUTlOc1h6U1ozY2xnZjhTMkUzcnQtQVE?oc=5",
-      "source": "전라매일",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "전북바이오진흥원, 건강기능식품 GMP 실무 인재양성 본격화",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VR0dJODF0NjNrazdReF9zLXlNdlIzZ2R4bnFySVM4a2ZYNXVFU2NQWkdudXZuU0hRdURZV1VlMk1lbkJGcWN6NzNUZlVJUy1BZWxHLXpfZXdMM3otcXU2Wg?oc=5",
-      "source": "네이트",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "프로바이오틱스 성분 ‘펩티도글리칸’, 장 염증 완화에 도움 … 조절 B세포의 항염증성 IL-10 분비 촉진",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iUW1XRmgxVHMwbHVJbUZCSWlEOXBHV1BjM1dJREdJWUR0aVlXa3ZXS1d5WEV1cndGeVpVamhhaXE4dVp4TElvZFFmWDk5Q016QV8wZlZ1Z05YS0pJdXgxVi1CQlo5eHNlTzVSWDVUclMtUlZNNFFr?oc=5",
-      "source": "헬스오",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "한독, 프로바이오틱스 ‘컬처렐’ 등 4종 이마트 입점",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05QjJ4ZHM3a05xR2Q4MHIzWTZOOE9tc3RtbFNmdlktb3JjTjVtZlNMLUpoWjdYd0F5UG9jYW1VbVNldFdDNzJGYVNtVTR5VEp1bnY0WWs5VmR6V3FlN0VoazVGUTlZNFlDRWY1aGc5dnpsUkVEUllV?oc=5",
-      "source": "헬스오",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "“글루텐프리 인증, K-쌀가공식품 수출 경쟁력”",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uZU9NSnZyRUtvdnlDODl3U1h5X1NOUFBkSVZKZmlhYXRzNmNHOEZxVlU2cE80U25MQnV2NC1PWFMwNnFRdEc3UVBmWkZNTXBFbnVjX0pqV1d6QnZzenBSRVB4V25pSmQzeVptdFNB?oc=5",
-      "source": "아시아투데이",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "농협 최초 ‘원초김’ 일본 수출",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzLWpwdjJ3Wm1jYmdVRUZ4dWxBdVFVMC1BbHgwQzFFdWlpVDZpQ3N4Vk9PRldKUDdSUG5vRUYxbzVfZUk3anhVMXJwR090SjlGXzNCOW1XUjd4Zw?oc=5",
-      "source": "농민신문",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "서울시농수산식품기업 수출협의회, 중국 수출길 넓힌다…1100만 달러 규모 MOU 성과",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkUnlyeUZzeDBHVzJQRHZmMlNFU0JkYkRBRVBNbzJfS1JwaFFxcV9QY0F6cDZTMm9YdUpwMjNmbTNhTktrdDZEcVpzUDRjYXJRV1djcm9XWXNKTzh5eEZCMXg0Vy1VUUYtaUZB?oc=5",
-      "source": "시정일보",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "광천농협, 원초김 일본 첫 수출",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12b1NneTFwSHdwTEdiYXpJU2FRQU5YTjlqa3hiWTluY2Y0TlJrTVdmQXBSRG9rWFFUaXRQeFhoQmVwMUhGMVpYTHY4NDAxS01qUndUaTQyREVCVGF1eElzU0NEbnpyU0RfRERz?oc=5",
-      "source": "knongnews.com",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "농협, 원초김 일본 첫 수출…프리미엄 시장 공략",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlM3ZUOEdCU2REb0pPNnhaRS1xYmx5UmczSU5KSXdITFVvUTNtY3dZSUZTZmxoTW5YY2JuX0NHZjZyUHRFdTdSQ3pROGE2c25kTG1WQjhPU2VpUzcyZlRZZUFFT0k?oc=5",
-      "source": "포쓰저널",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "\"글루텐프리 인증, K-쌀가공식품 수출 경쟁력\"",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xVWVzeXBya1JWLW5aN0RSNVR0VTZqenFabVVEZzM2OGgzSlZIaDVVN2pQc0QxZkpSRmtxMmtHQ3RMOXhJWGF1NUhXT0h4R1BfZjJN?oc=5",
-      "source": "네이트",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "농산물 수출 성장을 촉진하기 위한 해결책.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXZOSmV6LUNpcDJPaUMzNG1XSnpSZkQyWWtnbi1uNC1DWDRRMmVRRDBudjVVOW1JMDF4WjljWjJLNWFEYlVfOURsTk9oU09jSGhXbFBlNW9majVsTndrU1pSQll6OUU0Ny02NEVocWxILVZ0NzUxV1Bqd1drMXBLNmY4aGd6Zw?oc=5",
-      "source": "Vietnam.vn",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "농협, 원초김 첫 대일 수출…K-푸드 식재료 시장 넓힌다",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JdzBMWHZTZGJkV2FTX0NBdHRfc29fYmlwSWxyXzdZdC1nLTBQOW1URjU0U1Z6OXJrM2RvdmNkOXZmT0dPWld4MmoyNGh1bkJmcmZPZEFEcEZydkdfQU5YcUZ4RlNmVTQtZ2tObDhQTQ?oc=5",
-      "source": "이코노미사이언스",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "강원한우, 2025년 강원한우 UAE 해외 바이어 초청 연수 성료",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tUXpuRUxtNUQ0UlJaMWl4MnFVT0lpczFnb0N5eGNadlhYU1dMY0VhVEN0ZEZWMjd5RHR0UTZHdDJtRjJFejJhWnZxZkdfWlVRVnUwSDFtbTBwNC1VR192bjJMS0dOVC1jbTZyX21Ib0hQNzk0Z0lnbw?oc=5",
-      "source": "강원일보",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "South-Korea Nutraceutical Inspection Systems Market Size, Share,Trends, Growth Analysis Report, 2031",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcllja3NsZXlDYTFWLXpNTnQzTUpUODdBQTA3eHV2dkdFbV9ETXVSb1FYcmRadURyekUxUmdiTURITjdUalJUbG5KRWZFV0NvX3cwamtOaVR6NGlXZGxENldhNHVlUlFnWWh4aGtrLTB3NmlmYWgxWGRKWk9kb1M1dThyYjZacFVxSk15Q2VYVlRmSnh4cVRjXzJFSlRVVFFleDhabkM2dkJIQ1BQS0o0?oc=5",
-      "source": "marketsandmarkets.com",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "foreign",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "New-Zealand Nutraceutical Inspection Systems Market Size, Share,Trends, Growth Analysis Report, 2031",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0l2YUc2OUdPWUFCYVlKYlFnWFJmc1pjalJrOEkzSkJMYm80dTVXZjFZdzlnYmd3NFBQeUM3ek5rdE1FMW9IUkxscnRGRmNvYzZXdng3dFlud2dwN0lrcENJT093ckZJd0pEc1Y1OUxZQkQyRThlcFJHYWtlLU15enF0MDJBamhkM0lvNUZpQ3Z6X1MtZkg5NzM3alluMllFRERQNVRrMVptRWRQZlVB?oc=5",
-      "source": "marketsandmarkets.com",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "foreign",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "Canada Nutraceutical Inspection Systems Market Size, Share,Trends, Growth Analysis Report, 2031",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUZpMUpfMVVqS3JPekJnVDZSd3NmdS1tRUN2alc3NFRqMnBpTXJhV010Qm5GX2FSeER3ckdMTnVtTm41Mlp0N2JXX3ZuUVdzWHVWaGtjNFRJTXg2NVloa3k3MVVFdkt6eE9kOHJrRktYTUdLR2I2NmgzLUZ5WUQteFp3Vm9RUWxDS2wzdzlhemZxLU0wOGNMTDUxR1ZiaXJZdTlrTnlrU3E?oc=5",
-      "source": "marketsandmarkets.com",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "foreign",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "Rest-Of-Europe Nutraceutical Inspection Systems Market Size, Share,Trends, Growth Analysis Report, 2031",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS082NDUyNlFJM3drMEM3UmFfV1QtT1k0V05pZGxuLTRPbHh2Uko2Y1YzOUpVUWs4cG9aaWxTbXpMV01Ha3ZBellROGRzNUhIWldlUUZZWHBYR2NOX0tGczhoVWFqTkJaRkZQUDV0NUhULS1oZUJrcmdkVk1DYTJ5TWhfTlBNa0RXbXRva1Bwb2tod010UmVPOVFVOHlqT3RfUWZUeHYwTVlCYTVQb3NhTEtNOA?oc=5",
-      "source": "marketsandmarkets.com",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "foreign",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "식품진흥원-SGS, K-푸드 해외 진출 지원 협약",
-      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119602",
-      "source": "식품저널",
-      "published_date": "2026-08-03",
-      "summary": "한국식품산업클러스터진흥원(이사장 김덕호)은 7월 30일 글로벌 시험ㆍ검사ㆍ인증 전문기관 한국에스지에스(대표 이인섭)와 K-푸드 해외 진출 지원을 위한 업무협약을 체결했다.국가식품클러스터 인프라와 해외수출지원센터를 활용, 식품기업의 수출 애로를 진단하고 제품 개발ㆍ개선, 시험ㆍ분석, 패키징 개선, 해외시장 진출 등 수출 준비 전 과정을 지원하고 있는 식품진흥원은 이번 협약을 통해 한국에스지에스의 글로벌 인증ㆍ시험ㆍ검사 전문성을...",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "풀무원푸드머스, 라임교육연구소와 영유아 급식 환경 개선 MOU",
-      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119601",
-      "source": "식품저널",
-      "published_date": "2026-08-03",
-      "summary": "풀무원푸드머스는 지난 7월 29일 라임교육연구소와 영유아 급식 환경 개선을 위한 업무협약을 체결했다.협약에 따라 양측은 △어린이집 원장 대상 지속가능 식생활 교육 △영유아 맞춤 식단 공동 개발 △영유아ㆍ영유아 시설 직원 대상 위생관리 서비스 △영유아 맞춤 통합 메뉴 제공 등을 함께 이행한다.풀무원푸드머스는 라임교육연구소가 위탁 운영하는 영유아 급식 사업장에 영유아 맞춤 식단을 공동 개발해 제공하고, 해당 사업장에서 영유아...",
-      "origin": "domestic",
-      "category": "trade_opportunity",
-      "keyword_score": 1
-    },
-    {
-      "title": "A Clinically-Backed Botanical Extract for Women's and Men's Sexual Wellness",
-      "url": "https://www.nutritionaloutlook.com/view/a-clinically-backed-botanical-extract-for-women-s-and-men-s-sexual-wellness",
-      "source": "Nutritional Outlook",
-      "published_date": "2026-08-03",
-      "summary": "",
-      "origin": "foreign",
-      "category": "wellness_trend",
-      "keyword_score": 1
-    },
-    {
-      "title": "Z Natural Foods launches chocolate goat whey protein concentrate",
-      "url": "https://www.foodbev.com/post301/z-natural-foods-launches-chocolate-goat-whey-protein-concentrate",
-      "source": "FoodBev Media",
-      "published_date": "2026-08-03",
-      "summary": "Z Natural Foods has expanded its functional nutrition portfolio with the launch of a Chocolate Goat Whey Protein Concentrate.",
       "origin": "foreign",
       "category": "wellness_trend",
       "keyword_score": 1
