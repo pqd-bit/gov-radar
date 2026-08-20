@@ -3,7 +3,10 @@
     "2acbccb820",
     "f4596df0dc",
     "e5e0d3992f",
-    "6777256ab7"
+    "6777256ab7",
+    "5bffe0d3ad"
   ],
-  "dismissed_orgs": {}
+  "dismissed_orgs": {
+    "산업통상부": 1
+  }
 }
