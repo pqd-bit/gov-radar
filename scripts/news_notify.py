@@ -21,12 +21,17 @@ import smtplib
 from datetime import date, timedelta
 from email.mime.text import MIMEText
 from pathlib import Path
+from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_PATH = ROOT / "docs" / "data" / "news.json"
 SENT_PATH = ROOT / "docs" / "data" / "news_sent.json"
 
 MAX_PER_DAY = 10
+
+# GitHub Actions가 자동으로 "owner/repo" 형태로 주입해주는 환경변수 (별도 설정 불필요).
+# dismiss.yml/notify.py와 동일한 GitHub Issues 트릭으로 피드백 링크를 만드는 데 쓴다.
+GITHUB_REPO = os.environ.get("GITHUB_REPOSITORY", "")
 
 SENT_RETENTION_DAYS = 14
 
@@ -95,19 +100,36 @@ def select_daily_articles(domestic, foreign, quota=10):
     return domestic[:dom_n] + foreign[:for_n]
 
 
+def feedback_url(kind: str, article_id: str):
+    """"도움됨 👍"/"별로 👎" 클릭 시 이동할 GitHub 이슈 생성 링크.
+
+    dismiss.yml/notify.py의 dismiss_url()과 동일한 트릭: 이슈 제목을
+    "feedback-good:{article_id}"/"feedback-bad:{article_id}" 형태로 만들어
+    .github/workflows/news_feedback.yml 이 감지하도록 한다.
+    """
+    if not GITHUB_REPO or not article_id:
+        return ""
+    title = quote(f"feedback-{kind}:{article_id}")
+    return f"https://github.com/{GITHUB_REPO}/issues/new?title={title}&labels=news-feedback"
+
+
 def _card_html(it):
     title = html.escape(it["title"])
     source = html.escape(it.get("source") or "")
     published = html.escape(it.get("published_date") or "날짜 미상")
     category = html.escape(CATEGORY_LABELS.get(it.get("category"), it.get("category") or ""))
     view_href = html.escape(it["url"], quote=True)
+    good_href = html.escape(feedback_url("good", it.get("id") or ""), quote=True)
+    bad_href = html.escape(feedback_url("bad", it.get("id") or ""), quote=True)
 
     return f"""
 <div style="border:1px solid #e0e0e0;border-radius:8px;padding:16px;margin-bottom:12px;">
   <div style="font-size:15px;font-weight:bold;color:#111111;margin-bottom:6px;">{title}</div>
   <div style="font-size:13px;color:#767676;margin-bottom:12px;">{source} · <strong style="color:#111111;">{published}</strong> · {category}</div>
   <div>
-    <a href="{view_href}" style="display:inline-block;background-color:#2563eb;color:#ffffff;text-decoration:none;font-size:13px;padding:6px 12px;border-radius:6px;">기사 보기 →</a>
+    <a href="{view_href}" style="display:inline-block;background-color:#2563eb;color:#ffffff;text-decoration:none;font-size:13px;padding:6px 12px;border-radius:6px;margin-right:8px;">기사 보기 →</a>
+    <a href="{good_href}" style="display:inline-block;background-color:#f0fdf4;color:#15803d;text-decoration:none;font-size:13px;padding:6px 12px;border-radius:6px;margin-right:8px;">도움됨 👍</a>
+    <a href="{bad_href}" style="display:inline-block;background-color:#fef2f2;color:#b91c1c;text-decoration:none;font-size:13px;padding:6px 12px;border-radius:6px;">별로 👎</a>
   </div>
 </div>"""
 

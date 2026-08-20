@@ -20,6 +20,8 @@ RSS로 수집해 docs/data/news.json 으로 저장한다.
        - fooddive.com
        - nutritionaloutlook.com   (NutraIngredients-Asia 대체)
        - foodbev.com              (FoodNavigator 대체)
+       - nutritioninsight.com     (2026-08-20 추가, 직접 RSS 확인)
+       - foodnavigator.com        (2026-08-20 추가, 아래 참고)
 
   주: 실제 접속 검증 결과 FoodNavigator/NutraIngredients-Asia(William Reed/
   Informa 플랫폼)는 공개 RSS를 폐지하고 뉴스 sitemap만 제공한다
@@ -37,12 +39,39 @@ RSS로 수집해 docs/data/news.json 으로 저장한다.
   KOTRA 뉴스레터, 푸드위크 뉴스레터는 이미 다른 경로로 수신 중이므로
   중복 소스로 추가하지 않는다.
 
+  2026-08-20 소스 확대 조사 결과:
+    - 데일리팜(dailypharm.com): 직접 RSS 전부 404 (rssIndex.html도 없음,
+      thinkfood류와 다른 CMS). Google News site:dailypharm.com 쿼리로
+      대체하고 "건강기능식품" 키워드를 함께 걸어 관련 기사만 잡히도록 함
+      (직접 접속 검증 결과 실제 기사가 반환됨).
+    - 식품산업통계정보 FIS(atfis.or.kr): 직접 RSS 없음. Google News
+      site: 쿼리도 대부분 통계 포털의 정적 메뉴 페이지만 반환되고 실제
+      기사가 거의 없어(직접 접속 검증) 추가하지 않음 - aT 뉴스는 기존
+      site:at.or.kr 쿼리로 이미 커버됨.
+    - 뉴트리원(nutrione.co.kr): 실제로는 건기식 쇼핑몰(자사몰)이지
+      전문지/매체가 아님(직접 접속 확인: "뉴트리원 공식몰..."). 뉴스
+      소스로 부적합해 제외.
+    - Nutrition Insight(nutritioninsight.com): 홈페이지 <link rel="alternate">
+      로 RSS 자동탐색 성공 - 실제 엔드포인트는 CDN인
+      resource-cns.cnsmedia.com/rss/ninews.xml (직접 접속 검증, 50건).
+    - Food Navigator USA: foodnavigator-usa.com은 현재 foodnavigator.com
+      (기존 EU/글로벌판)으로 301 리다이렉트되어 별도 사이트로 존재하지
+      않음(William Reed가 통합한 것으로 보임, 직접 접속 검증). 즉 "USA
+      전용판"은 더 이상 없고, 통합된 foodnavigator.com의 RSS
+      (/arc/outboundfeeds/rss/, 직접 접속 검증 20건)만 유효하다 - 이를
+      "FoodNavigator"로 등록한다(기존 FoodBev Media 대체 소스와는 별개로
+      유지 - 매체가 다름).
+    - Ingredients Network(ingredientsnetwork.com): RSS 자동탐색/직접 경로
+      전부 실패. Google News site:ingredientsnetwork.com 쿼리로 대체
+      (직접 접속 검증 결과 FDA/성분 관련 실제 기사 반환됨).
+
 실행:
   python scripts/news_collector.py
 출력:
   docs/data/news.json
 """
 import difflib
+import hashlib
 import json
 import re
 import sys
@@ -55,6 +84,7 @@ import requests
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_PATH = ROOT / "docs" / "data" / "news.json"
+SOURCE_SCORES_PATH = ROOT / "docs" / "data" / "source_scores.json"
 
 REQUEST_TIMEOUT = 20
 USER_AGENT = "Mozilla/5.0 (compatible; gov-radar-news-bot/1.0)"
@@ -76,6 +106,8 @@ DOMESTIC_GOOGLE_NEWS_QUERIES = [
     ("웰니스", "ko", "KR", "KR:ko"),
     # aT(한국농수산식품유통공사)는 자체 RSS가 없어 site: 연산자로 대체 수집
     ("site:at.or.kr 수출", "ko", "KR", "KR:ko"),
+    # 데일리팜도 자체 RSS가 없어(모듈 docstring 참고) site: 연산자로 대체 수집
+    ("site:dailypharm.com 건강기능식품", "ko", "KR", "KR:ko"),
 ]
 
 FOREIGN_GOOGLE_NEWS_QUERIES = [
@@ -84,6 +116,8 @@ FOREIGN_GOOGLE_NEWS_QUERIES = [
     ("plant-based food trend", "en", "US", "US:en"),
     ("food buyer sourcing import", "en", "US", "US:en"),
     ("food export tariff", "en", "US", "US:en"),
+    # Ingredients Network도 자체 RSS가 없어(모듈 docstring 참고) site: 연산자로 대체 수집
+    ("site:ingredientsnetwork.com", "en", "US", "US:en"),
 ]
 
 # 업계 전문매체 RSS - 실제 접속해 <item> 존재까지 확인한 URL만 등록 (모듈 docstring 참고)
@@ -98,6 +132,11 @@ FOREIGN_INDUSTRY_FEEDS = [
     ("Food Dive", "https://www.fooddive.com/feeds/news/"),
     ("Nutritional Outlook", "https://www.nutritionaloutlook.com/rss.xml"),
     ("FoodBev Media", "https://www.foodbev.com/blog-feed.xml"),
+    ("Nutrition Insight", "https://resource-cns.cnsmedia.com/rss/ninews.xml"),
+    # foodnavigator-usa.com은 foodnavigator.com(기존 EU/글로벌판)으로 301
+    # 리다이렉트되어 별도 사이트로 존재하지 않는다(모듈 docstring 참고) -
+    # 통합된 도메인의 RSS를 등록한다.
+    ("FoodNavigator", "https://www.foodnavigator.com/arc/outboundfeeds/rss/"),
 ]
 
 # 관련도 판정에 쓰이는 키워드 그룹 (그룹 내 OR). 반드시 is_relevant() 내부에서만
@@ -138,28 +177,30 @@ def is_relevant(title, summary):
 
     Returns:
         (is_match: bool, category: "wellness_trend"|"trade_opportunity"|None,
-         score: int) - score는 매칭된 키워드 개수로, news_notify.py가 상위
-        10건을 뽑을 때 재사용한다(재계산 없이 이 함수의 결과만 사용).
+         score: int, matched_keywords: list[str]) - score는 매칭된 키워드
+        개수로, news_notify.py가 상위 10건을 뽑을 때 재사용한다(재계산 없이
+        이 함수의 결과만 사용). matched_keywords는 apply_learned_weight()가
+        source_scores.json의 키워드별 피드백 점수를 조회할 때만 사용한다.
     """
     text = f"{title} {summary or ''}".lower()
 
     def _count_hits(keywords):
-        hits = 0
+        hits = []
         for kw in keywords:
             pattern = r"\b" + re.escape(kw.lower()) + r"\b"
             if re.search(pattern, text, flags=re.UNICODE):
-                hits += 1
+                hits.append(kw)
         return hits
 
     wellness_hits = _count_hits(WELLNESS_KEYWORDS)
-    if wellness_hits > 0:
-        return True, "wellness_trend", wellness_hits
+    if wellness_hits:
+        return True, "wellness_trend", len(wellness_hits), wellness_hits
 
     trade_hits = _count_hits(TRADE_OPPORTUNITY_KEYWORDS)
-    if trade_hits > 0:
-        return True, "trade_opportunity", trade_hits
+    if trade_hits:
+        return True, "trade_opportunity", len(trade_hits), trade_hits
 
-    return False, None, 0
+    return False, None, 0, []
 
 
 def priority_bonus(origin, title, summary):
@@ -181,6 +222,64 @@ def priority_bonus(origin, title, summary):
         if re.search(pattern, text, flags=re.UNICODE):
             bonus += 1
     return bonus
+
+
+# apply_learned_weight()의 배율 clamp 범위 - Dean의 "도움됨/별로" 피드백
+# 누적치가 아무리 극단적이어도 특정 소스/키워드가 완전히 0이 되거나
+# 점수가 무한정 커지지 않도록 한다.
+LEARNED_WEIGHT_MIN = 0.3
+LEARNED_WEIGHT_MAX = 3.0
+LEARNED_WEIGHT_STEP = 0.15
+
+
+def load_source_scores():
+    """docs/data/source_scores.json 을 읽는다. news_feedback.yml이 Dean의
+    "도움됨 👍"/"별로 👎" 클릭을 이 파일에 소스/키워드별 good/bad 카운트로
+    누적하면, 다음 수집 회차부터 apply_learned_weight()가 여기서 읽어
+    반영한다."""
+    if not SOURCE_SCORES_PATH.exists():
+        return {"sources": {}, "keywords": {}}
+    try:
+        data = json.loads(SOURCE_SCORES_PATH.read_text(encoding="utf-8"))
+        data.setdefault("sources", {})
+        data.setdefault("keywords", {})
+        return data
+    except Exception:
+        return {"sources": {}, "keywords": {}}
+
+
+def apply_learned_weight(article, scores):
+    """
+    피드백 기반 가중치 반영 단일 지점.
+
+    article["keyword_score"](base_score)에 source_scores.json의 해당
+    source와 매칭된 키워드(article["matched_keywords"])들의 good/bad
+    카운트 합을 반영해 score = base_score * (1 + good*0.15 - bad*0.15)
+    형태로 조정한다. 배율은 [LEARNED_WEIGHT_MIN, LEARNED_WEIGHT_MAX]로
+    clamp해 피드백이 누적돼도 극단적으로 치우치지 않게 한다.
+
+    스코어링 파이프라인에서 이 함수 하나만, main()의 keyword_score 계산
+    직후 한 지점에서만 호출한다 - 가중치 반영 로직을 다른 곳에 중복
+    구현하지 않는다.
+    """
+    base_score = article.get("keyword_score", 0)
+
+    good = 0
+    bad = 0
+
+    source_stats = scores.get("sources", {}).get(article.get("source"), {})
+    good += source_stats.get("good", 0)
+    bad += source_stats.get("bad", 0)
+
+    keyword_stats = scores.get("keywords", {})
+    for kw in article.get("matched_keywords", []):
+        kw_stats = keyword_stats.get(kw, {})
+        good += kw_stats.get("good", 0)
+        bad += kw_stats.get("bad", 0)
+
+    multiplier = 1 + good * LEARNED_WEIGHT_STEP - bad * LEARNED_WEIGHT_STEP
+    multiplier = max(LEARNED_WEIGHT_MIN, min(LEARNED_WEIGHT_MAX, multiplier))
+    return round(base_score * multiplier, 3)
 
 
 def is_fresh(published_date, run_date, max_age_days=2):
@@ -577,6 +676,14 @@ def dedupe_by_url(items):
     return out
 
 
+def make_article_id(url: str) -> str:
+    """기사 id 발급 단일 지점. url 기준 안정적인 해시라 재수집해도 동일
+    기사는 같은 id를 유지하며, news_notify.py의 피드백 링크(feedback-good:/
+    feedback-bad:{id})와 news_feedback.yml이 news.json에서 기사를 다시
+    찾을 때 이 id로 조회한다."""
+    return hashlib.md5((url or "").encode("utf-8")).hexdigest()[:10]
+
+
 def main():
     raw_items = (
         fetch_google_news(DOMESTIC_GOOGLE_NEWS_QUERIES, "domestic")
@@ -585,6 +692,8 @@ def main():
         + fetch_industry_feeds(FOREIGN_INDUSTRY_FEEDS, "foreign")
     )
     raw_items = [it for it in raw_items if it["title"] and it["url"]]
+    for it in raw_items:
+        it["id"] = make_article_id(it["url"])
 
     if not raw_items:
         # 모든 소스가 fetch 실패했거나 정상 응답이 전부 빈 피드였던 경우:
@@ -599,10 +708,11 @@ def main():
         return
 
     run_date = datetime.now(timezone.utc).date()
+    source_scores = load_source_scores()
 
     relevant = []
     for raw in raw_items:
-        ok, category, score = is_relevant(raw["title"], raw["summary"])
+        ok, category, score, matched_keywords = is_relevant(raw["title"], raw["summary"])
         if not ok:
             continue
         # 최종 후보 리스트를 만드는 단 한 곳 - 신선도 필터는 여기서만 호출한다.
@@ -610,7 +720,10 @@ def main():
             continue
         item = dict(raw)
         item["category"] = category
+        item["matched_keywords"] = matched_keywords
         item["keyword_score"] = score + priority_bonus(raw["origin"], raw["title"], raw["summary"])
+        # 스코어링 파이프라인에서 피드백 가중치를 반영하는 단 한 지점.
+        item["keyword_score"] = apply_learned_weight(item, source_scores)
         relevant.append(item)
 
     # 신선도 필터 통과 직후, URL 기준 중복 제거보다 먼저 근접중복(제목

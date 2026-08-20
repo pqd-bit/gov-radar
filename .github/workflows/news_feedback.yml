@@ -1,0 +1,93 @@
+name: Gov Radar News Feedback Handler
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  feedback:
+    if: startsWith(github.event.issue.title, 'feedback-good:') || startsWith(github.event.issue.title, 'feedback-bad:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update source_scores.json
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+        run: |
+          python3 - <<'EOF'
+          import json, os, re
+
+          scores_path = "docs/data/source_scores.json"
+          news_path = "docs/data/news.json"
+
+          title = os.environ["ISSUE_TITLE"]
+          m = re.match(r"feedback-(good|bad):(\S+)", title)
+          if not m:
+              raise SystemExit(0)
+
+          kind, article_id = m.group(1), m.group(2)
+
+          with open(scores_path, "r", encoding="utf-8") as f:
+              scores = json.load(f)
+          scores.setdefault("sources", {})
+          scores.setdefault("keywords", {})
+
+          # 해당 id의 기사를 news.json에서 찾아 source/matched_keywords를 조회한다.
+          # 이미 news.json에서 사라진 기사일 수도 있으니 못 찾으면 조용히 스킵.
+          article = None
+          try:
+              with open(news_path, "r", encoding="utf-8") as f:
+                  news = json.load(f)
+              for it in news.get("items", []):
+                  if it.get("id") == article_id:
+                      article = it
+                      break
+          except Exception:
+              article = None
+
+          if article is None:
+              print(f"article not found for id={article_id}, skip")
+          else:
+              source = article.get("source")
+              if source:
+                  entry = scores["sources"].setdefault(source, {"good": 0, "bad": 0})
+                  entry[kind] = entry.get(kind, 0) + 1
+
+              for kw in article.get("matched_keywords", []):
+                  entry = scores["keywords"].setdefault(kw, {"good": 0, "bad": 0})
+                  entry[kind] = entry.get(kind, 0) + 1
+
+              with open(scores_path, "w", encoding="utf-8") as f:
+                  json.dump(scores, f, ensure_ascii=False, indent=2)
+              print(f"feedback recorded: {kind} {article_id} (source={source})")
+          EOF
+
+      - name: Commit source_scores.json
+        run: |
+          git config user.name "gov-radar-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/data/source_scores.json
+          git diff --cached --quiet || git commit -m "chore: ${{ github.event.issue.title }}"
+          git push
+
+      - name: Close issue with confirmation
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: "피드백 반영 완료 — 다음 수집부터 관련 소스/키워드 점수에 반영됩니다."
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: "closed"
+            });
