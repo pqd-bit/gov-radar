@@ -23,8 +23,12 @@ jobs:
           import json, os, re
 
           path = "docs/data/dismissed.json"
+          programs_path = "docs/data/programs.json"
+
           with open(path, "r", encoding="utf-8") as f:
               data = json.load(f)
+          data.setdefault("dismissed_ids", [])
+          data.setdefault("dismissed_orgs", {})
 
           title = os.environ["ISSUE_TITLE"]
           m = re.match(r"dismiss:(\S+)", title)
@@ -32,9 +36,26 @@ jobs:
               item_id = m.group(1)
               if item_id not in data["dismissed_ids"]:
                   data["dismissed_ids"].append(item_id)
+
+                  # 해당 id의 공고를 programs.json에서 찾아 org를 dismissed_orgs에 +1.
+                  # 이미 수집 결과에서 사라진 id일 수 있으니 못 찾으면 조용히 스킵.
+                  org = None
+                  try:
+                      with open(programs_path, "r", encoding="utf-8") as f:
+                          programs = json.load(f)
+                      for program in programs.get("items", []):
+                          if program.get("id") == item_id:
+                              org = program.get("org")
+                              break
+                  except Exception:
+                      org = None
+
+                  if org:
+                      data["dismissed_orgs"][org] = data["dismissed_orgs"].get(org, 0) + 1
+
                   with open(path, "w", encoding="utf-8") as f:
                       json.dump(data, f, ensure_ascii=False, indent=2)
-                  print(f"dismissed: {item_id}")
+                  print(f"dismissed: {item_id}" + (f" (org={org})" if org else " (org not found, skipped org count)"))
           EOF
 
       - name: Commit dismissed.json
