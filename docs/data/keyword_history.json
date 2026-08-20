@@ -1,20 +1,23 @@
 {
   "2026-08-20": {
     "건강기능식품": 14,
-    "수출": 36,
-    "단백질": 4,
+    "수출": 42,
+    "단백질": 5,
+    "mou": 1,
+    "sourcing": 2,
+    "plant-based": 1,
+    "healthy aging": 2,
+    "tariff": 2,
     "기능성 원료": 1,
     "프로바이오틱스": 5,
-    "장 건강": 2,
+    "장 건강": 1,
     "바이어": 4,
-    "nutraceutical": 2,
-    "sourcing": 1,
+    "nutraceutical": 1,
     "헬시플레저": 1,
     "수입": 2,
-    "tariff": 1,
     "protein": 3,
-    "wellness": 1,
     "postbiotic": 1,
-    "healthy aging": 1
+    "gut health": 1,
+    "immune health": 1
   }
 }
