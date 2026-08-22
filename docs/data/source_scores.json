@@ -1,4 +1,14 @@
 {
-  "sources": {},
-  "keywords": {}
+  "sources": {
+    "전자신문": {
+      "good": 0,
+      "bad": 1
+    }
+  },
+  "keywords": {
+    "기능성 원료": {
+      "good": 0,
+      "bad": 1
+    }
+  }
 }
