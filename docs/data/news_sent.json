@@ -1,46 +1,6 @@
 {
   "sent": [
     {
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uem5qS0o4bzJPVTJfbjN1OExEdUFGTjFlVUw0MEF2UWdkVzR4aVg4ajNQd2xNZU9VY29wTXVjNk9tQndFRWZOYkJiaFBHNEtrMlVtd085ZmZtZ0FuV09aNHdWUkNYSUhnem1ja2F0N1M?oc=5",
-      "sent_at": "2026-08-09"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdHcyaDFvdWs5SGI1Z0FTUEdJQzY4YkhKelVSdnptRDRkR2kzd1dMS1lXS1lhTWktYWx4andUQ1dzdDByTmN0ZTV2NmFMenlZbHh0aUdhSVVyQ0FlTDVRX050aHA3SlN1OGp5S1lIMjRRbWtSd2J4dnlLdG0wRVIweUtQNA?oc=5",
-      "sent_at": "2026-08-09"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83VWI5RDhld2ljcmRzMlpRTXZJNjhoNG9lV2EzemdEc3hxRzlmaWxMa05mcFYzRVM1ZGxsY2F4N1Y3SUg1VjFqbjlPeFl4SlI0R2pMaDI3VUlVV0F3TnRUbA?oc=5",
-      "sent_at": "2026-08-09"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQTzJzQzdiVlRvTjIyU09kU2Z5Zmo4WW84Z1ppUmNVa09Xc2xOQllxZS1NbnU0N2ZwY01TaC12czdFQWhJME1lOURROWh4cTRncFBKVlNmSnN1aUVZM3paNNIBeEFVX3lxTE5TblIzSUU0RXZlYmxiaEZaYm5PSThWNVhsVDNqbXU4T3dNSEJua004ZWVmdnFnWUJpbmV0OGFXYXBiVWhZNUgxNjNJdXNheDR3dksyc2wwNW9OMFlHX0Q2VHdmYkZTem5CZ0dQT2x4aVhPc3g0MDA3WA?oc=5",
-      "sent_at": "2026-08-09"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWEtQ1lObTRRRGxZRzRTeXhwbnljX0twYy1VUDJFLUJGZ0lpOEZqSWx5WWhpZmhpdElDLXJjcVZOUjFjNFBYalU0Y0FkdUQtN0RXQ3V0MjRrUml0NDlCd3BKczVYMnh0YVRFZGRVUGIxOGxHTDk4cGxCTjJ5TDE0blpDTzk?oc=5",
-      "sent_at": "2026-08-09"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSWRKVWpKNzBDTldaMS1mamp4dUdYelVuLVVqX3pkUUpxa2tkSlVBamQ5ZWN1UjIyTmZvUWlyaE90V2pLeXVyNmM0dUZVOEx5WmNndmR6U3ZWQUxrXzhNaWtHaE5NSjdCOG43TDMtS055ZmNrY2kxWDBNNm96QXdKSG13cw?oc=5",
-      "sent_at": "2026-08-09"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFakFOaWs5WUg4a2JucDhlU010MmRRdW1iRzF1QjlVNnBWVWJuSVA4Z3hnckQtd2pJSGcyRXhUSWs5NXozb1VmNmxHalU0dkRqN2Q2ajM1ZTZlX2FWTHVVdFNiODNNRTl5bHp3MEphejZIOXc?oc=5",
-      "sent_at": "2026-08-09"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VWTliM2UzLXh0Rjk4ZE5EdUh0TXNiNm1kTm9KRDMwV3dYMm15M3JCYU1RMnlLZWhHOC1hbDNCcVNYVGo2NmxWcWFPRFp4blF6b1BiNngxZTFhckhua1FicVhWU1JXazc3?oc=5",
-      "sent_at": "2026-08-09"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vbVozUXpSUXRoaVMtUi11bVpjcG9EeVVQdkZmR1MxT0tkcWlmWHg1Tk1oNTdGMUpvV2RJLTcyQ0JMcUJrQlJMSGRXejZfLVZfQlFGMy1JTUNuOFB3?oc=5",
-      "sent_at": "2026-08-09"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT0RTd0tEN1BhUko5TURUSW1Fd19nNzgtTmU3T09fQTdhNUNjMU5MZHVRcEV4S2l6TDd1SWJXaW9MczNpYW9ZN3pQNjRtN1JyVWlRMks3QXVhZTllcGRTNF80ai1YY0dSYl9iZzRiLTNtQXZnUTNyZjhCTXJIb1dKeTBueFpOVFQzSHAybjZkWmgxQzduT21rOWh4QUdMNDQ?oc=5",
-      "sent_at": "2026-08-09"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NM0M4YUswTnBhc0Fpc1dJVEJwOGpTQ0hxaDg1N0ZGZzQ3M1NNa1RRd0tHczI2emxBREZyNG5MaXZsNUNEMk9pbGpLRVB2bm0yd0JhaHk2eU14MzhwVnBKRzZ0bWxWd29oVTNF0gFvQVVfeXFMUGVsN0RPU1c2Um44TXZNT2szWlJBMERBb0Y3aTdBMldtRjdDWHhaYXllVXY4UklQY0R4UVhYU3I3blA0TWtndHVoWXlKdkVhVkxBREpuVEZEdGpMUkJBTUZHeWFUT3RFTHltZkg2NGlJ?oc=5",
       "sent_at": "2026-08-10"
     },
@@ -715,6 +675,46 @@
     {
       "url": "https://www.foodbev.com/post301/plant-based-dairy-functionality-and-flexitarians-drive-innovation-in-2026",
       "sent_at": "2026-08-23"
+    },
+    {
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119862",
+      "sent_at": "2026-08-24"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0MTB4RjB0eHo4aE5ZN1JfVF8ybE5RTVFaSmltb0w2YlpTVTVrQWpjUEticHVzbFZCVzRKbC1qNU9STE9FV1V4dnhkVFM4b1RLX0pCS3hNT25rYXhDMVhIdm5SZ3JSanloOTJSRA?oc=5",
+      "sent_at": "2026-08-24"
+    },
+    {
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119854",
+      "sent_at": "2026-08-24"
+    },
+    {
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201026",
+      "sent_at": "2026-08-24"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50dXFGUmlwNmRSTGlJdFIybFhFQ2xkdnp2XzFWVEhOVmpYMm00aGlaMU1ZSFE2S2hzRWZKdERleThwcTJ4MnJFeDhRVWpDUFJveHQxWEcwdXM1S0HSAWBBVV95cUxNM2RmODB0eV84YU9DZ1dTSi1nS1F6Sm9IOUxHcWxxbm02eHlLOS1WUVFXMmgxdWMzWW01RGViYWhVQlhLOHFtLWxaUW82ZE11UUgzdkxpc3ltRjB6U28tRkE?oc=5",
+      "sent_at": "2026-08-24"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOblNRdDBISG9NRkI3SlhBVldQTXRWcS0wVDZXNXpBWFNIM1pKWF9kMm5YX191N1VrZGxsSDVDVFRERlZBcGoyTnNjZC1YS0FUUnBEdVhVRUtWRlJaTW5Md0NPLTFJejl5dlJuVVdVa3U5Wk9XdzdOdHphWEJlZ3BybHFwZF84OWV3aDE1azY0ZVFtTm5wM2YxcnZqXzU3dmIwVUpsUDJmdFdSWjFBbm0xZHNwRWdCbWI3akp2bTRxV3BIcXJRMmJEdEdlZw?oc=5",
+      "sent_at": "2026-08-24"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN21xejRWbXRuZ2FsM2FPcFdkUUtIcmdGUjBoa1RQSl9lOVUzN1h3ZW9CUTVETFdwcGFtMm9FaHk2UzNQODJ2MVJnRU1iVHEwMFd2Y21ZY1RHdTZFUEgyd3NZZUF2U2FyaU9hSGwyaThmcF9ya0lycS15Z0hCdE9FbmN0eHZZMzZLNC15bDFGb05KemJoR1VUalkwRF9FbFlfTzJzNXYyMA?oc=5",
+      "sent_at": "2026-08-24"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjVIdjhnQURKUFNiTTlIUW9WM0ZRVE53Z0JGb0dpVUhCMTdpMUgtRU0zUS01XzJBcFVRZFUxblRId0Z3LVE3Z29yVWljZ0g2bnRhMzZQRXh2bkk1UHlkUGR6Z1JleUc5YTA1eEI0blRoUXpCdXJkZzk5TXc5cTYyUEctN3pTWlZGZThUVmdrS09HTVNzN3c?oc=5",
+      "sent_at": "2026-08-24"
+    },
+    {
+      "url": "https://www.nutritioninsight.com/news/vitafoods-asia-2026-healthy-aging-active-nutrition.html",
+      "sent_at": "2026-08-24"
+    },
+    {
+      "url": "https://www.just-food.com/news/think-tank-touts-plant-based-price-savings-in-new-research/",
+      "sent_at": "2026-08-24"
     }
   ]
 }
