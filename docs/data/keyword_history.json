@@ -106,5 +106,24 @@
     "슈퍼푸드": 1,
     "nutraceutical": 2,
     "tariff": 1
+  },
+  "2026-08-27": {
+    "건강기능식품": 17,
+    "단백질": 7,
+    "기능성 원료": 5,
+    "프로바이오틱스": 2,
+    "수출": 27,
+    "바이어": 12,
+    "mou": 7,
+    "장 건강": 1,
+    "수입": 2,
+    "wellness": 3,
+    "buyer": 1,
+    "protein": 6,
+    "nutraceutical": 1,
+    "면역력": 1,
+    "postbiotic": 1,
+    "immune health": 1,
+    "healthy aging": 1
   }
 }
