@@ -142,5 +142,22 @@
     "wellness": 2,
     "nutraceutical": 1,
     "수입": 1
+  },
+  "2026-08-29": {
+    "수출": 20,
+    "건강기능식품": 8,
+    "mou": 9,
+    "바이어": 16,
+    "wellness": 1,
+    "tariff": 1,
+    "healthy aging": 1,
+    "단백질": 3,
+    "기능성 원료": 2,
+    "프로바이오틱스": 3,
+    "sourcing": 1,
+    "buyer": 1,
+    "protein": 1,
+    "plant-based": 1,
+    "immune health": 1
   }
 }
