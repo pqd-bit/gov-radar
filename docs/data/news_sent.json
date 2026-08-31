@@ -1,42 +1,6 @@
 {
   "sent": [
     {
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yWFZuSVN2Z1RCM280d0ZkSkV4YXp0WmYyRlRCdjFHNTdJbUFFaFBPREs2QkdLY29oZDdSWUFkdERaQkhVWGdxc0o4Z2N6YlRwUVFsemZDT093d1o0V1kyUXY0VEhOZE5tVlZCQXM2YmxIeWZXR19uZNIBeEFVX3lxTE1yWFZuSVN2Z1RCM280d0ZkSkV4YXp0WmYyRlRCdjFHNTdJbUFFaFBPREs2QkdLY29oZDdSWUFkdERaQkhVWGdxc0o4Z2N6YlRwUVFsemZDT093d1o0V1kyUXY0VEhOZE5tVlZCQXM2YmxIeWZXR19uZA?oc=5",
-      "sent_at": "2026-08-16"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5OTRxRFR6bVhHdEZiUlk1aUxHZHZGNXhQbXByRjVQQmZwS0NUY1lxZFZsZ2Iya0FJSVNKMkFvLTMwZHYtWWdLM3FybjhIWnBTZ3NaZW9ZUGVmZTR0d0pEY0oxLUZCd0o5RWc?oc=5",
-      "sent_at": "2026-08-16"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MS0xYeXFwbW9nelRvRHlWOHJhWTMwT1EyMExndUt6ZTlBMWhSMmJucnRWN0d0cXpwZTFnemxVYnRiX3drOE94Z3RFWnJSMGEyT1RMOS15NUdPQQ?oc=5",
-      "sent_at": "2026-08-16"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YTDdtT05RdWN3MHJkdDEwWWI5Q0g4dnRZeFNiaHR2U2M4QU5fT3g2NFhwYTVOLXQ3MGs0NUtqV3JNMW1fdXFsNjBGY2J0b2dGd0duLU50RGlTamJncGpxTk9xb2Myb29rcnRNYThmX3c?oc=5",
-      "sent_at": "2026-08-16"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vbUVjVWJDMUYtWmlsLUx6Vk9tMEdHSWtRdmFQcF9mMDN1T0FXal85NjBVbzMtbVMwMjRHVVhTZllMTkgxZjhjSFlfNFRfSWdrNEtBOVI3X3hpeVFYb2tUeVl5cmktRjY1X1Rv?oc=5",
-      "sent_at": "2026-08-16"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZZmNyRFlpQmZjbElkbVBvb1FHQ1FwLXJjSzFBSWFjZ1hyREg1c1FXdFR2Uy1FQjEzNnEzdjJ2ejhJdWRWOHdjMzB4OHdlRzVqcW52cW16TndmRFdsS0l0TjF3?oc=5",
-      "sent_at": "2026-08-16"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jdnRudjlxQ3NoMmh1blZLZjVDUDhMRldBVjM2eEl6b2xfeFU5LVpGWVU5ZS1ISFN2MjdpbDJVaEJpNGNZRXdwS28ydDlxQXc3ZG9GQ3JxSzJZOTQxaFA1VEdwWFFBY2c?oc=5",
-      "sent_at": "2026-08-16"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zWUtoTGRuUHluanMxcU5TV1UyaEdPWFZ1OXVVUzFmS0ZfdGt5bFdCUElVWUNDZmVNc04xcUE5em90REh1ajR1TFBUaw?oc=5",
-      "sent_at": "2026-08-16"
-    },
-    {
-      "url": "https://www.foodbev.com/post301/the-glp-1-effect-a-global-redefining-of-better-for-you-in-food-and-drink",
-      "sent_at": "2026-08-16"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hdUdhMFB2YjBDLTFhbnBEUFNwRlVqYU5CVWNnOVFwdWZ6am9ZNDk2SkwwbmdacUZ6VXRka1Z4V0V3RXhhMXAxMzhFWktqZGhEVG5yUWVaRFF6b05iREhGTzd3?oc=5",
       "sent_at": "2026-08-17"
     },
@@ -675,6 +639,46 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMWtySjY2Y3FxTTJtUU01dzFiMEZxWDQ0UzV4dmpmU2JjU3gxOWZJTTcxY2tEdVdFb2t6VGVFcXV0djZjMDFrODV0R2xQR2NaelhDVnBDbmFxWVBhd2w0WTNfc0FQZ2dsVENoX0FHSVJad3pJTDA5VUtCUndvdE1LYVV4T3IyeGJUZzdnOTFkQXNyNnhlaTA0UXU0ZHJmRmJWV1Bnd0c1THVlUmZJdmUtZzdQaFVTeTlUZHfSAboBQVVfeXFMUDFrcko2NmNxcU0ybVFNNXcxYjBGcVg0NFM1eHZqZlNiY1N4MTlmSU03MWNrRHVXRW9relRlRXF1dHY2YzAxazg1dEdsUEdjWnpYQ1ZwQ25hcVlQYXdsNFkzX3NBUGdnbFRDaF9BR0lSWnd6SUwwOVVLQlJ3b3RNS2FVeE9yMnhiVGc3ZzkxZEFzcjZ4ZWkwNFF1NGRyZkZiVldQZ3dHNUx1ZVJmSXZlLWc3UGhVU3k5VGR3?oc=5",
       "sent_at": "2026-08-30"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9haGY2Mkp4RXplYUdSTzRPRzJoU1pQNFI5MnBmZkk2blJHY0dLOXF3RE5YY0dfT056WHBWeGk0RUZ6b0VWWV9vbTdlbkx4b3ExbHo2ZDR2REpUU1VENC1CcTB6YXJKQ0dPZVA4TUlrbjNsaU5R?oc=5",
+      "sent_at": "2026-08-31"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aelFMaUVObm5TR1RXaF9WUWtoRzE3amZwS2hTd1M5ODRJdGZBWW9wX2RadFVpaHB1WjVkYmI4VGxrS1ZxanZDU29JcHJ3U0FBSHlPcDVnel9WdF95NHZaY01wT2ZFeG9qZFE?oc=5",
+      "sent_at": "2026-08-31"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tdmVpbkhVY0FDSmNtbEZYREx5QVBmUHJ5R1ZoeThjMGNYSmxUb0hQeFpJQ1NzM0tlemduVzZ1akI4Q2Z2ZnJxOUNQXzNIY21HbHJBYmFOZVBMWk9QSkVPNw?oc=5",
+      "sent_at": "2026-08-31"
+    },
+    {
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201058",
+      "sent_at": "2026-08-31"
+    },
+    {
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201050",
+      "sent_at": "2026-08-31"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwcUNFR01FbG43UlVmT3VoOFMtaUREb1NpRmJTRXNDbWF6Q0xmXzI4QXRWUUVRX04zcmlSNWZRRDZlbXZoYVc2eV9yczNBRG5icWFPRFdveC1FX1JFTHBpRdIBeEFVX3lxTE9ZYl9VTGtTRzFucFRrSHlqWXJXaGRJYnFJY2RTeHlpU0RZaDk1aXNZRUptNV9wWURVd1hPNU9FbWVkaEVndFRtdXFwTExnWFdodHRtT0FESGtCSU8wWmRSNUw2bnpJODdzMVZkYllTM0RESkpoVk1BUA?oc=5",
+      "sent_at": "2026-08-31"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FUkdpSmJldEd5dmtHUnFwTEZVY3FnbHAxRHV5TzkxbE5IdkdhUEpYdU1rLUxSQWozOG1PSkI4ajhIaHBISV9IbWlGOVAwNFNFb04xakpPT1NwUndCM3N6QjVCTkpqTFM4ZEtiX0pWWQ?oc=5",
+      "sent_at": "2026-08-31"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aTG05N3pYenREUmtEdk45TVMwbFJBYWx4Umt1S0JoLUVTR2ZnYm04RC0tZFRMcDEwdHBXeGZCMno3Y2xaVm9sQURuZ2plSUZaV1JDMXdFR3BFbG5ibjJoV2Q0VDJhV3llM2tETVNxdXY?oc=5",
+      "sent_at": "2026-08-31"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jX0syWjBXTFk3VGFVRzJkSF9UNnRLelpjVDBnT1ZzX2REWVd6Uk9INTN2M01aZk5NWGJQNzJJQmE5OERSalNCNktUbnFwbnM?oc=5",
+      "sent_at": "2026-08-31"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QR05sMGIwUzlSSUlUdVFwT3hRN1R5TVNSNFdGdjFrQ3dWUEhWbmRhNlJwRmNMeUo5NDNfZEJZWURfeGlLaGgzdUVsX2xETlIyRWxzd3YzMTYxdFFDdlExWXZadV9ON0ZRbHZaemlRVEk?oc=5",
+      "sent_at": "2026-08-31"
     }
   ]
 }
