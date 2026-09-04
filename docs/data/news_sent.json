@@ -1,166 +1,6 @@
 {
   "sent": [
     {
-      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119816",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBBUTRPaVNfRkgwUmNjWkV1ZFQwWElYcXd0MGZ3aVlDU29PX2pHcjM2TnIzeVAxYmstZF91U0p2NHVIRTF4?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fRE1Zc3NBUW05dkEyZ1hwT3B1YVQxSG5sRVlWMlYteWlCLWNZVlp1TTFHWWJiQllpN2w1R2lkc2ozRTg5TTZQbTBZc3N0TXFzcFBYTFpFSVJOT1J3NlQza1YtRE4?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OVXh3dHNWQktXQVNQMkFUUG45LXhVVWVrRGM2TElUVDJseFA5ZDNHOHRGT1VCNjBvWHl5MngxQVBVWW9zSFhpLTd2eVJqRFRhcXV2bGdXUE1EbFJYRmVWSmhCRjllaG5wMUNnZQ?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtZ3JZVm9Xc1hCTE9pLUFWbjJ6UVItZmxISk5MdjJQU2tSN1dyOU0tOXhoNjE5ZWp6Vy1IWmZGajNDWmhGc2NXb09HWm05TDdhVnRraHJqNDdPcFdOVUdjeFZ3QWVxbHNyR1B4LUZn?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTMxUVBnRDhWbXR0LWNfLTkyMDMtWDlEeUdnZU9ZTzI4czFWVGZlY212VVRLN1ZiVmVwaHFFdWROUEVLMDZ6bjR2TTludnpBdm1aWXc5bGh5Tk1nMlRvQ25QRmNHTEtYV2JERWVsWXcyaS0wWmRWdzdjYlJ0Y3RMRHQ0ZElqTWV3bFc4VGJpMjJtOGlRQVNzZDFzeFFZeDZlenVJ?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://www.nutritioninsight.com/news/arla-foods-ingredients-videbaek-natural-gas.html",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://www.foodnavigator.com/Article/2026/08/19/bursting-the-health-halo-insights-from-indias-food-safety-landscape/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://www.foodnavigator.com/Article/2026/08/19/kirins-big-biotic-drinks-bet-pays-off-in-asia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://www.nutritioninsight.com/news/puredia-sea-buckthorn-omega-7-menopause-beauty.html",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxUEdtbk1tZ0VCdXFXaUI5V3FudWs1WklHb3ZTdkNxWG9ZcXlLbGo2VHJidVh3ODNOM2tyUVZnSXpwY2xqVjVsZEE4WG5wWC1DajV3V0IzMTQ0Q09TdHBTT0txNE5EelN2SzY3ZVM2djA?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201013",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2X2RHUWJSdW10QXFxZHhWLTV1NjdzSHZmOXN3WkxsWDNXbkN6dExtYkdnMDF3elNJTzZIejY2cEtkLVVOd1dRb3JONVBHbWFHcTAtRFBUZk15dUQw?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZbDZBeDBZRXVhekNvNVRfTWhENGJucE9QY1dIU0t5R0ZFcWk0OWVlN0NuSVJXdFZOTXBTUE1HX0E0bE5UYjhYaE1Fa29RYy1Kb1U5eE1GLUpLZ1lIaWJEZmxPNk9iMEc5ZndKWnN4ZDg?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pNl9rQkU1eHRYWDlwRDdsNkZuTFVUeWZYT0MtQVV5d29zWno5Mzgtbno2elBhOUZENDk4Z0N1d0NSNk55cy1YeXZRR3ZNcHNCSUI0VThnQ1ozcWNYQXd5Zg?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HeTI3TkUwN21jQzhWNUtmWkVWT1lMR3dhR0h4a29lUmdwd0JhTWI0eVlHcWR0NTZTeloyQTc5ckJIbFQ0RHk0S04tMEFRVlJISGFUclpyVmVYWDFHczNUaG1MMDJ5WUNa?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUy16Mi0zRko1QmJBR2JkbGN3aUdUd25oS2Uyd0p0OW5NbEtLT0FVWFBWWjU2dUZfMjdIT2hkaXdtV1BJZThkQ2c1T2dUdm1fYzlhRkNLV19jQndJU3Zwc0hiMGRHd0N2X1R3eW1BZzRJZi1hd2FlZDBjM1pxQQ?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6UkZPYk02dEl6TF8tTXF0UUxPRFhHclFtQWhrdktiMmdJTnhIcmlMS2ZpMzJMZXZTZm9SbVpabmlldzk2MjA5VEltOVRGcVRMUzdWOUtGS2tzOHNRajNpZzBzT0l3dDQ?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY1AyM0pFak1wZGJlX3U4eVdJRDRPMWpjRjdjNGplLXBwSHNRQ1JydGdYMU5YTVoweXRXdUNVUU9VaXVTT1ZiNWNjTnBCbVdELU9jNmh3TDhnemNQNURrVnYwUmdwbDA1Rl9aSWhHY1RzRlJUd0N4Vms2STJIVzcwaGRScE14MmZFbGVZR1pfUFR5SXM1TDJRRXIwWTM2Q2VKNnJMbw?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://www.nutritioninsight.com/news/cravings-brain-neurology-diet-obesity-metabolism.html",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119818",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EbjNDTWZobmlWS1ZBaW44MGZNMXpHVzJnSmNYSm1Zd2szUWh3X2ZQZExJQ0lhOTV0bnN1ZEp6RDJZZV9NR3BuQnBPbkhXM0JZWG1SYl9yR3piYmtWN3l5Q2dfNnNXWm5obHF5SFZ6dU9XQQ?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mdUJCM0xuaE9YSXl4dnE1c3IxMXc4dm5wdGhEV0RfT01CT1ZtQnJJUnB1akoxX1FqUklNamR0T1FBaTc3VnYyVVhKRTd5MlNoWkUzZV8wWHMzel9RVWFJ?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yai1YY3h5SW00TFpZMW1oNXE2NENGRGZZVWU1cWtzLWFpZUszbWRoUDh1aHk4WV83WDJmTEtDdmF1ekx6VUhxaTUxMk85TzNYZl8xbEd4YmV2d21lV3FRYXZiWnNhajEzeDNRQWpneUU4VUNCUm9tS0Rn?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02YmVIcXdXWHpid0t3SmxpODdHS1BrNHR4LThBUzgtQ0xnZktzb3R4Y0ZIR092RS0wOWQxcG1DaEF3ajJMNVRwSERLbmh3cGlyME1n?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi-gZBVV95cUxOLWxSRTdrbm5Id2hYcW1FcGFiX0JHaHFmd0dpazVTc1VmYk02U2pSVkg4WXZHM1Z6TGZOaVlkaHBqN3llMWdRdDU0eWhUWW5TRG1IRy12R1owTHFvNmN4bEJ1NDE2RW9IeU1TVmF1ME5nQnNIUDF5ZURXQVZqN3BTSTFONkt3bDhhMGlURXZnS2RtOXAtb2NqQjJFNXJGb0JHYmNZUDNGQlNTS2pmS1JsbTA1eWpndnMwb3dLakxSWnV3aWdhcEFpSFFGMU9pWUJCbGdQNGhraW9tczBsazc3Zzc2MTA0TVRvaHVOV1Q3VnFaY2xvaU5QSzZYZVA4N2l0UmZvZG1MTzRnVVJYZUlQTVlnRjEtRVF3LTZHSzVMMldmQzZGV296Y3hJZ2FRY3dpMGVGMUxUaFFib0dub2EwZWxiRGl1T3FXTnkyb2NTMmljSjlaZi03LUgxSWVzUXNxampXLTNrQmNzLXlkck5kSkpOVWtibmFQRG96MzZCbzRJdzYwR1ZWZmJoV0JnTGl1cWpPRmZraTlyMEY2U3JLV2ZYMTZJR1NxRFp4NndENndaOVQ4b2JJV2tmSlRYSHZSWlBVdERfV3h0WUNMUW9UUkJqLWlUdDhaSGNfcUlGLXhCREtyNkNybWo1NDUwN1psREk3UE5fYkd3M1g1M2Z5eGZGM0FqNi1OTGlQamFfLTlPMTEzdi1EX0thNlh5NkU5U2c3Mk5oM2dtUk1NX3hGS1ZKNDNzamZPalJxWF90YWtsRGhtb3FkWGV3a01vTWI0OUpxZGlNV3E2RVBMZTNEWlVyajhYTmk3NFdpMzd6WmRzWXd6dTV1VWZ4TW5LSVhJdlIwb05DeE5taXR1LXZyT004RFc0TTNnUm15NFVVbjVKZ0l5QnV0WmU5UnBlMDE4T1VDbTNERS05bXVyclNGaGpOeVRXcllob1dYVC1TQnUwQ0NJSXRLT1phUUk4czBFZzBqQ0xVZi01SjI1ZmRESDNUcXR5djhKZG9xNjZWSGdhTFk5ZHpDSDRscVl5NVpLeVZaZHlWMXFwYVRVem1Bcnh5a2stS2NDRGZMTEszb1RJODVGOXpIVEZoWVRhU0ZTWnNMZ05EQl9mZVRKM2p0NHZWbDlLRi1IU2QyWk12ZEMxdDdyUW1VUm5fZ2llZXI1TmdmSGZpdmU4Zw?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SS05zbnBpNkFqS19tSlFZQld6VFgtcHM5SkdZbkt3R3A5dFdibW5wOEFOYTJnZFotd0RNU0JGN3JHazBBS09NeDdUQWZiNVVwbzh3bzdyVjhUdGNp?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTy12czNHNVhTUmQySEE2cWNxeXF0eVpoTHQ0UnhMX2V1N2FSUldRWHFoODdmcGc0VXhwYWV6QThWRm41SE1oXy1ueFFrM21GLVRoWWJySTJCUQ?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SUDJHbUlqeHRQV3hSSEtPQ2dhY3RwbmFTbFVZdzJCdFN6NndWT2xOWDMyeFQ5Ynlad1YwbXhuVC0zd2U0UEVuRmlXWHlNWTY3Q2lvQ1hFSnhSV0NnMFVqemc0R05sd0E4b1JGa2ZKUQ?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVBIY2JRVll2Ti1ZR3VWaGxPcEt5S2RLQTd4WWFSRzhOR3VCV09zLU1pRWRid3JtRklIdkw1NXY4NHV4ZExpVlNHNVRWVHljd3lKNHhUM2ZGXy15alVQVDg1VE01a2FGcjRXTGIzdGNhZWtXRzJPejlhYnRfTGxZeUFoYlhFeWNzZ2JzdlpucjJybVpDanp5VUQzSQ?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GX19MdnhZR0hRamlFN2pCUkdWT0lLZl9aeHl4WE1MeFpaT2RZcFZZMHVkN3J5YWpVbFgxMENHeFFvOURDZVBLellOWWNOUGRKOVMyM1ZTY0xaTjdScU02UmV5RQ?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51dzZFWEM0QWtHckNXbDlmRkREQTdzTEd3VGlPVnRoSlB3b0FUQU5wWUdJR1hnbmh4N1NXcUJSZjFNdm9BclZ2cWZlb1BpMlpoRXphcGd6UkRLZ9IBWEFVX3lxTE1qN3o0ZE1QTnp4S3YzVDVEckR0WDQ4eFU3N2pqNXFoQkwtaXVXM1htd0FkRVhEWURPc3paRHZlVDhJN09TNkdEb0pyREJiN25XUlNIN2h3ZUo?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01ZWxWaVJTQmJObFVkRzhhbVRXbnNjZUJSLXJnbGlta0oyV19VVC1HV1ZlcU5OTXViRlk4em9qcThLWEpTZmx4ZzBYdklwWUV4andmZUJ1ZHZRM0VhMXVFQ1dvVVQ?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Bd0hURUd2WFpDQUlZZkU3eC1GU3gzTTh5R3lsVEZwTlpxb3BvbGtySnhQYkQxRTF3QUVQUnFxdTRDX0xCOW0yY2pyQnVwMnlpai15UWo0SGVka0RTRTVwUkFvWDlLNmhjb2VyQ3NxNXIxUQ?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oNmRpZ0tvYTNyNy1vQkR3cUlSOFo0WmZhRlVjWVJyTlBxYmFOV1ZIaXZEdkxNWjZPVVNuZXh1M0J6MURxTHZTZjVCbUo3SDZzczN3VjBCcDFRaW1yQ0NoTUh2WnVLMjB3?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://www.nutritioninsight.com/news/superbrewed-food-thryvia-postbiotic-protein-immunity-gut.html",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://www.foodnavigator.com/Article/2026/08/20/target-stock-rises-on-tariff-refund-and-q2-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSC0yVjEzY3JMQUhjQ2FMMXBQLWFKUjhoa2ptS0o1S21Fdk4yTGNhMkFVR0dpZnJjTnRjcnlyWVlMY2g0Q0ZWNEZIeGNYVm1lRVdTc3NxSUY3QXRHcEZZeVZLaG5xVks1Zm9ZYTdfUl9SaGdOUTNBVXpVOTN6U3FPXzFxc1RJanZhWndGVXZMUlN3WTRvdW02OGNPenZ4dHhpZkpMdzJtYVpJNkhUeXJ2djNLWlNUdlExR3RfdG9LS1I?oc=5",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://www.foodbev.com/post301/danone-s-864m-huel-acquisition-gets-green-light-from-uk-competition-watchdog",
-      "sent_at": "2026-08-20"
-    },
-    {
-      "url": "https://www.nutritioninsight.com/news/younger-joint-health-lonza-capsugel-uc-ii-collagen.html",
-      "sent_at": "2026-08-20"
-    },
-    {
       "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119850",
       "sent_at": "2026-08-21"
     },
@@ -719,6 +559,46 @@
     {
       "url": "https://www.nutritionaloutlook.com/view/missing-link-nutraceutical-clinical-success",
       "sent_at": "2026-09-03"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MMF9LQ2I5MTBLdTdqN09wNVZXRUgxXzM2VUtQWUdMRDhGNkxUTmdHUVpHNktEd25tUF9GbmE0bUo0T2pCN2IzN2RQTjNlNGFOMGtvd1p1eTQ1b3RkUDBaVzlfN1NGMDFw?oc=5",
+      "sent_at": "2026-09-04"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83YjRCN0RNR25Ed3NnWXVnd2dBMU5FSEVHYjJwbGxqbzQyRWU4UUNwVk84WEc1Z2QwcDFQZjNhX3htMXJwekozUTh4YTJBZzJFOWFieUVadm5mQQ?oc=5",
+      "sent_at": "2026-09-04"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pYUNMU1BrZURHY0FlUGhDUGctWExBdDU3Q1p6YmlwbnBsLURYcm01b1YwM1NXdXZ3eFE0U0NoWEpzWHhSa0V3RW5mMTdnLTZpTnlVczhFUW03dDZNOGh1aXV2ZGhHeXl0Y3NRSy13?oc=5",
+      "sent_at": "2026-09-04"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LUjVfZkUzTDhJVXFvYzFrc0RWb2FfVjFWLTZQWmo2dC04TFdrV3Z4LXdxTG92OGhXM0hrSGQwUi01SG92eTdVRURHeEhnekZ3MmNoNlVOanhoQ2piSjJET2o3VmU2YzUwN2ppazJXQnd1RWs?oc=5",
+      "sent_at": "2026-09-04"
+    },
+    {
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=120043",
+      "sent_at": "2026-09-04"
+    },
+    {
+      "url": "https://www.foodbev.com/post301/rise-wellness-expands-protein-pop-range-with-prebiotic-sparkling-protein-beverage",
+      "sent_at": "2026-09-04"
+    },
+    {
+      "url": "https://www.foodnavigator.com/Article/2026/09/04/ai-identifies-plant-proteins-for-use-as-enzymes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sent_at": "2026-09-04"
+    },
+    {
+      "url": "https://www.foodnavigator.com/Article/2026/09/04/the-top-3-trends-driving-private-label-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sent_at": "2026-09-04"
+    },
+    {
+      "url": "https://www.nutritioninsight.com/news/vitafoods-asia-2026-phytogaia-tocotrienols-squalene-aging.html",
+      "sent_at": "2026-09-04"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSWUxbi1kZ0trQTE4dUx1SWNmRXhFeUhrbnF0blpTOFdES0RLXzVJWmE3N29XUHowbHhxVGs2a0NzU1R6bmFmOFpMazMzZ0FmZlZHUnZJaHh6Rm03NFVLcmJxSklMZHltZW0xc1JKQ0s3WWwwSDJlMDdReFk4VTByc0RaMlpKVjlkTFdReEg1Z1RyM3RMUzVyaVFSQ2dzODBNOUllZEZRbl9hVFJpeDBXN2pzLWxzR3M0R1RVaENOVUxaWTVHS25xNDhQUWFZQU1lbVZUTDQzcVB5UXZPSHdF?oc=5",
+      "sent_at": "2026-09-04"
     }
   ]
 }
