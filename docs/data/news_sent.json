@@ -1,86 +1,6 @@
 {
   "sent": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CYVJ5N0FET2ltQ0hrbTkxLWk5U212WXFrdUFOU2V4WTZPbEdWRTlpc29oTkFKZEFtbGxwc2xzUGdQYzdzYWFtZ0hFSkNQMTBrOGhzS2JVSHAyUQ?oc=5",
-      "sent_at": "2026-08-23"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CMF80OE9WUTF0YW95em05d25IMzFBLWxOT0VRMWdqV0RSUVIyUFhnVGg3QVRtU2s3ZUlkODhLOVV5Vm02cFdYNzVKVkdUemxKa0FsYmljcXFnU0lnNTJxc0Q5VmY4eVJfZjA4?oc=5",
-      "sent_at": "2026-08-23"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JbVRJNmFPWVpPbDBYZWRQeVhPMFpQVjY2SHdwOExpNTFDa3hraXZLc3N3REdYMGd5V3JvZzBpUzhfdl92VGVBRnpkSFdMVlNWdDhycmt2dzNPN0M3ZV9UVkpGelVHb3NCcEU1M9IBcEFVX3lxTE90QWZBWnhDbEw2cUpPYnhyZzR2YzR2VmU2bFM1enl6Rm9EMUJ1RHQzUXJVRU85MS1PVzRGdlBVSHZOa2VBU0FoYWVfTjFPemN4MVNPNHdZMHRfenJacWhDRHJyNDMydVdLblczTllELXY?oc=5",
-      "sent_at": "2026-08-23"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50V0NqeE9seV9qSkpGV0F0OE9WNUxsU1lRUWZfY05KSVhEOHhoT1pQN0x4RnJJaXhEdlhTLS1Gdm5aQS0yWU16d2l4SDAzZ1NXd19kSHhqdkRCQ1J6RmJRV2ZfWkQ?oc=5",
-      "sent_at": "2026-08-23"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96WGFWNldDQUg0YmdzcGZHaWdIOXpzN2g1TkV1MUtiV3dpZ0trYl9temVjZW5VUTZmeEdJSkxBbzhmZThXMVpxUHFyMVZlZXNRSlNkSjladFFWZXBvOVB2UXZKYlJndl9nQWlFNFBGZ0PSAXBBVV95cUxPelhhVjZXQ0FINGJnc3BmR2lnSDl6czdoNU5FdTFLYld3aWdLa2JfbXplY2VuVVE2ZnhHSUpMQW84ZmU4VzFacVBxcjFWZWVzUUpTZEo5WnRRVmVwbzlQdlF2SmJSZ3ZfZ0FpRTRQRmdD?oc=5",
-      "sent_at": "2026-08-23"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiZzJUY2xjenhJZXoyRjJ2bUp4TmxfeTRoY3NKRHBDOWFucV9xUFlKMUZHdFlmelVDeUN4OWgwbWUyc0J4OExiT0tTdnFNemZhSS1TR1B0aFhCWnF2bE02Y1dOci0?oc=5",
-      "sent_at": "2026-08-23"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TV1RqQllodUh2NWRaSlhkdVMxbWxEb3FqcmdKVFdYemhCVzFLM2c2Q0ZiWkF3VDNBTF95X2lBM3lJRi1wZkhiMlhsd0ZnWnNMTXFYTVlaaHdDTWdEWWNENEVvd1BlVExVbkxGSk1n?oc=5",
-      "sent_at": "2026-08-23"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3dra3czVUxVYjJCTWRHQ0QwOXFLRUR3T2J6VW4zVUh4MVhxamZUVlNjRjhHclBjU3VQLTVicEx0d1BQYXozZjFvV1BUWk9DOHh1TVVXYlZqN3pGbTBlVUMzbjRYaXZDdHFMNEVIMWNJVExCTWd4WmstUE94eHFoakFKZFRZQ0JDVFAtZTR1Z3JyZlRsaklHMDAxc2plSnpkRW1fdXpiV185NnI0U2oxcw?oc=5",
-      "sent_at": "2026-08-23"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOeHBUbHZiRTR4Qks4QWNOTHh1VWtjWE40SHFsVWJBNHQyWWtCdThvaXQtR0p1TFExaV9XeGNRTmJ4WXhCYWdwT0F5OXRKYXpneTFjUGpHWGhOb01fOElFV21wYU15LUp6ajZLa1B0T1dVM0hlNzRqaGd3ZzlQNGh3dTlIMUN0QnNSLWhISEpselFVRF9ESmc4YWxQOGREWTJfLTJpbUFvUGZwR1RHQXQxR3NxN21GTzJUUVVvZk04cjdhQ2NaVkVOU0dGSGlDSUlPVDFfNnJrTWxqc2djcENaeVI0czdiQ05wUlIydjFwbjNWTHlUUklzNkRhWTFabEdMOWw3VjJlc0pJOVk?oc=5",
-      "sent_at": "2026-08-23"
-    },
-    {
-      "url": "https://www.foodbev.com/post301/plant-based-dairy-functionality-and-flexitarians-drive-innovation-in-2026",
-      "sent_at": "2026-08-23"
-    },
-    {
-      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119862",
-      "sent_at": "2026-08-24"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0MTB4RjB0eHo4aE5ZN1JfVF8ybE5RTVFaSmltb0w2YlpTVTVrQWpjUEticHVzbFZCVzRKbC1qNU9STE9FV1V4dnhkVFM4b1RLX0pCS3hNT25rYXhDMVhIdm5SZ3JSanloOTJSRA?oc=5",
-      "sent_at": "2026-08-24"
-    },
-    {
-      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119854",
-      "sent_at": "2026-08-24"
-    },
-    {
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201026",
-      "sent_at": "2026-08-24"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50dXFGUmlwNmRSTGlJdFIybFhFQ2xkdnp2XzFWVEhOVmpYMm00aGlaMU1ZSFE2S2hzRWZKdERleThwcTJ4MnJFeDhRVWpDUFJveHQxWEcwdXM1S0HSAWBBVV95cUxNM2RmODB0eV84YU9DZ1dTSi1nS1F6Sm9IOUxHcWxxbm02eHlLOS1WUVFXMmgxdWMzWW01RGViYWhVQlhLOHFtLWxaUW82ZE11UUgzdkxpc3ltRjB6U28tRkE?oc=5",
-      "sent_at": "2026-08-24"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOblNRdDBISG9NRkI3SlhBVldQTXRWcS0wVDZXNXpBWFNIM1pKWF9kMm5YX191N1VrZGxsSDVDVFRERlZBcGoyTnNjZC1YS0FUUnBEdVhVRUtWRlJaTW5Md0NPLTFJejl5dlJuVVdVa3U5Wk9XdzdOdHphWEJlZ3BybHFwZF84OWV3aDE1azY0ZVFtTm5wM2YxcnZqXzU3dmIwVUpsUDJmdFdSWjFBbm0xZHNwRWdCbWI3akp2bTRxV3BIcXJRMmJEdEdlZw?oc=5",
-      "sent_at": "2026-08-24"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN21xejRWbXRuZ2FsM2FPcFdkUUtIcmdGUjBoa1RQSl9lOVUzN1h3ZW9CUTVETFdwcGFtMm9FaHk2UzNQODJ2MVJnRU1iVHEwMFd2Y21ZY1RHdTZFUEgyd3NZZUF2U2FyaU9hSGwyaThmcF9ya0lycS15Z0hCdE9FbmN0eHZZMzZLNC15bDFGb05KemJoR1VUalkwRF9FbFlfTzJzNXYyMA?oc=5",
-      "sent_at": "2026-08-24"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjVIdjhnQURKUFNiTTlIUW9WM0ZRVE53Z0JGb0dpVUhCMTdpMUgtRU0zUS01XzJBcFVRZFUxblRId0Z3LVE3Z29yVWljZ0g2bnRhMzZQRXh2bkk1UHlkUGR6Z1JleUc5YTA1eEI0blRoUXpCdXJkZzk5TXc5cTYyUEctN3pTWlZGZThUVmdrS09HTVNzN3c?oc=5",
-      "sent_at": "2026-08-24"
-    },
-    {
-      "url": "https://www.nutritioninsight.com/news/vitafoods-asia-2026-healthy-aging-active-nutrition.html",
-      "sent_at": "2026-08-24"
-    },
-    {
-      "url": "https://www.just-food.com/news/think-tank-touts-plant-based-price-savings-in-new-research/",
-      "sent_at": "2026-08-24"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OZ1dFZzBUYzJELTVMSnQ5eF9YUUxnallZSVFEVlpRcUVDanAzN1hnaDdHckhsZmJKRkJrNzRCQTh1NjRBaDE1LVhITGZ1a0Jwd3VFSWl2RHBvc0luSzEwMDhZTjNnQ0t1aS1LcVNR?oc=5",
       "sent_at": "2026-08-25"
     },
@@ -599,6 +519,46 @@
     {
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91WmczcENxdk1HcU5jd25FMV9YZVdWOFhkZHZQc0FFZHJWTVhQVkJwaDVmbHNVM281OXpYdUxiRVhXT2xlWW9CeUhPSDgzdkhyMThfSi0zSmI1NEYwSko4Z1h1T183RzBJZlhDbw?oc=5",
       "sent_at": "2026-09-06"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43SHlsdHlwOUhjMjBMOF8tYnhERnJ0Mk1ZZUJKbU5KQVl3RExBaWtmZTRDcGZ5eDdlSzQ3b1RPeU5OdnVPUWFUV2JCSmJhdUNLS1ltLXdEdXVUNU41V1hUSTVZb0F0QVAwUU9JRg?oc=5",
+      "sent_at": "2026-09-08"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tdHFlRTFKcGgzRGlOdFFKLWZQeTBiVzFScmFFajkxbkkxcTlfYVF5S19MdlhmNnBJU1ZpcVdFRmRBMjZrTWVkQ1BvWkVRc0c1OGprNzZzdnI2MUt1b3RKek9VbG9sZUFJU0hGODFEanM?oc=5",
+      "sent_at": "2026-09-08"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zX1R0LUpNdHY2dnBmdTFDRDJtMTNIdTA1bEpwSjRHRWdiMEFRQ05ZRTlsU0F6cFMzLXFJN2Y1bUVhbHl0ZVE1NHNBSkVGNWtLUElKU1l3VHpBSjlLdG9od3R6RQ?oc=5",
+      "sent_at": "2026-09-08"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83eHJlU2RoYTFVT0kyWVRKdGszb09xOHppa3RkNTBBa2J1NEpkWnFISlBscGxKd3NmQ2VFVFpiN1NxaDlGTm1NZW9TTTJtWkRoQXhPTlVPS25hdWdiNENjUUxMUUk1Q2F4YmxOekpuLUdkdXJEVThKdWtB?oc=5",
+      "sent_at": "2026-09-08"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvX2h5M0VvSW5TSEFJZTlHUUYyYl9qU2wwek02R0c4dTBqZGhJM1E2N2NrcUhKR1dqYVR3TjRtb3NqY1U4T09ZYmw4akxpMlU?oc=5",
+      "sent_at": "2026-09-08"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNT1hkd2o0TlNLbjgza3NIc2xfYTRWbUlDN3g3ZEp4cXhxaVZYZmtYbTV3UjlEclF3NVBnMERfWHZrQ0p6SUx2bVJ2dXJ1UnRldGhDY1h6WUNpZGE1WVlDeWJxTnJOdlVOVDItUndEMDN5YjNPNW02cm03SnA0OVo3VklwQWlBZVFISjRLekotVnJiQzNicGpHQ1RjYXdFempzcGxiUUtEZ0FFaTZkdXVLUklYc3pMdThjWlRjSU44NGJLbzlUMW1pN29JajlfUGs2Ukh3RXh3WTVqVUhQLUJmeTRNZUZiUXFJM094RVlpUQ?oc=5",
+      "sent_at": "2026-09-08"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRld3T2ZKdFRQR19JS1RZX0pTQ19uQTN2elB1aklUYkxpSHZJVU55TVp4dFVnZFUwVDI1TDNFZ2tHc19nZDhYZlo4TldQZ2RLaF9GWW84MHFrdThfdThqTjF6YjF3T05BMnlpMUtJTmZMblJRN2JSZ1JlTGI1dTNBZ2VCWVFuRlMtN2toX01PcG85V2c?oc=5",
+      "sent_at": "2026-09-08"
+    },
+    {
+      "url": "https://www.foodbev.com/post301/bol-expands-power-soup-range-with-new-fibre-forward-offerings",
+      "sent_at": "2026-09-08"
+    },
+    {
+      "url": "https://www.foodbev.com/post301/aak-secures-2m-to-support-plant-based-oil-production-in-hull-uk",
+      "sent_at": "2026-09-08"
+    },
+    {
+      "url": "https://www.foodbev.com/post301/iceland-and-myprotein-add-25-high-protein-products-to-frozen-range",
+      "sent_at": "2026-09-08"
     }
   ]
 }
