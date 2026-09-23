@@ -1,46 +1,6 @@
 {
   "sent": [
     {
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43SHlsdHlwOUhjMjBMOF8tYnhERnJ0Mk1ZZUJKbU5KQVl3RExBaWtmZTRDcGZ5eDdlSzQ3b1RPeU5OdnVPUWFUV2JCSmJhdUNLS1ltLXdEdXVUNU41V1hUSTVZb0F0QVAwUU9JRg?oc=5",
-      "sent_at": "2026-09-08"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tdHFlRTFKcGgzRGlOdFFKLWZQeTBiVzFScmFFajkxbkkxcTlfYVF5S19MdlhmNnBJU1ZpcVdFRmRBMjZrTWVkQ1BvWkVRc0c1OGprNzZzdnI2MUt1b3RKek9VbG9sZUFJU0hGODFEanM?oc=5",
-      "sent_at": "2026-09-08"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zX1R0LUpNdHY2dnBmdTFDRDJtMTNIdTA1bEpwSjRHRWdiMEFRQ05ZRTlsU0F6cFMzLXFJN2Y1bUVhbHl0ZVE1NHNBSkVGNWtLUElKU1l3VHpBSjlLdG9od3R6RQ?oc=5",
-      "sent_at": "2026-09-08"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83eHJlU2RoYTFVT0kyWVRKdGszb09xOHppa3RkNTBBa2J1NEpkWnFISlBscGxKd3NmQ2VFVFpiN1NxaDlGTm1NZW9TTTJtWkRoQXhPTlVPS25hdWdiNENjUUxMUUk1Q2F4YmxOekpuLUdkdXJEVThKdWtB?oc=5",
-      "sent_at": "2026-09-08"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvX2h5M0VvSW5TSEFJZTlHUUYyYl9qU2wwek02R0c4dTBqZGhJM1E2N2NrcUhKR1dqYVR3TjRtb3NqY1U4T09ZYmw4akxpMlU?oc=5",
-      "sent_at": "2026-09-08"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNT1hkd2o0TlNLbjgza3NIc2xfYTRWbUlDN3g3ZEp4cXhxaVZYZmtYbTV3UjlEclF3NVBnMERfWHZrQ0p6SUx2bVJ2dXJ1UnRldGhDY1h6WUNpZGE1WVlDeWJxTnJOdlVOVDItUndEMDN5YjNPNW02cm03SnA0OVo3VklwQWlBZVFISjRLekotVnJiQzNicGpHQ1RjYXdFempzcGxiUUtEZ0FFaTZkdXVLUklYc3pMdThjWlRjSU44NGJLbzlUMW1pN29JajlfUGs2Ukh3RXh3WTVqVUhQLUJmeTRNZUZiUXFJM094RVlpUQ?oc=5",
-      "sent_at": "2026-09-08"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRld3T2ZKdFRQR19JS1RZX0pTQ19uQTN2elB1aklUYkxpSHZJVU55TVp4dFVnZFUwVDI1TDNFZ2tHc19nZDhYZlo4TldQZ2RLaF9GWW84MHFrdThfdThqTjF6YjF3T05BMnlpMUtJTmZMblJRN2JSZ1JlTGI1dTNBZ2VCWVFuRlMtN2toX01PcG85V2c?oc=5",
-      "sent_at": "2026-09-08"
-    },
-    {
-      "url": "https://www.foodbev.com/post301/bol-expands-power-soup-range-with-new-fibre-forward-offerings",
-      "sent_at": "2026-09-08"
-    },
-    {
-      "url": "https://www.foodbev.com/post301/aak-secures-2m-to-support-plant-based-oil-production-in-hull-uk",
-      "sent_at": "2026-09-08"
-    },
-    {
-      "url": "https://www.foodbev.com/post301/iceland-and-myprotein-add-25-high-protein-products-to-frozen-range",
-      "sent_at": "2026-09-08"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6ZHk5ZDUydFZiVkVwSV9xNE91X3RnVWNMSGdxY0NVeVNxdGpjclk2RTVZRWZCR1dwYnREVTdhYWFnV0I1bDhzSGo1bmZwWjI5Y1Vz?oc=5",
       "sent_at": "2026-09-09"
     },
@@ -563,6 +523,46 @@
     {
       "url": "https://www.fooddive.com/news/c4-energy-drink-beer-all-hopped-up/830891/",
       "sent_at": "2026-09-22"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BVWtJQmJmZHV2N1c5ZWM2eVY0czZ1dl9USU9pV2YzMHp5T0JEcVJuR0Fxb2xhVEJpajBBeDNwWUhxM0tQbzdKZXUtSVJjcmFGaWVJYko3RW1NUkZf?oc=5",
+      "sent_at": "2026-09-23"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QQmVZN1RGYVQ3aXNoM1o2Z1dMYTJMTUx4UEVGWWtuYWlpSUFWdU50WVRMUHhIQ0FTMGszR1JLUEVEejE0d25QWmg2MnJEamNBWUlTLTVRMi1UOW9saDdpeE1zU2pZbGptN1d3OQ?oc=5",
+      "sent_at": "2026-09-23"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43UVhweWJwUF9FM0hING1nT21LZjFXNzYwVnRjTlVYeGVGeE16dmFzUWJ6RFpOVXVqczFBaXhvM2h6U2VUM08zWGNZcklWWTlKVnliMmVPckctSkllR2VabWZLajE?oc=5",
+      "sent_at": "2026-09-23"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XcGhJenhGRklhWnlEUTF0UUdUVlY5alAwWjZRWWF5cmNkMEowdW5oUTB6dnNwTFMwQjRuTGJJVGNDNE5Zd3NpVmNRd3lrbUxXdzVqdjRqdGstWFp4WWFlMTlXV2F4VnpuSWdrNUJn?oc=5",
+      "sent_at": "2026-09-23"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NclRTbmR4QmxPVDVtMkkwRWJFUG5Uem8yTDE4aG9YOThkVll2U0FNMm1saW9HeE1qUmdVQVNqQ2hoWDRiOGMxaGROV3B2dkVQUkhWOGNYMVFkNjktRUppWk1nX25aVDI4T1VycjY5emVJb2kyQWfSAWZBVV95cUxQQWc3cW5CSlVub2ZBbmQySlFMTWhKSkYzaW94azF3TngzWnlieVRGak0tZGgzeXJvWWhWVV9jZjJnQzhZZGRkbFN0cWgwOXVGR0NsVWx0TEk5WVdoR3Y4aU1DOURYeFE?oc=5",
+      "sent_at": "2026-09-23"
+    },
+    {
+      "url": "https://www.foodnavigator.com/Article/2026/09/22/why-apple-pie-could-be-falls-next-breakout-flavor-trend/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sent_at": "2026-09-23"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRGlac182dUJXUGZZaGJlZ2UxbThCR3lVSHBYTUM3a1NtVkRWYWNodUZ6ZnFhS29JdTYtNXBuNjBMcUtCMTBtdkZJeVVYSTZ4YW1DUUR3d0pVMHd4bmFpSnVVRV9NTThpZnRiRDFpOGpsWXdTb1BZQ0tXSW1HY3hyaE1iQlU4TFRfUjdKYmZ1YlQ3WTBhRnBrX0oyVWo0amwxS0NZQVB6ZE82c2ZfeDdJc2l2OFZCR3F1MkFET0RjLVVrejEzNmUwcEdzUlRaMXhrY3BwZnRaY2JVaUZ4eXFLNHBhV2s4d2JFZ1g1N2hKN0E0bHpoZUJZ0gH8AUFVX3lxTE9XX3BLUll3bHFhZVNPNUdVdUg3V2xBRENTQnd2RkRqaFJNb3o2M3BiUGxYSFRBRGRjNTJOVjZMRGdZanFmMi1tTVIycGtZcWJnRTdrT1o0NEJIMmFUd25WSm5pS3d3dXhuTlVoa0g0RFJ6MnlGRC05dVlZa0tWa3k4dkxKNWxoSDRqNFJfY1BRNkRLN2NILXdwY0kyczBEdFQwLVBHVDdTZ05YX2h3VHNNTjVnVGVZNkZVMzZVa0FhYllLQ3cyTVJsRGVTOGc4bkNoTk5uT0RuYjJKZ1lKUmxia29yc0pJZVNxUC1ZZk94eWMwSUdOSGd6ZmdzSQ?oc=5",
+      "sent_at": "2026-09-23"
+    },
+    {
+      "url": "https://www.fooddive.com/spons/why-functional-nutrition-calls-for-a-closer-look-at-flavor/830241/",
+      "sent_at": "2026-09-23"
+    },
+    {
+      "url": "https://www.nutritioninsight.com/news/hi-tech-pharmaceuticals-igf-1-peptide-supplement.html",
+      "sent_at": "2026-09-23"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTkZRUFVxU1NhRGdJSmZmbDZvbldyVGVZbHRfdGRBZWZyS3UtTkhWWHk5U0gyUW4xSm45NlZyZllhUWZrVDJ3ZDNQRXRwVFJiVXRvQUhkelJyc1JGTEdDTmpUMGRsX0l3WHFVdVhfczZCNzR5cGJlYUdzYWx4b1ZIUDltOWJMRkExelFubkJwSXVlT0g2MGphSElYZERPSnlMMlp4M0ZPMTVDNHp4T0JfMHBpUQ?oc=5",
+      "sent_at": "2026-09-23"
     }
   ]
 }
