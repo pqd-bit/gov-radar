@@ -1,15 +1,311 @@
 {
-  "generated_at": "2026-09-24T00:25:06.689626Z",
-  "count": 50,
+  "generated_at": "2026-09-25T00:29:09.708028Z",
+  "count": 48,
   "items": [
     {
-      "title": "추석 선물 선호도 1위 '건강기능식품'⋯제대로 고르려면?",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oQWxSUzJ0MHBfTHVHOXByQlF5Q3dTNS1wQnc1M3AwYUc4VGZVODdUNnRGZXNIVjlEYVFucmFiWS0teFlvMDJuaWoyQQ?oc=5",
-      "source": "아이뉴스24",
+      "title": "일반식품→건강기능식품 오인광고, 3년새 87% 급증",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MVTRaVVNEZGJETzlMNUh2d09nVVNBcDE5bDktdktHaVdMNlNIS0tGN21NbU5JRGJ1MVBpYnRLeXFyTXJHQkNLa0JwaDdtSGRZcm41NWFB?oc=5",
+      "source": "biz.heraldcorp.com",
+      "published_date": "2026-09-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "5c521311f1",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "건강기능식품"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "“추석 선물 조심하세요” 일반식품 ‘건강기능식품 둔갑’ 부당광고 7천건으로 역대 최대 적발",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xM3BPVzdTNmN5eGhtQWNqTDZ4bXVyRTlpWWRySjhDZE9jUm9wQmlYODQ0MWpWd3ZpajRzenJUUS1vU18yNHFtU2I4QVBHcURvOC1yR282ZXhMTC1jZkl2OFJQVUtoY1E?oc=5",
+      "source": "dhns.co.kr",
+      "published_date": "2026-09-24",
+      "summary": "",
+      "origin": "domestic",
+      "id": "e16ef14446",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "건강기능식품"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "남인순 의원 “일반식품 건강기능식품 오인광고 7244건…역대 최대”",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqbEJyY2tQdVZUMkV1NXk5eXFkVE1Tb195aklfU2VvaTF6TklvVTY4b2lneGs2YUlVQTB2VE9scTlleDZQblN3QzMxMzljQVMwUmV4M0VrNFJPTFJHMm1ESDJFUUVwdw?oc=5",
+      "source": "푸드투데이",
+      "published_date": "2026-09-24",
+      "summary": "",
+      "origin": "domestic",
+      "id": "e227298b98",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "건강기능식품"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "건강기능식품 둔갑 부당광고 7,244건 역대 최다…추석 앞두고 단속 강화 목소리",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JeE5Lb2ktd1lCOF9vbWZZbmlUbEJhTHNVdkNYUHc2SXkzTGZFenlUVHlRSGgzemZaOFdTT2RjSWdKazM4NHpBR3B0bVJCaW02a1F2dXhneXB2ektCSVZqcDhWTlQzWGZP?oc=5",
+      "source": "창업일보",
+      "published_date": "2026-09-24",
+      "summary": "",
+      "origin": "domestic",
+      "id": "e0b15f238a",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "건강기능식품"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "뉴트리디데이, 지파운데이션에 2억 3천만 원 상당 건강기능식품 기부",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yMEJreE9VSjcxeEJreVhhVEN2aEJVREZuMXZDTGx0NWJfUUpuYkpyby1vOFRYdDdzVHRwWTl6Y28zcWZyTGs4eHpPNDdJWThBZG1QeEpMVXZlQ3FUVmNiWHpDMm0?oc=5",
+      "source": "티뉴스",
+      "published_date": "2026-09-24",
+      "summary": "",
+      "origin": "domestic",
+      "id": "d174ba2649",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "건강기능식품"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "미숙아 프로바이오틱스 보충, 사망·괴사성 장염 위험 감소",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hbFItZVo5bVlFUnhLYlVaSnlNWmw4QUZ3Zkg5REZHY043SUw3bEl2LXdOZk5XMXdSLXNtQ1BySUpOaTZ4M1dGSERRbTdCMEVlTV9hTmNmWkwyb1ZZbEM0eW5XVVVfVGtPSEQ0OQ?oc=5",
+      "source": "메디컬투데이",
+      "published_date": "2026-09-24",
+      "summary": "",
+      "origin": "domestic",
+      "id": "5f8d33b6f5",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "프로바이오틱스"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "“수산식품 글로벌 수출 돕는다”…aT, 준비바우처 사업 운영",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EdFJDY2g2dFFYWUV0ZVZCOEN5TzZjMGlMeFVKU1I1eGJZYjNJWUVXaU1zZDlFS1BTd2I4LTlVY3hPRnlUMnFXQUFZQ2x1MGtkN3FoNlhVTjhYZ2JiOXJRNEowOTgzMGRJeHdZS3poMXc3elRBaUHSAWZBVV95cUxOUk52VUluTXY3R0syVGZpYzRkTmVpU2lHeXNCbjc5VWNEbTAwMEhFYnFGa0wxVTYxV0pUOVFLbHdqZTNoWEIxck55WFNzSndEQWo3RWY1LVdnS2lrZHhDZnBOT1RxM1E?oc=5",
+      "source": "동아일보",
+      "published_date": "2026-09-24",
+      "summary": "",
+      "origin": "domestic",
+      "id": "3ae194fa00",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "칠레, 북아시아서 6천만 달러 ‘잠재 수출’ 발굴…계약 전환 후속지원",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqYXF1YTRXZkV6S2VCSWZaYU9xWGZNNUFEZ2UteHpqXzRkQkZCY01zOFFSMmhWVmtDS1NBcnZPdHphN2VFMkotREprTlZmekpNVlRuUEg5Z0Jyd2k4ckNaX09JRzVRWjhkdTNtZg?oc=5",
+      "source": "푸드아이콘",
+      "published_date": "2026-09-24",
+      "summary": "",
+      "origin": "domestic",
+      "id": "777c14e467",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "\"수출 넘어 현지 뿌리내린다\" K-푸드, 중앙亞 공장 짓고 매장 열고",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LeVFRVlo2RENUODFiX0NaQkxvUV9rQUZKZ2hQYWVDdXJ3aC02RnJNdG00d01sRkl3dTRRSDVOSUlDbG5XV1VsaTU0Q3lGUTZRb0dlVlVsUktNX1dZSkNaNGtXMUNyTWpuY0hpU0U3bFkxRkpDWDRxMNIBeEFVX3lxTE1LeVFRVlo2RENUODFiX0NaQkxvUV9rQUZKZ2hQYWVDdXJ3aC02RnJNdG00d01sRkl3dTRRSDVOSUlDbG5XV1VsaTU0Q3lGUTZRb0dlVlVsUktNX1dZSkNaNGtXMUNyTWpuY0hpU0U3bFkxRkpDWDRxMA?oc=5",
+      "source": "뉴시스",
+      "published_date": "2026-09-24",
+      "summary": "",
+      "origin": "domestic",
+      "id": "568fdeecf7",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.55
+    },
+    {
+      "title": "러시아 입맛 홀린 K-푸드, '신선과일·냉동 베이커리’ 수출 새판 짠다",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90dnNLTF9wdXo0TndrVng3azRfemI3OVVuVWFtdXJMSGkyd2pCX1RqU3F6RzE0UUdXcEdSLVhXcm9xUEUtdkhLSV85MHNIYVRLS3FoLUxuX1JvMGdLeWxDNzg2Njl1NU05enQ4Wg?oc=5",
+      "source": "dongponews.net",
+      "published_date": "2026-09-24",
+      "summary": "",
+      "origin": "domestic",
+      "id": "4c6d8050ca",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "Greece Microparticulated Whey Protein - Market Analysis, Forecast, Size, Trends and Insights",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFRITWFTcVQ2UVozM09FWURXNDcta0syT1I2eGd4ZlBVMU1oVmdRR2VQR1lpTVhXZGJBcEl4WldLLVNDN09XMkJvZ2FkRVhmMjhSRzk0Y2NDckphWnNKNnBDRlYwaXNncGxsMGFHUmlsNUhiSXJTS0Y0RVBUdjgtUHJsbFpiREpDdjdhTWREVzg5LXJyOHptcEw2czBHVWVFTmlIZldaNlI4S0V4ZDlZZ0tDN3ZpUF8yRWc?oc=5",
+      "source": "IndexBox",
+      "published_date": "2026-09-24",
+      "summary": "",
+      "origin": "foreign",
+      "id": "e7724d3b16",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "protein"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "United Petfood buys another US factory from Wellness Pet Company",
+      "url": "https://www.just-food.com/news/united-petfood-buys-us-factory-wellness-pet-company/",
+      "source": "just-food",
+      "published_date": "2026-09-24",
+      "summary": "United Petfood has expanded its US footprint with the acquisition of another production plant from Wellness Pet Company. The post United Petfood buys another US factory from Wellness Pet Company appeared first on Just Food .",
+      "origin": "foreign",
+      "id": "e2737aa3d9",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "wellness"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "Maple Leaf Foods consolidates US plant-based production into Indianapolis facility",
+      "url": "https://www.foodbev.com/post301/maple-leaf-foods-consolidates-us-plant-based-production-into-indianapolis-facility",
+      "source": "FoodBev Media",
+      "published_date": "2026-09-24",
+      "summary": "Maple Leaf Foods has announced it will close two production facilities in Seattle, Washington and Turners Falls, Massachusetts, as part of a move to consolidate its US plant-based protein production into a single site in Indiana.",
+      "origin": "foreign",
+      "id": "247cdfb888",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "plant-based",
+        "protein"
+      ],
+      "keyword_score": 2.0
+    },
+    {
+      "title": "General Mills prioritizes innovation following recent price cuts",
+      "url": "https://www.fooddive.com/news/general-mills-innovation-price-cuts-win-consumers/831140/",
+      "source": "Food Dive",
+      "published_date": "2026-09-24",
+      "summary": "The Cheerios maker is trying to make its products stand out with protein, clean labels and other consumer trends.",
+      "origin": "foreign",
+      "id": "35e48789ab",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "protein"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "What Supplement Companies Can Do Now on the Dietary Supplement Innovation Act",
+      "url": "https://www.nutritionaloutlook.com/view/what-supplement-companies-can-do-now-dietary-supplement-innovation-act",
+      "source": "Nutritional Outlook",
+      "published_date": "2026-09-24",
+      "summary": "",
+      "origin": "foreign",
+      "id": "4424282cc3",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "dietary supplement"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "Biotiful targets Greek yogurt growth with new Greek Recipe Kefir",
+      "url": "https://www.foodbev.com/post301/biotiful-targets-greek-yogurt-growth-with-new-greek-recipe-kefir",
+      "source": "FoodBev Media",
+      "published_date": "2026-09-24",
+      "summary": "Biotiful Gut Health is expanding beyond its core kefir range with the launch of Greek Recipe Kefir.",
+      "origin": "foreign",
+      "id": "f13cee50e0",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "gut health"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "El Niño omega-3 shock and EU botanical scrutiny push supplement decisions earlier",
+      "url": "https://www.nutritioninsight.com/news/omega-3-supply-eu-botanical-scrutiny-supplement-sirio.html",
+      "source": "Nutrition Insight",
+      "published_date": "2026-09-24",
+      "summary": "Supplement brands now have to make key decisions on sourcing, stability, and packaging at the start of product development rather than late in the pipeline, according to speakers at the seventh Innovation for the Future Summit, organized...",
+      "origin": "foreign",
+      "id": "50637d7965",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "sourcing"
+      ],
+      "keyword_score": 2.0
+    },
+    {
+      "title": "Angel Yeast’s Angeopro yeast protein secures low FODMAP and clean label certifications",
+      "url": "https://www.nutritioninsight.com/news/angel-yeast-angeopro-yeast-protein-fodmap-certification.html",
+      "source": "Nutrition Insight",
+      "published_date": "2026-09-24",
+      "summary": "Angel Yeast’s yeast protein line, Angeopro, has secured global third-party nutritional certifications from Monash University’s Low FODMAP (fermentable oligosaccharides, disaccharides, monosaccharides, and polyols) program in Australia and...",
+      "origin": "foreign",
+      "id": "13123111f7",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "clean label",
+        "protein"
+      ],
+      "keyword_score": 2.0
+    },
+    {
+      "title": "Biomarker research and proactive wellness reshape heart health innovations",
+      "url": "https://www.nutritioninsight.com/news/heart-health-trends-biomarkers-omega-3-vitamin-k2.html",
+      "source": "Nutrition Insight",
+      "published_date": "2026-09-24",
+      "summary": "The nutrition industry highlights market opportunities in targeted cardiovascular solutions as heart health is becoming a proactive wellness priority for consumers, from maintaining vascular function and metabolic health to longevity....",
+      "origin": "foreign",
+      "id": "d67abecf1a",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "wellness"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "Protein, coffee and convenience drive Chobani’s next phase of expansion",
+      "url": "https://www.dairyreporter.com/Article/2026/09/24/chobani-targets-protein-and-coffee-growth-as-demand-for-natural-foods-rises/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "source": "FoodNavigator",
+      "published_date": "2026-09-24",
+      "summary": "Chobani says demand for high-protein, natural foods continues to accelerate, with yogurt and RTD coffee driving growth as the company expands manufacturing capacity.",
+      "origin": "foreign",
+      "id": "fef18cc84b",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "protein"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "명절 선물 '건강기능식품' 확인방법·주의사항 - 전체 | 카드/한컷",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XcGhJenhGRklhWnlEUTF0UUdUVlY5alAwWjZRWWF5cmNkMEowdW5oUTB6dnNwTFMwQjRuTGJJVGNDNE5Zd3NpVmNRd3lrbUxXdzVqdjRqdGstWFp4WWFlMTlXV2F4VnpuSWdrNUJn?oc=5",
+      "source": "korea.kr",
       "published_date": "2026-09-23",
       "summary": "",
       "origin": "domestic",
-      "id": "ceedf25cea",
+      "id": "f2b9fef445",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "건강기능식품"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "추석 선물로 뜨는 건강기능식품…\"체크포인트 꼼꼼히 따지세요\"",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMUTQzU3JEWXZtYWZ1NFlTSWx3MGxUT1ItVWlOeGVCZnFIUDlxVEtoTUlJN3JaSFVWNzhfYWw5QjRIMDJVVV9ObWRpRlJ0a0djUmpEWGQtVmpBSXFPa0F6REt5YlZ6LTlLTTB5ZTJzVQ?oc=5",
+      "source": "뉴스웍스",
+      "published_date": "2026-09-23",
+      "summary": "",
+      "origin": "domestic",
+      "id": "f53e9d991a",
       "category": "wellness_trend",
       "matched_keywords": [
         "건강기능식품"
@@ -47,7 +343,7 @@
     {
       "title": "삼성제약 건강기능식품 2종, ‘2026 대한민국 존경받는 의료대상’ 선정",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtSGY3c2RyYzBLWW5iZWRabDVBckI4RXBxekg1clBqRlFmbzF4RW5qc19aQkoxTGR5aDNxc0NpaXdya1lKaG9ZUl8xZ2dJWGRENldJ?oc=5",
-      "source": "유스연합",
+      "source": "youthassembly.kr",
       "published_date": "2026-09-23",
       "summary": "",
       "origin": "domestic",
@@ -59,33 +355,33 @@
       "keyword_score": 1.0
     },
     {
-      "title": "유한양행, 질·장 건강 함께 관리하는 프로바이오틱스 '엘레나 듀얼' 출시",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11RFRIbUJUdmtpYnZHbDR6YjREbVdpcU5ZS2NVZFVFMURxVkp5ODhLMjdaMUxzX0RDNklraFU2OXd6YV9ISi1zRUhDWnRha3hvX3Q2MVM4azVJczUzUXhJOXpfMzBCTWVBUzBnblNSb9IBb0FVX3lxTE11RFRIbUJUdmtpYnZHbDR6YjREbVdpcU5ZS2NVZFVFMURxVkp5ODhLMjdaMUxzX0RDNklraFU2OXd6YV9ISi1zRUhDWnRha3hvX3Q2MVM4azVJczUzUXhJOXpfMzBCTWVBUzBnblNSbw?oc=5",
-      "source": "e-의료정보",
+      "title": "유한양행, 질·장 건강 동시 관리 '엘레나 듀얼' 출시",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3a29GVUlDbjZTTG05NUs4dGRPWjBZVUFiSXMwdXNhalhieTAzMzVTWE02cFNITjllV0FpSVpXdklOOEQ5aU1kZ05oMFo4a2txTEJIeGxtT1ktbXNnTUR3SFJWSDVKalA2?oc=5",
+      "source": "fetv.co.kr",
       "published_date": "2026-09-23",
       "summary": "",
       "origin": "domestic",
-      "id": "ea57cca897",
+      "id": "7779f174c9",
       "category": "wellness_trend",
       "matched_keywords": [
-        "프로바이오틱스",
         "장 건강"
       ],
-      "keyword_score": 2.0
+      "keyword_score": 1.0
     },
     {
-      "title": "니오라코리아, 식물성 단백질 시장 공략…‘니오라핏 프로틴 파우더’ 출시",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lbnFmRmZBUEM1LW1kVi1UbVo4QTBVc0pVM2lUQXlSanNaa3gydHRoV3RBYVowOWN3dW5vUTQxN0Z0TEM3OWtGMG02WmdubHltUHlXSUFmWmxvTmdRLUlZVXo5S1UyWklXM0JiYw?oc=5",
-      "source": "뉴스탭",
+      "title": "농업회사법인 ㈜심박, 프로바이오틱스 2종 개발...건강기능식품 사업 확대",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41UEM1U202NGRKakY0RTNaVVNfZXZHOGFjSldZdjkzTHJVdFVsUlhaMlUzbHFfZG1NM1NOY3JmalpGR2tTWXpWM1JXcWJmd3JnLTdQaTZnRUU?oc=5",
+      "source": "경북신문",
       "published_date": "2026-09-23",
       "summary": "",
       "origin": "domestic",
-      "id": "211e128eb1",
+      "id": "183412d49f",
       "category": "wellness_trend",
       "matched_keywords": [
-        "단백질"
+        "건강기능식품",
+        "프로바이오틱스"
       ],
-      "keyword_score": 1.0
+      "keyword_score": 2.0
     },
     {
       "title": "구미시, 식품기업…해외시장 ‘수출 잭팟’",
@@ -102,9 +398,23 @@
       "keyword_score": 0.7
     },
     {
+      "title": "구미, 식품기업 해외 바이어에 50억원 수출 성과",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Lb3JvVm9YWC1vWXlKb2ItbWRNbFgtd0UzVjBIZXBUaWhrTUpZaFhZMDlURGVUTFpRSUtwZHM3S0ZWd2xtNDZWLVlZMUl1Mk5TTEFlYU5TTDU5MlNMd2k5c9IBeEFVX3lxTFBXcjRKZ2RaM0Q3UlNFa2JmRjJTV3ZEejVFMWZJanRDTzZQOVE4UWNYYWlZQjR6THNYLUdaRlR2Tk1jYURvMFdJdUV6bkdtbk82RzdwRFNoVVo2X2R3Vl92WFlUdHItUDcyOW1sbHJXRWFYZDROcWZVTQ?oc=5",
+      "source": "뉴시스",
+      "published_date": "2026-09-23",
+      "summary": "",
+      "origin": "domestic",
+      "id": "b69bfbf889",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.55
+    },
+    {
       "title": "aT, 수출 100억달러 돌파 속 하반기 신입 채용 나서",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RSWMzcUpKT0x3WTR4TEhvY0Nob2tsZnZEWFYtY3I3TXM4LUI5Tm53bnp1LXAtTUJVTGFuYV9xZFpGZlJZSm9mTTBjb1Mtb204MFUyeTVzTllRLVBjcUR2UHdmM1ktcVpuNWJ5R1h3?oc=5",
-      "source": "S저널",
+      "source": "s-journal.co.kr",
       "published_date": "2026-09-23",
       "summary": "",
       "origin": "domestic",
@@ -116,27 +426,13 @@
       "keyword_score": 0.7
     },
     {
-      "title": "구미, 식품기업 해외 바이어에 50억원 수출 성과",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Lb3JvVm9YWC1vWXlKb2ItbWRNbFgtd0UzVjBIZXBUaWhrTUpZaFhZMDlURGVUTFpRSUtwZHM3S0ZWd2xtNDZWLVlZMUl1Mk5TTEFlYU5TTDU5MlNMd2k5c9IBeEFVX3lxTFBXcjRKZ2RaM0Q3UlNFa2JmRjJTV3ZEejVFMWZJanRDTzZQOVE4UWNYYWlZQjR6THNYLUdaRlR2Tk1jYURvMFdJdUV6bkdtbk82RzdwRFNoVVo2X2R3Vl92WFlUdHItUDcyOW1sbHJXRWFYZDROcWZVTQ?oc=5",
-      "source": "newsis.com",
-      "published_date": "2026-09-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "b69bfbf889",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
       "title": "농협, 해외사무소장 33명 한자리…농식품 수출·해외사업 확대 논의",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFdEpnTno2ZXFnOUlucmc2bVBRN2t2YVJTWGhXVnJYX3dBUjRHaTdQN2NJMkhEdERNdE1MQno1YjBHeUFmbHRkdjE3ZzVjczNTeHBld2c1MFZocnJmUmdnRjNYM2NnX3RjRUJR0gFrQVVfeXFMUEV0SmdOejZlcWc5SW5yZzZtUFE3a3ZhUlNYaFdWclhfd0FSNEdpN1A3Y0kySER0RE10TUxCejViMEd5QWZsdGR2MTdnNWNzM1N4cGV3ZzUwVmhycmZSZ2dGM1gzY2dfdGNFQlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hakdvU3FSLVVhdDVtYmF4QjM1ck11b1RWcWwtdTVHSVZwYnRpM3l3OHlSb3dweDFEZTZoVm54Rlk2RVY4QkVESU55NEJ2aC0yQ19GX3o2bDR1bkZqQTktSDducVd4b2NB0gFrQVVfeXFMUEV0SmdOejZlcWc5SW5yZzZtUFE3a3ZhUlNYaFdWclhfd0FSNEdpN1A3Y0kySER0RE10TUxCejViMEd5QWZsdGR2MTdnNWNzM1N4cGV3ZzUwVmhycmZSZ2dGM1gzY2dfdGNFQlE?oc=5",
       "source": "SR타임스",
       "published_date": "2026-09-23",
       "summary": "",
       "origin": "domestic",
-      "id": "e196ba037e",
+      "id": "dcab83abed",
       "category": "trade_opportunity",
       "matched_keywords": [
         "수출"
@@ -172,20 +468,6 @@
       "keyword_score": 0.7
     },
     {
-      "title": "[파리에서 만난 한국의 전통] ① 간장 수출 1년 새 3배로…프랑스 식탁 파고드는 'K-발효'",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PSG5vMk9SU2ZCQ3BNSnJaZHJPT3pmUjlXUGRuQWlKc1JrYzBOamFuVWcyYVNaTDdrczlHRF9wU0NrZWFSTmRySmx4clgxVmI4WVk3XzBtSWVReDB4?oc=5",
-      "source": "뉴스핌",
-      "published_date": "2026-09-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "83a1af53d1",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
       "title": "풀무원 'AI 최적화'부터 빙그레 'K-푸드 수출'까지…유통업계, 시장 공략 '가속'",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaUWVNZ0dqVVlxelB2NEN0MUMzeXluUzh6ZXZPU29QU01IdTNXVlRUemFPaXRXdHdySG9TXzJadEozRXgzWGFtd19Kb3hSVzcyQThyb1lvdGhhZHZsMGZIUmprQTY3Z0NHU2c?oc=5",
       "source": "데일리팝",
@@ -193,6 +475,20 @@
       "summary": "",
       "origin": "domestic",
       "id": "9c12cfe545",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "[파리에서 만난 한국의 전통] ① 간장 수출 1년 새 3배로…프랑스 식탁 파고드는 'K-발효'",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PSG5vMk9SU2ZCQ3BNSnJaZHJPT3pmUjlXUGRuQWlKc1JrYzBOamFuVWcyYVNaTDdrczlHRF9wU0NrZWFSTmRySmx4clgxVmI4WVk3XzBtSWVReDB4?oc=5",
+      "source": "뉴스핌",
+      "published_date": "2026-09-23",
+      "summary": "",
+      "origin": "domestic",
+      "id": "83a1af53d1",
       "category": "trade_opportunity",
       "matched_keywords": [
         "수출"
@@ -228,20 +524,6 @@
       "keyword_score": 1.0
     },
     {
-      "title": "모토(MOTTO), 캐나다 WIN ENGINEERING LTD와 MOU 체결",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3V1kzNl9LUTRSM2UtNUJPdnJKNTdhYWJJWGRjaHJZbjVSY3FMTUh5X0lPOHpodDZGbF9SbC1qRWFtckRnQVoxN2t1VVRMdzQ0WTlfUEloUUR2SGhQY3ZJWXVCYldRc1BPNGFkNg?oc=5",
-      "source": "데일리경제",
-      "published_date": "2026-09-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "576a0b360e",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "mou"
-      ],
-      "keyword_score": 1.0
-    },
-    {
       "title": "프로칠레, 서울서 역대 최대 해외 B2B 행사…한·일·대만 바이어 80개사 참가",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IaDNfN1JVS0FZTXhfd2FUQjRfR0lnMm5WSTBvbmNXWHhWYnoxZ25HcTVySUNIc2hzVHRTRG9ZTHpfdWNaZjRwUk91ZFZrWXdNTmw5bGpGQmI?oc=5",
       "source": "뷰어스",
@@ -252,6 +534,20 @@
       "category": "trade_opportunity",
       "matched_keywords": [
         "바이어"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "모토(MOTTO), 캐나다 WIN ENGINEERING LTD와 MOU 체결",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3V1kzNl9LUTRSM2UtNUJPdnJKNTdhYWJJWGRjaHJZbjVSY3FMTUh5X0lPOHpodDZGbF9SbC1qRWFtckRnQVoxN2t1VVRMdzQ0WTlfUEloUUR2SGhQY3ZJWXVCYldRc1BPNGFkNg?oc=5",
+      "source": "kdpress.co.kr",
+      "published_date": "2026-09-23",
+      "summary": "",
+      "origin": "domestic",
+      "id": "576a0b360e",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "mou"
       ],
       "keyword_score": 1.0
     },
@@ -299,20 +595,6 @@
       "keyword_score": 2.0
     },
     {
-      "title": "Maple Leaf Foods to close plant-based meat sites",
-      "url": "https://www.just-food.com/news/maple-leaf-foods-plant-based-meat/",
-      "source": "just-food",
-      "published_date": "2026-09-23",
-      "summary": "Maple Leaf Foods is to shut two US plant-based meat manufacturing sites as the Canadian food company seeks to improve profitability. The post Maple Leaf Foods to close plant-based meat sites appeared first on Just Food .",
-      "origin": "foreign",
-      "id": "9e177b8daa",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "plant-based"
-      ],
-      "keyword_score": 1.0
-    },
-    {
       "title": "Impossible Foods marks UK retail debut in market set to “rebound”",
       "url": "https://www.just-food.com/news/impossible-foods-uk-retail-debut-tesco/",
       "source": "just-food",
@@ -331,12 +613,26 @@
       "url": "https://www.fooddive.com/news/goldfish-protein-snacking-campells-soup/830920/",
       "source": "Food Dive",
       "published_date": "2026-09-23",
-      "summary": "After admitting it was slow to innovate the popular snack, Campbell&rsquo;s has been actively bringing the offering into new categories.",
+      "summary": "After admitting it was slow to innovate the popular snack, Campbell&rsquo;s has been bringing the offering into new categories to grow its reach.",
       "origin": "foreign",
       "id": "b1f76397d4",
       "category": "wellness_trend",
       "matched_keywords": [
         "protein"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "Squeaky Bean adds ‘first-to-market’ BBQ Pulled Pork Style Shreds to ready-to-eat range",
+      "url": "https://www.foodbev.com/post301/squeaky-bean-adds-first-to-market-bbq-pulled-pork-style-shreds-to-ready-to-eat-range",
+      "source": "FoodBev Media",
+      "published_date": "2026-09-23",
+      "summary": "The Compleat Food Group’s Squeaky Bean plant-based brand has expanded its core ready-to-eat meat alternatives range with BBQ Pulled Pork Style Shreds.",
+      "origin": "foreign",
+      "id": "307324e121",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "plant-based"
       ],
       "keyword_score": 1.0
     },
@@ -356,20 +652,6 @@
       "keyword_score": 2.0
     },
     {
-      "title": "Squeaky Bean adds ‘first-to-market’ BBQ Pulled Pork Style Shreds to ready-to-eat range",
-      "url": "https://www.foodbev.com/post301/squeaky-bean-adds-first-to-market-bbq-pulled-pork-style-shreds-to-ready-to-eat-range",
-      "source": "FoodBev Media",
-      "published_date": "2026-09-23",
-      "summary": "The Compleat Food Group’s Squeaky Bean plant-based brand has expanded its core ready-to-eat meat alternatives range with BBQ Pulled Pork Style Shreds.",
-      "origin": "foreign",
-      "id": "307324e121",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "plant-based"
-      ],
-      "keyword_score": 1.0
-    },
-    {
       "title": "The rise of private label functional foods",
       "url": "https://www.foodnavigator.com/Article/2026/09/23/private-label-embraces-functional-foods/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
       "source": "FoodNavigator",
@@ -385,328 +667,18 @@
       "keyword_score": 2.0
     },
     {
-      "title": "CP Foods taps protein boom with chicken and egg push",
-      "url": "https://www.foodnavigator.com/Article/2026/09/23/cp-foods-taps-protein-boom-with-chicken-and-egg-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "title": "Supply chain pressures are testing dairy’s resilience",
+      "url": "https://www.dairyreporter.com/Article/2026/09/23/can-feed-shortages-keep-dairy-prices-high-why-the-markets-normal-cycle-may-be-breaking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
       "source": "FoodNavigator",
       "published_date": "2026-09-23",
-      "summary": "CP Foods is determined to grow conventional chicken and egg sectors via format innovation and accessibility enhancement",
+      "summary": "Rising feed costs, fertiliser uncertainty and strong demand for dairy protein are reshaping global dairy markets. Experts warn that constraints upstream could keep dairy prices elevated for longer than expected.",
       "origin": "foreign",
-      "id": "aa053c20d5",
+      "id": "4476da2f76",
       "category": "wellness_trend",
       "matched_keywords": [
         "protein"
       ],
       "keyword_score": 1.0
-    },
-    {
-      "title": "㈜키모비스, 성장 커뮤니티에서 기획한 건강기능식품 ‘키모와’ 출시",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uVm1KRjVKQTV0TkdYWDQ1VDlKYUhuNklITURCUWd0cVJmWnlyb3E2Sk80VjZ5T0VaazB4MW9xQlBLb0RJcXg1YXFydmJXN0s1d2ZUMTJ1WnlKZ1F5dVdsMjBCT0NWOE9BMjYtMlBMSQ?oc=5",
-      "source": "서울신문",
-      "published_date": "2026-09-22",
-      "summary": "",
-      "origin": "domestic",
-      "id": "0e60258097",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "관절혈통, ‘2026 고객감동 우수브랜드 대상’ 건강기능식품 부문 1위 수상",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1R3R2cUVMNWdheHZDcjdJOU56TVN5UlBTSVl0Y0FyWXZ3WTdLZmhQVlBWRUJuajdlblJkWFNrTTRpZnJhMGtjamgteGc0djhmMFY0Y2llVExqbUUzUFQ3ZGxicXlUX1dHX0JyWGtHMDU5eXpGQVHSAWZBVV95cUxPSXJ0cGpfTHNHQ3lVaXVhN3R1R3BObm9CYWtWTFJIUzNVOWxFSFdoaUZSX0gyRHoycXBZdzVyYnhmUTJyZkJNYWI3NVI0MVAwREQxTEtjV0RTczZ1RmduRjFsTGc3X3c?oc=5",
-      "source": "동아일보",
-      "published_date": "2026-09-22",
-      "summary": "",
-      "origin": "domestic",
-      "id": "2d4067c90c",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "초록우산·팜스빌, 취약계층 아동에 건강기능식품 지원",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wdFFnSERyYkdzQXd3a1d5MzRzWGtpVmVTdTI2ZERuVEIzRWwzd1FvRVJneThmVEtDZmw1V1pjMWczSmNpTXFjWHoyLUdkUlJhT1BpdDVLRDZmdw?oc=5",
-      "source": "fnnews.com",
-      "published_date": "2026-09-22",
-      "summary": "",
-      "origin": "domestic",
-      "id": "5d14b78512",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "건강기능식품 브랜드 ‘마이파우치’, 추석 맞아 최대 67% 할인 고객감사 특별전 진행",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94Nlk4Y1VNQWRYenV0dXRERmZqdkZFRE0xSTBFcms1ZG1QaS1PYm9zUEI5MEVxdUxMSE5tYmFabDlxam9PSUM4UlF4NXZTbFJSc2RUcXlTdmVINDJEZXlzNGtWb0JNcG9uZ1E?oc=5",
-      "source": "비즈월드",
-      "published_date": "2026-09-22",
-      "summary": "",
-      "origin": "domestic",
-      "id": "a3b9af9841",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "조아제약, 어린이 건강기능식품 ‘잘크톤 에스 플러스’ 출시",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55TjNnWDRVT2lvcUZpa29vZlZmWXotTTRXOXMyQmg0MDBuLW1HcTU5Xy1HQnNzYkhLcWtHTWdnZmZEWkRROFV3QkNFU0ttRjQzbnhIdHRNTk5ZaWltdF93c2lKZE8?oc=5",
-      "source": "PRESS9",
-      "published_date": "2026-09-22",
-      "summary": "",
-      "origin": "domestic",
-      "id": "f62b93f656",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "‘고소애’, 근력 유지 기능성 원료 인정",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tNlRxMGxzaVVrSkdVdFRBRVFXRkg0cHZxTDFmMENtem9GMzBZQkxnWW9Ca29pRW1JSi1kUDRkSzhWUVhtdU54T1NtRjVlNmphcHFtSHNSNEkyZHM5bEZqYzNkOERIdDY3RGhWcA?oc=5",
-      "source": "aflnews.co.kr",
-      "published_date": "2026-09-22",
-      "summary": "",
-      "origin": "domestic",
-      "id": "b48966d806",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "기능성 원료"
-      ],
-      "keyword_score": 0.85
-    },
-    {
-      "title": "중국산 유황 죽순·색소 궁채 파동에…식약처 “수입 단계 꼼꼼히 살펴달라” - 조선비즈",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUV82YjByaHlKTDkxbVJEb2V0czJfbzlicTgxU2pOS0R2cldRd1JZT19vcWVhVFd2aTJOZnZKUTloUkxVSlRqY0JWZHhzRjRGMDgtT09HZnh3ZFh0U00zQ1hxOVByMjlOdmRBSTAyOVZMQkI0b25IcVFjS0xlSG5DdzZ6QkxoQdIBmgFBVV95cUxPNVhMaXNEVVlmTjl4RVZnT21ZSjlEelNGVXpIV2lSV0psZVNkeDJKdlNPVWRGQ195aV9vVU05Y3pvdmxyT2lNTEZ6QlRWYUliTUNqaE9tZUUwTjBkZGc4VjhVWnNTR01USm83SDFqWjdINzZNd1ZrNUk3VU1MUzNpQTgtYWw4V1ctckE4cXhrT0JycWVLNWZyRWNB?oc=5",
-      "source": "Chosunbiz",
-      "published_date": "2026-09-22",
-      "summary": "",
-      "origin": "domestic",
-      "id": "adc52d7dec",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수입"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "K-콘텐츠 타고 K-푸드 중남미 공략…멕시코서 수출 접점 넓힌다",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nZ3BsWGhXaERhQmJtVzFtYXNUU21hTDhnUUwteTE5MXJXRHNCNnVaekZLb1hvSVRGX1BqM0hWektfUjVRcW81MXk0RmRqRFEtaEpkLS1pa2NGUHUwWEJFNXk5S2E4dFQ0TlY3RQ?oc=5",
-      "source": "푸드아이콘",
-      "published_date": "2026-09-22",
-      "summary": "",
-      "origin": "domestic",
-      "id": "8411e15603",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "[K-푸드 영토확장] 정상외교 연계 K-푸드 수출 확대…우즈벡·칠레 유통시장 공략",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KSy1YQkZVTkYtQlhqMi1XVHkteVJETnpFYWM5LW1tdURhVF9xc3FlX0taQmJfVjBabHhza3kweUJnc3V3V0tBd0psX0ZwVnVFWDNTX2hLbzVldi04X01PU2duVEtQekJ0Z29RenlB?oc=5",
-      "source": "코리아포스트 한글판",
-      "published_date": "2026-09-22",
-      "summary": "",
-      "origin": "domestic",
-      "id": "f4b9d80685",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "코트라, 우즈벡·칠레서 ‘K-소비재 수출 마케팅’ 행사 개최…“K-푸드 진출 확대 지원”",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jaFJwR1dWdk5UOUVzMllWcDlwRUYxWmlKNF9fTmpiSWF3aFZwQllaeEpacHU0cWFsd2RDVFAxZEdOOGJOTDhxTkJRRUh6Q1U2Vmk2NUx3?oc=5",
-      "source": "헤럴드경제",
-      "published_date": "2026-09-22",
-      "summary": "",
-      "origin": "domestic",
-      "id": "eb0d88a4fa",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "수소기업 80곳·해외 바이어 20곳 집결… WHE 2026서 투자·수출 상담",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BVWtJQmJmZHV2N1c5ZWM2eVY0czZ1dl9USU9pV2YzMHp5T0JEcVJuR0Fxb2xhVEJpajBBeDNwWUhxM0tQbzdKZXUtSVJjcmFGaWVJYko3RW1NUkZf?oc=5",
-      "source": "오토뷰",
-      "published_date": "2026-09-22",
-      "summary": "",
-      "origin": "domestic",
-      "id": "87d62f0fe2",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출",
-        "바이어"
-      ],
-      "keyword_score": 1.4
-    },
-    {
-      "title": "수출 중소기업 \"‘바이어 및 거래선 발굴’이 가장 큰 걸림돌···유망시장은 중동\"",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QQmVZN1RGYVQ3aXNoM1o2Z1dMYTJMTUx4UEVGWWtuYWlpSUFWdU50WVRMUHhIQ0FTMGszR1JLUEVEejE0d25QWmg2MnJEamNBWUlTLTVRMi1UOW9saDdpeE1zU2pZbGptN1d3OQ?oc=5",
-      "source": "데일리경제",
-      "published_date": "2026-09-22",
-      "summary": "",
-      "origin": "domestic",
-      "id": "d3219da1c6",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출",
-        "바이어"
-      ],
-      "keyword_score": 1.4
-    },
-    {
-      "title": "US 2-EHN Market Tightens as Diesel Demand Boosts Buyer Procurement",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTkZRUFVxU1NhRGdJSmZmbDZvbldyVGVZbHRfdGRBZWZyS3UtTkhWWHk5U0gyUW4xSm45NlZyZllhUWZrVDJ3ZDNQRXRwVFJiVXRvQUhkelJyc1JGTEdDTmpUMGRsX0l3WHFVdVhfczZCNzR5cGJlYUdzYWx4b1ZIUDltOWJMRkExelFubkJwSXVlT0g2MGphSElYZERPSnlMMlp4M0ZPMTVDNHp4T0JfMHBpUQ?oc=5",
-      "source": "ChemAnalyst",
-      "published_date": "2026-09-22",
-      "summary": "",
-      "origin": "foreign",
-      "id": "dbc1b30d8d",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "buyer"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "“가을 맞아 현장서 소비자와 만난다”…식품업계, 스포츠 후원·글로벌 축제 참여 ‘활발’",
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201253",
-      "source": "식품음료신문",
-      "published_date": "2026-09-22",
-      "summary": "야외 활동과 문화 축제가 집중되는 가을철을 맞아 국내 식품·주류업계가 스포츠 현장 지원부터 해외 대형 페스티벌 및 글로벌 박람회 참가까지 전방위적인 오프라인 현장 마케팅에 나서고 있다. 단순 제품 홍보를 넘어 러닝 시즌에 맞춘 필수 음료 지원, 젊은 세대의 음악 축제 연계 체험, K-콘텐츠와 결합한 해외 수출 판로 개척 등 소비자와 만나는 접점을 다각도로 넓히는 모습이다.일화는 선선한 가을 날씨와 함께 본격화된 러닝 시즌을...",
-      "origin": "domestic",
-      "id": "f12372791c",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "종이팩 자원순환 위해 민·관 총출동…생산부터 재생원료까지 선순환 체계 가동",
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201251",
-      "source": "식품음료신문",
-      "published_date": "2026-09-22",
-      "summary": "기후에너지환경부와 유업계, 종이팩 제조사, 제지업계, 유관기관 등 총 10개 민·관 기관이 손을 맞잡고 고품질 천연펄프 자원인 종이팩의 수거와 재활용 전 과정을 아우르는 ‘닫힌 고리(Closed Loop)’ 선순환 체계를 구축한다.지난 21일 서울우유협동조합과 테트라팩 코리아를 비롯한 10개 기관은 한솔제지 대전공장에서 ‘종이팩 재활용 체계 개선을 위한 업무협약(MOU)’을 체결했다. 이날 협약식에는 김성환 기후에너지환경부...",
-      "origin": "domestic",
-      "id": "4a1107a4f6",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "mou"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "[09/22 오늘의 새상품] 삼립 ‘피그인더가든 저당 시그니처 포케 샐러드’, 이디야커피 ‘피스타치오 음료’ 2종, 타코벨코리아 ‘안창 스테이크 크런치랩’",
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201250",
-      "source": "식품음료신문",
-      "published_date": "2026-09-22",
-      "summary": "삼립, 맛·영양·든든함 3박자 갖춘 ‘피그인더가든 저당 시그니처 포케 샐러드’퀴노아, 렌틸콩, 현미 섞은 곡물밥에 풍성한 토핑 더해삼립 피그인더가든이 즐겁게 건강 관리를 하는 ‘헬시플레저’ 트렌드에 맞춰 맛과 영양까지 잡은 ‘저당 시그니처 포케 샐러드’ 2종을 출시했다.‘저당 시그니처 포케 샐러드’는 퀴노아, 렌틸콩, 현미를 섞은 곡물밥에 풍성한 토핑을 더해 다양한 식감과 든든함을 제공하는 한 끼 식사 대용의 포케 타입...",
-      "origin": "domestic",
-      "id": "698db21ba7",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "헬시플레저"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "완제품만 보면 놓친다 - 복합원료 사양서와 식품접촉재료 적합성선언을 다시 확인해야 하는 이유",
-      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=120267",
-      "source": "식품저널",
-      "published_date": "2026-09-22",
-      "summary": "19일 사이에 지나간 두 개의 날짜7월 1일과 7월 20일. 불과 19일 사이에 EU 수출 식품기업이 확인해야 할 두 개의 전환기한이 지나갔습니다. 하나는 훈연향(smoke flavouring)이고, 다른 하나는 비스페놀A(BPA)입니다.그런데 여기서 “두 규제 모두 전환기간이 끝났다”고만 정리하면 둘 다 틀릴 수 있습니다.훈연향은 일반 식품군의 기한이 2026년 7월 1일이지만, 치즈와 육류, 가공수산물과 어란, 그리고...",
-      "origin": "domestic",
-      "id": "e597726583",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "From Scalp to Follicle: The New Science of Hair Wellness Consumers Can See and Feel",
-      "url": "https://www.nutritionaloutlook.com/view/from-scalp-to-follicle-the-new-science-of-hair-wellness-consumers-can-see-and-feel",
-      "source": "Nutritional Outlook",
-      "published_date": "2026-09-22",
-      "summary": "",
-      "origin": "foreign",
-      "id": "361fc3cc1f",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "wellness"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "Elian receives €40m investment from COFIDES to fuel plant protein production in Barcelona",
-      "url": "https://www.foodbev.com/post301/elian-receives-40m-investment-from-cofides-to-fuel-plant-protein-production-in-barcelona",
-      "source": "FoodBev Media",
-      "published_date": "2026-09-22",
-      "summary": "Barcelona-based agri-business company Elian has welcomed the Spanish Development Financing Company COFIDES into its share capital with an investment of €40 million.",
-      "origin": "foreign",
-      "id": "b066a03aff",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "protein"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "Taste, rebalanced: Enhancing the sensory experience in functional F&#38;B",
-      "url": "https://www.foodbev.com/post301/taste-rebalanced-enhancing-the-sensory-experience-in-functional-food-and-beverages",
-      "source": "FoodBev Media",
-      "published_date": "2026-09-22",
-      "summary": "FoodBev's Rafaela Sousa explores the taste modulation technologies helping functional food formulators rebuild taste from the ground up.",
-      "origin": "foreign",
-      "id": "099d4a295d",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "functional food"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "Webinar preview: Innova Market Insights maps 2027 top nutrition trends",
-      "url": "https://www.nutritioninsight.com/news/innova-market-insights-top-nutrition-trends-2027.html",
-      "source": "Nutrition Insight",
-      "published_date": "2026-09-22",
-      "summary": "Scientific advances, changing lifestyle needs, and cost-of-living pressures are driving consumer demand for tangible benefits across metabolic health, longevity, energy, and everyday wellness goals, according to Innova Market Insights....",
-      "origin": "foreign",
-      "id": "208aaf720b",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "wellness"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "Why apple pie could be fall’s next breakout flavor trend",
-      "url": "https://www.foodnavigator.com/Article/2026/09/22/why-apple-pie-could-be-falls-next-breakout-flavor-trend/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "source": "FoodNavigator",
-      "published_date": "2026-09-22",
-      "summary": "While pumpkin spice remains a fall staple, Apple is gaining momentum, posting breakout growth in protein bars and soaring engagement across TikTok and Instagram, according to Spate.",
-      "origin": "foreign",
-      "id": "7bdd1d0249",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "protein"
-      ],
-      "keyword_score": 2.0
     }
   ]
 }
