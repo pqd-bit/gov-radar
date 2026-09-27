@@ -1,20 +1,48 @@
 {
-  "generated_at": "2026-09-26T00:32:56.353641Z",
-  "count": 40,
+  "generated_at": "2026-09-27T00:27:36.217624Z",
+  "count": 31,
   "items": [
     {
       "title": "고려은단, 27일 롯데홈쇼핑서 관절 건강기능식품 생방송",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PcGR1djM3Rl8ydjRPT2xXQTJjYjdtT3dZMG1wczU1cXMwWUJSc05pTzlHT0dIR0xOT0E1Vk5UcmEzZjdvaXRSbUd4N250aEc1UXJBRjVJUS1rVkU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DSU8xNFQxSFVwMUcza1BuaU1VeVRlQm5PSGpaeHE3aWI2X0ludkQ4WEdFNnI3TFdYSGo3MmlzTTVrRU04VnNZdUU4NWJ2LWtkWHhzUjljX0dRRFNhVE8tLS1ZTQ?oc=5",
       "source": "에너지경제신문",
       "published_date": "2026-09-26",
       "summary": "",
       "origin": "domestic",
-      "id": "e56b186fd6",
+      "id": "bbf90d1c53",
       "category": "wellness_trend",
       "matched_keywords": [
         "건강기능식품"
       ],
       "keyword_score": 1.0
+    },
+    {
+      "title": "LG생활건강, 건강기능식품 R&D·수자원 보전 확대…연구·ESG 협력 강화",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9McE1MMVRDbTJLODY1Ym03NXI0LVd2X2hxWk05RUtzTXhSbGh1eXV5S19CdjFMU0JnMWlJSmd3bnpkSlJXQkgyM0QtUmhHUGdJQ1hlVjhnaExBVVd1c1UwTDR1MUZXck9FYXdKNjNPTjZrdw?oc=5",
+      "source": "웹이코노미",
+      "published_date": "2026-09-26",
+      "summary": "",
+      "origin": "domestic",
+      "id": "8680805ed5",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "건강기능식품"
+      ],
+      "keyword_score": 2.0
+    },
+    {
+      "title": "일본서 경북 해외자문위 정기총회.. \"식품 수출 지원\"",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdEs4eVl6dG1HSHJ5TGx3SFZEM2d5WHZGejFQRzN5aUFVQVlDUGpLaC0yU1RlZGI4WHd3RFg5ZEtDOUwydm80dkpYMDI1OXpOY0dfUm8yOHJzUnpoSUxYNEo5MkU1QnpPYlBnenFONWI1OHh4OUJhcjJQSFJzQ3RKTk4zQUwwVVdNN1J0bkpvbkZXa3NmTDdBVjFWMDJiX0Z2VzdEQmk5aFg0M0U?oc=5",
+      "source": "안동MBC",
+      "published_date": "2026-09-26",
+      "summary": "",
+      "origin": "domestic",
+      "id": "4fbed7f0eb",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
     },
     {
       "title": "전남광주 농수산식품 수출 역대 최대…김·가공식품 쌍끌이",
@@ -31,18 +59,116 @@
       "keyword_score": 0.7
     },
     {
-      "title": "일반식품의 건강기능식품 오인 광고 적발...2022년 3864건→2025년 7244건(87%↑)",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DNVdhdmVOWWNEbGo3NDJpT3VhanRKdzRyNnNsaHdVTFJpUWdGeEl5TjdRenVmb1Z5UGhOeExGNlJsV0hTOHNtbjgtLThIcmw3UTBFR0ljQnpqNENaMVpxVldzZ0F1X3N6X01xZ2p3?oc=5",
-      "source": "데일리메디팜",
-      "published_date": "2026-09-25",
+      "title": "일본 식료품 소비세 8%→1% 추진…K-푸드 수출 셈법 복잡",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aZjZsU3ZGVjFjYWJLWUs3ZzdYTUxrN3NWX2NvdFlOclZGdkY1M0ZFYUNfaGZRM3MxVlpLMHBwMEdmYzZOblRrQklDV2poWDVaUUowWXJWemRPUkFvSjZUa0N6Mmtidw?oc=5",
+      "source": "foodtoday.or.kr",
+      "published_date": "2026-09-26",
       "summary": "",
       "origin": "domestic",
-      "id": "3f2b51fb94",
-      "category": "wellness_trend",
+      "id": "e6cc7a918a",
+      "category": "trade_opportunity",
       "matched_keywords": [
-        "건강기능식품"
+        "수출"
       ],
-      "keyword_score": 1.0
+      "keyword_score": 0.7
+    },
+    {
+      "title": "전남광주특별시, 농수산식품 수출 7억5687만 달러···역대 최대",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBucVVIbS1lZ19ORnUtSi0tRjhSc3ZjTldSY05admY0LUlQX0RpT3c5dElXQjJiWkFqdDNacGF6M0tRUi1ZQUVhbkRKV1hsMzMwNnZXRVplOHp4eXljQkNXWlA1OXpEUG9xUE9r0gFvQVVfeXFMTzJIMnVGa1NrTWhZLWxsdXRyWktrN1V2T2xVZkFkVUNvcHlRN0tiOFg2YjNHdHBIOEYxOHhVMWxfSDgtSHFVN3N4bnpncmliQ241Mkt6Y2tTSUtOb3ExbURMMTZieUYyUXh3QnR4MjNB?oc=5",
+      "source": "빛가람뉴스",
+      "published_date": "2026-09-26",
+      "summary": "",
+      "origin": "domestic",
+      "id": "78093fad45",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "제주 취나물밥·톳잡곡밥 미국 수출…식품진흥원 기술지원 결실",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00dl9LaEY5TDYtNzJsdG1kODg3TTd4X0U2QUtGUFlnUk1WVzZIY0tiel84ZThqa3J1UWttaFZIRGJURXp2RWNkX29FNU1DRmZGT3NnME1TUmNnMzA1bVVXUEFKMVZRNDVlejFXLUFB?oc=5",
+      "source": "youngnong.co.kr",
+      "published_date": "2026-09-26",
+      "summary": "",
+      "origin": "domestic",
+      "id": "a41f0a572e",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "[금융家] 강호동 농협중앙회장 ②ㅣ 수해 복구 지원부터 美 농식품 수출 확대까지…국내외 현장경영 박차",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxOTlyZGx2cWhWbzVvN0xSdzFZRmIwUG13QkZuVVF5UzhBRXVQT05ZZzdQNlJBT09wdnpFV1VLTmo4MkJ0ckY2b0NuUjVnbDBrOEJsb0NpREdSOUZlT3pFaUU1c0ltYm5S?oc=5",
+      "source": "CBC뉴스",
+      "published_date": "2026-09-26",
+      "summary": "",
+      "origin": "domestic",
+      "id": "907e39fd3c",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "\"K푸드 수출 늘었다는데\"…180억 지원해도 뒷걸음",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rY01ScGdpUmdXX19OV2Ria0gzdkI1RVdsaExPajRjdDRpVUpfWUViaHFKeUZod0ZoLW1CQVBXTHhNTjhjTVB6WkcxdHpSR2RaTmU5MkFVWDE4QQ?oc=5",
+      "source": "한국경제",
+      "published_date": "2026-09-26",
+      "summary": "",
+      "origin": "domestic",
+      "id": "9905fd402c",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "[국경 넘은 K푸드] 수출 56% 싹쓸이…대상 '종가', 90개국 뚫고 김치로드 확장",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lMF9ka3p1RS1QT0VXb0RhS1pqNllocnFUcnc1RDF3dDlzcWt5cG5ISmppaDk4Y1RSMk8xLUdQc3pReDEwQng3Nmdpdi1rSG96TDBKOGpDR0dQOFRpM2c?oc=5",
+      "source": "더구루",
+      "published_date": "2026-09-26",
+      "summary": "",
+      "origin": "domestic",
+      "id": "d5abee9b38",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "작년 360억원 쏟은 K푸드 수출 지원…지원 기업 53% 수출액 감소",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sbUttX3BMVGFvTk5rS3BMZVlNUFVnc0h4UXJRUWltYmQ2aUh5UHhIbHVhV0dZRk5RMklUVi1JWUdtNmZkejBzM1hiUGtHM1Y3QTFwa0k2TnVodE3SAWBBVV95cUxNQV9adE13VlFaQXBmSmZlVDIwRENtWktITmMwOF9TQ0JhMlBfX2drMkxaRk9KejZFOTJ0T0FRb3lfTkY1S3p1OUc0OHRhUnpMWUQtcGNMM3NiTzlmYUpKZ3E?oc=5",
+      "source": "연합뉴스",
+      "published_date": "2026-09-26",
+      "summary": "",
+      "origin": "domestic",
+      "id": "914cf0f811",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "K푸드 360억 썼는데…53% 기업 '수출 감소' 왜? : 정치",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yM1RYY1VQdzZWaVJQdkwtLUFKRWU1b3EwQlYtQXRielBJS0JZTmlUTUxNX0V3Q2czclhQVkdxell0N0FNM09ibmVR?oc=5",
+      "source": "재경일보",
+      "published_date": "2026-09-26",
+      "summary": "",
+      "origin": "domestic",
+      "id": "47bbd2cc94",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
     },
     {
       "title": "일반식품→건강기능식품 오인광고, 3년새 87% 급증",
@@ -61,7 +187,7 @@
     {
       "title": "기능성 원료 11종 식품적용 실증 착수... 익산시, 2028년까지 ‘전북 기능성식품 특구’ 추진",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02Um83ay1scWQwY2V3QTVXeWEyVFRnZ2RKV2VKdmk1MVc1RkVSdUM2bW16RzJsU01BcnRqYU1NVGZucGtOUEdXT1R0U0NaUU5JZVZQSzJTT2EyTEV1dHhzQ0l1Tjh0NmRyTVE?oc=5",
-      "source": "newstnt.com",
+      "source": "뉴스티앤티",
       "published_date": "2026-09-25",
       "summary": "",
       "origin": "domestic",
@@ -74,12 +200,12 @@
     },
     {
       "title": "질·장 건강 한번에…유한양행, '엘레나 듀얼' 출시",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IRy1VbWNfbjRrZTFXVGZUeDNzSjZWcXE5dmxfamtWOHlVd25nV2lCTVQ4ZHJQcjBaSWpPaTdyektUa0phVzN2YlEzRGdZNlJOeEN6LURhSElJS2lEUmd1dNIBeEFVX3lxTFAwQUZGWFZUVVF3bmFWNWhVcVBDUmpGdnNuamNoSV9tUmxwem44dW1fMEktcmFfUExVM2ppVzRoOVpNTG9maWtHd1ZRamR0UlhEbmRPNjFpWmhoTWlybTdOTF9kdkFTX1lNdFQzRE9FMXBEQ3pwaDJnaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IRy1VbWNfbjRrZTFXVGZUeDNzSjZWcXE5dmxfamtWOHlVd25nV2lCTVQ4ZHJQcjBaSWpPaTdyektUa0phVzN2YlEzRGdZNlJOeEN6LURhSElJS2lEUmd1dA?oc=5",
       "source": "뉴시스",
       "published_date": "2026-09-25",
       "summary": "",
       "origin": "domestic",
-      "id": "3e5449f0f5",
+      "id": "9308fd12a5",
       "category": "wellness_trend",
       "matched_keywords": [
         "장 건강"
@@ -99,6 +225,48 @@
         "수출"
       ],
       "keyword_score": 0.55
+    },
+    {
+      "title": "전남광주 농수산식품 수출 1조원 돌파…전년 대비 8.2%↑",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jRGhaNGhfN0ZKVk9fN3ROekM3TDZ3cF8zREMzWkdFZTB5alpEeEVFMGJlb2VPNHhzZHFSMm5iV2RxV1E5dElkNi00WTR0aDJZOHB2LVd3Ung2ZlkzLUFXZDJJRVFCcW1FVXVZbEZIdw?oc=5",
+      "source": "진일보",
+      "published_date": "2026-09-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "6867b4bf20",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "‘농수산식품 수출’ 역대 최대 기록…‘12억 달러’ 달성 박차",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VSVJNNXFzTGd2NUlUUlRBRlFXaXhraTBVRDJzb0MzNTQ0ODI5UWVqSDNNZU9mTVI4X08zT2pqUURFazRZYkYyaEgyWGx2eVNLaS13MGw1QTNyb1VWR3plcmxBTzRTT2c?oc=5",
+      "source": "전남타임스",
+      "published_date": "2026-09-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "347d09f8a5",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "전남광주 농수산식품 수출 8.2% 증가…8월까지 7억5천687만달러",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83WkxYUHhiRXY0Z2xVNDhRNVVMaDhaaEJNak12MndMODc3eEE1ak1oRlFqMEc3TkltQmpFQ3RNNWdPc2liSl85M3R5SUpDMDBELTZxTXZTVGFwdEpNSmlCcVhLVXpwdmdSTmRRWGZn?oc=5",
+      "source": "koreapost.co.kr",
+      "published_date": "2026-09-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "3c46f6ae6a",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
     },
     {
       "title": "전남광주 농수산식품 수출 호조…김부터 커피조제품까지 성장",
@@ -127,34 +295,6 @@
         "수출"
       ],
       "keyword_score": 0.7
-    },
-    {
-      "title": "‘농수산식품 수출’ 역대 최대 기록…‘12억 달러’ 달성 박차",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VSVJNNXFzTGd2NUlUUlRBRlFXaXhraTBVRDJzb0MzNTQ0ODI5UWVqSDNNZU9mTVI4X08zT2pqUURFazRZYkYyaEgyWGx2eVNLaS13MGw1QTNyb1VWR3plcmxBTzRTT2c?oc=5",
-      "source": "전남타임스",
-      "published_date": "2026-09-25",
-      "summary": "",
-      "origin": "domestic",
-      "id": "347d09f8a5",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "전남광주 농수산식품 수출 역대 최대…8월 7억5687만 달러",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uZEltN0szaFd2M2lGdFZCOXVnTmt3eTVpazlHNmpIeU5abTczaU12R1lVLTBDZElKTllqQmRUQ3pEYXdDcmFJb2tfX0FsWDhfd1dmZDNJV3BoSFNJOHRIWFJRVzBvcl9tS3ZSejBWZGZXS0xrNGs1MtIBeEFVX3lxTE1uZEltN0szaFd2M2lGdFZCOXVnTmt3eTVpazlHNmpIeU5abTczaU12R1lVLTBDZElKTllqQmRUQ3pEYXdDcmFJb2tfX0FsWDhfd1dmZDNJV3BoSFNJOHRIWFJRVzBvcl9tS3ZSejBWZGZXS0xrNGs1Mg?oc=5",
-      "source": "뉴시스",
-      "published_date": "2026-09-25",
-      "summary": "",
-      "origin": "domestic",
-      "id": "c9330d425e",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.55
     },
     {
       "title": "UAE 韓 농식품 수출 23% 급증…농심, 현지 유통망 공략",
@@ -229,7 +369,7 @@
     {
       "title": "Plant-Based Bakery Foods: Milk Bar Brings Beyond Meat Into Its Savory Pastries",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxNHRYTF9BSHRYaHNWLTRvSGtXalRGWHJqWkJaZ1lmYmt4WE1BYldLc1lvaWw3ZHZ0QmlOQzJ6ay1VOWdhUmVTaHEwY0hYUUVqcjFmMkx3QjROODBKekZQUQ?oc=5",
-      "source": "Trend Hunter",
+      "source": "trendhunter.com",
       "published_date": "2026-09-25",
       "summary": "",
       "origin": "foreign",
@@ -291,274 +431,6 @@
       "summary": "As high-protein products saturate the market, Oatly is turning to fibre. The company says low fibre intake presents a bigger consumer health opportunity.",
       "origin": "foreign",
       "id": "e6300c09a9",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "protein"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "“추석 선물 조심하세요” 일반식품 ‘건강기능식품 둔갑’ 부당광고 7천건으로 역대 최대 적발",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xM3BPVzdTNmN5eGhtQWNqTDZ4bXVyRTlpWWRySjhDZE9jUm9wQmlYODQ0MWpWd3ZpajRzenJUUS1vU18yNHFtU2I4QVBHcURvOC1yR282ZXhMTC1jZkl2OFJQVUtoY1E?oc=5",
-      "source": "dhns.co.kr",
-      "published_date": "2026-09-24",
-      "summary": "",
-      "origin": "domestic",
-      "id": "e16ef14446",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "남인순 의원 “일반식품 건강기능식품 오인광고 7244건…역대 최대”",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqbEJyY2tQdVZUMkV1NXk5eXFkVE1Tb195aklfU2VvaTF6TklvVTY4b2lneGs2YUlVQTB2VE9scTlleDZQblN3QzMxMzljQVMwUmV4M0VrNFJPTFJHMm1ESDJFUUVwdw?oc=5",
-      "source": "푸드투데이",
-      "published_date": "2026-09-24",
-      "summary": "",
-      "origin": "domestic",
-      "id": "e227298b98",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "건강기능식품 둔갑 부당광고 7,244건 역대 최다…추석 앞두고 단속 강화 목소리",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JeE5Lb2ktd1lCOF9vbWZZbmlUbEJhTHNVdkNYUHc2SXkzTGZFenlUVHlRSGgzemZaOFdTT2RjSWdKazM4NHpBR3B0bVJCaW02a1F2dXhneXB2ektCSVZqcDhWTlQzWGZP?oc=5",
-      "source": "창업일보",
-      "published_date": "2026-09-24",
-      "summary": "",
-      "origin": "domestic",
-      "id": "e0b15f238a",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "미숙아 프로바이오틱스 보충, 사망·괴사성 장염 위험 감소",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hbFItZVo5bVlFUnhLYlVaSnlNWmw4QUZ3Zkg5REZHY043SUw3bEl2LXdOZk5XMXdSLXNtQ1BySUpOaTZ4M1dGSERRbTdCMEVlTV9hTmNmWkwyb1ZZbEM0eW5XVVVfVGtPSEQ0OQ?oc=5",
-      "source": "메디컬투데이",
-      "published_date": "2026-09-24",
-      "summary": "",
-      "origin": "domestic",
-      "id": "5f8d33b6f5",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "프로바이오틱스"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "“수산식품 글로벌 수출 돕는다”…aT, 준비바우처 사업 운영",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8xSVlDSzRBbnZRRFEtRk93dFNRSWsxVHJrZHBxWUJSSndXUHUzREVlc2xiRUNUUTE0UVBBQXNmWjBFcWMzVmc?oc=5",
-      "source": "v.daum.net",
-      "published_date": "2026-09-24",
-      "summary": "",
-      "origin": "domestic",
-      "id": "b10e746046",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "칠레, 북아시아서 6천만 달러 ‘잠재 수출’ 발굴…계약 전환 후속지원",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqYXF1YTRXZkV6S2VCSWZaYU9xWGZNNUFEZ2UteHpqXzRkQkZCY01zOFFSMmhWVmtDS1NBcnZPdHphN2VFMkotREprTlZmekpNVlRuUEg5Z0Jyd2k4ckNaX09JRzVRWjhkdTNtZg?oc=5",
-      "source": "푸드아이콘",
-      "published_date": "2026-09-24",
-      "summary": "",
-      "origin": "domestic",
-      "id": "777c14e467",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "\"수출 넘어 현지 뿌리내린다\" K-푸드, 중앙亞 공장 짓고 매장 열고",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55Zk9laE9lM1RQQkp1TXJ1czVoamttU284eTBrSUcwckhqcWhpdWFNTm5GbkJwSHpRUGdyWmJnR1BYbmMwTG9TUHhZV0RqYjdtcFRoNlhXMjFYWjNQaVF4T9IBeEFVX3lxTE1LeVFRVlo2RENUODFiX0NaQkxvUV9rQUZKZ2hQYWVDdXJ3aC02RnJNdG00d01sRkl3dTRRSDVOSUlDbG5XV1VsaTU0Q3lGUTZRb0dlVlVsUktNX1dZSkNaNGtXMUNyTWpuY0hpU0U3bFkxRkpDWDRxMA?oc=5",
-      "source": "뉴시스",
-      "published_date": "2026-09-24",
-      "summary": "",
-      "origin": "domestic",
-      "id": "f3914dade1",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.55
-    },
-    {
-      "title": "러시아 입맛 홀린 K-푸드, '신선과일·냉동 베이커리’ 수출 새판 짠다",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90dnNLTF9wdXo0TndrVng3azRfemI3OVVuVWFtdXJMSGkyd2pCX1RqU3F6RzE0UUdXcEdSLVhXcm9xUEUtdkhLSV85MHNIYVRLS3FoLUxuX1JvMGdLeWxDNzg2Njl1NU05enQ4Wg?oc=5",
-      "source": "재외동포신문",
-      "published_date": "2026-09-24",
-      "summary": "",
-      "origin": "domestic",
-      "id": "4c6d8050ca",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "코트라, 중남미·북미 누비며 K-수출 영토 확장",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VTTRkdU1xeEdjWWlJcGJDUXlqVjFFek4yaVJ2bGphN0hZWTBORExvM2xRdVhscmRhbHpsV29scjR3bmV6RVhraWtMUjRaMXRIeE0tTEk3bHRiRVRya0lBR1hTM2JXUWVLcFE?oc=5",
-      "source": "컨슈머타임스",
-      "published_date": "2026-09-24",
-      "summary": "",
-      "origin": "domestic",
-      "id": "5f4edd2353",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "물 대신 단백질·에너지젤…식품업계 ‘러닝족’ 잡기 경쟁 [권용훈의 트렌드워치]",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05ZUdzVWNpWVdTQ29pWVZDeURxZHNUSU0yWVNLQW9WNjdHaVd1NTc1Sm9iR0RsWkJRQ3picjdxZl8zeWVSVmdrQ3RqbVA2MTI2YjlyREF3ZTB3QQ?oc=5",
-      "source": "한국경제",
-      "published_date": "2026-09-24",
-      "summary": "",
-      "origin": "domestic",
-      "id": "eddceae429",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "단백질"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "United Petfood buys another US factory from Wellness Pet Company",
-      "url": "https://www.just-food.com/news/united-petfood-buys-us-factory-wellness-pet-company/",
-      "source": "just-food",
-      "published_date": "2026-09-24",
-      "summary": "United Petfood has expanded its US footprint with the acquisition of another production plant from Wellness Pet Company. The post United Petfood buys another US factory from Wellness Pet Company appeared first on Just Food .",
-      "origin": "foreign",
-      "id": "e2737aa3d9",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "wellness"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "General Mills prioritizes innovation following recent price cuts",
-      "url": "https://www.fooddive.com/news/general-mills-innovation-price-cuts-win-consumers/831140/",
-      "source": "Food Dive",
-      "published_date": "2026-09-24",
-      "summary": "The Cheerios maker is trying to make its products stand out with protein, clean labels and other consumer trends.",
-      "origin": "foreign",
-      "id": "35e48789ab",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "protein"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "What Supplement Companies Can Do Now on the Dietary Supplement Innovation Act",
-      "url": "https://www.nutritionaloutlook.com/view/what-supplement-companies-can-do-now-dietary-supplement-innovation-act",
-      "source": "Nutritional Outlook",
-      "published_date": "2026-09-24",
-      "summary": "",
-      "origin": "foreign",
-      "id": "4424282cc3",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "dietary supplement"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "Maple Leaf Foods consolidates US plant-based production into Indianapolis facility",
-      "url": "https://www.foodbev.com/post301/maple-leaf-foods-consolidates-us-plant-based-production-into-indianapolis-facility",
-      "source": "FoodBev Media",
-      "published_date": "2026-09-24",
-      "summary": "Maple Leaf Foods has announced it will close two production facilities in Seattle, Washington and Turners Falls, Massachusetts, as part of a move to consolidate its US plant-based protein production into a single site in Indiana.",
-      "origin": "foreign",
-      "id": "247cdfb888",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "plant-based",
-        "protein"
-      ],
-      "keyword_score": 2.0
-    },
-    {
-      "title": "Biotiful targets Greek yogurt growth with new Greek Recipe Kefir",
-      "url": "https://www.foodbev.com/post301/biotiful-targets-greek-yogurt-growth-with-new-greek-recipe-kefir",
-      "source": "FoodBev Media",
-      "published_date": "2026-09-24",
-      "summary": "Biotiful Gut Health is expanding beyond its core kefir range with the launch of Greek Recipe Kefir.",
-      "origin": "foreign",
-      "id": "f13cee50e0",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "gut health"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "El Niño omega-3 shock and EU botanical scrutiny push supplement decisions earlier",
-      "url": "https://www.nutritioninsight.com/news/omega-3-supply-eu-botanical-scrutiny-supplement-sirio.html",
-      "source": "Nutrition Insight",
-      "published_date": "2026-09-24",
-      "summary": "Supplement brands now have to make key decisions on sourcing, stability, and packaging at the start of product development rather than late in the pipeline, according to speakers at the seventh Innovation for the Future Summit, organized...",
-      "origin": "foreign",
-      "id": "50637d7965",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "sourcing"
-      ],
-      "keyword_score": 2.0
-    },
-    {
-      "title": "Angel Yeast’s Angeopro yeast protein secures low FODMAP and clean label certifications",
-      "url": "https://www.nutritioninsight.com/news/angel-yeast-angeopro-yeast-protein-fodmap-certification.html",
-      "source": "Nutrition Insight",
-      "published_date": "2026-09-24",
-      "summary": "Angel Yeast’s yeast protein line, Angeopro, has secured global third-party nutritional certifications from Monash University’s Low FODMAP (fermentable oligosaccharides, disaccharides, monosaccharides, and polyols) program in Australia and...",
-      "origin": "foreign",
-      "id": "13123111f7",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "clean label",
-        "protein"
-      ],
-      "keyword_score": 2.0
-    },
-    {
-      "title": "Biomarker research and proactive wellness reshape heart health innovations",
-      "url": "https://www.nutritioninsight.com/news/heart-health-trends-biomarkers-omega-3-vitamin-k2.html",
-      "source": "Nutrition Insight",
-      "published_date": "2026-09-24",
-      "summary": "The nutrition industry highlights market opportunities in targeted cardiovascular solutions as heart health is becoming a proactive wellness priority for consumers, from maintaining vascular function and metabolic health to longevity....",
-      "origin": "foreign",
-      "id": "d67abecf1a",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "wellness"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "Protein, coffee and convenience drive Chobani’s next phase of expansion",
-      "url": "https://www.dairyreporter.com/Article/2026/09/24/chobani-targets-protein-and-coffee-growth-as-demand-for-natural-foods-rises/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "source": "FoodNavigator",
-      "published_date": "2026-09-24",
-      "summary": "Chobani says demand for high-protein, natural foods continues to accelerate, with yogurt and RTD coffee driving growth as the company expands manufacturing capacity.",
-      "origin": "foreign",
-      "id": "fef18cc84b",
       "category": "wellness_trend",
       "matched_keywords": [
         "protein"
