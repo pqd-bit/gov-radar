@@ -9,6 +9,14 @@ gov-radar collector
      https://www.data.go.kr/data/15125364/openapi.do
   2) 기업마당(bizinfo.go.kr) 지원사업정보 API - 중앙부처/지자체/유관기관 통합 공고
      https://www.bizinfo.go.kr/apiDetail.do?id=bizinfoApi
+  3) 서울시 "내손안에 서울" 경제 카테고리 RSS (news.seoul.go.kr/economy/feed)
+     서울시 고시공고 게시판은 공개 RSS가 없어(직접 접속 검증: 전부 404/SPA) 서울시
+     공식 뉴스 채널로 대체, 소상공인/창업/지원 키워드가 포함된 기사만 선별한다.
+  4) SBA(서울경제진흥원) - 자체 RSS 미제공(직접 접속 검증: /rss 등 전부 301 후 SPA),
+     Google News "site:sba.seoul.kr" 쿼리로 대체 수집
+  5) 서울창업허브(startup-plus.kr) - 자체 RSS 미제공(직접 접속 검증: /feed, /rss 전부
+     302 후 빈 응답), Google News "site:startup-plus.kr" 쿼리로 대체 수집
+     (3~5는 API 키 불필요, PEQUOD가 서울 소재 1인기업이라는 점을 반영해 추가)
 
 필요 환경변수 (GitHub Actions Secrets 로 주입)
   KSTARTUP_API_KEY   : data.go.kr 에서 발급받은 K-Startup 서비스키 (Decoding 키)
@@ -19,6 +27,7 @@ gov-radar collector
 출력:
   docs/data/programs.json
 """
+import email.utils
 import hashlib
 import json
 import os
@@ -26,6 +35,7 @@ import re
 import sys
 from datetime import datetime, timedelta
 from pathlib import Path
+from urllib.parse import quote
 from xml.etree import ElementTree
 
 import requests
@@ -51,6 +61,13 @@ PRIORITY_KEYWORDS = [
     "식품", "농식품", "먹거리", "외식",
     # 수출 / 해외진출 / 무역
     "수출바우처", "수출", "해외진출", "글로벌강소기업", "무역", "바이어", "해외마케팅",
+    # "강남취창업허브센터 2026 정부지원사업" 자료 반영 - 공식 사업명 전체 리스트
+    # (이미 위에 있는 청년창업사관학교/청창사/1인 창조기업/수출바우처는 중복 추가하지 않음)
+    "모두의 창업", "예비창업패키지", "초기창업패키지", "창업도약패키지", "창업중심대학",
+    "글로벌창업사관학교", "민관공동 TIPS", "팁스", "TIPS", "초격차 스타트업 프로젝트",
+    "혁신창업사업화자금", "혁신소상공인", "강한소상공인", "로컬크리에이터", "글로벌소상공인",
+    "K-소상공인", "소상공인 온라인판로", "희망리턴패키지", "재도전성공패키지", "재창업자금",
+    "글로벌비즈니스센터", "K-스타트업센터", "관세대응 패키지",
 ]
 
 # 제목에 포함되면 무조건 제외 (자격요건상 Dean이 지원 불가한 대상)
@@ -177,18 +194,70 @@ def extract_region_tags(title: str) -> list[str]:
     return tags
 
 
+# PEQUOD는 서울 소재 1인기업이므로 서울 25개 자치구 단위로 한정된 공고
+# (예: "강남구 개포동지역 ... 입주기업 모집")도 region 필드와 무관하게 지원
+# 가능 지역으로 간주한다. 그 외 지자체(부산/경기/...) 는 여전히 배제 대상.
+SEOUL_DISTRICTS = [
+    "강남구", "강동구", "강북구", "강서구", "관악구", "광진구", "구로구", "금천구",
+    "노원구", "도봉구", "동대문구", "동작구", "마포구", "서대문구", "서초구", "성동구",
+    "성북구", "송파구", "양천구", "영등포구", "용산구", "은평구", "종로구", "중구", "중랑구",
+]
+
+# "중구"는 서울 외에도 인천/대전/울산/대구/부산에 동일한 구명이 있어 단독으로는
+# 오탐 위험이 크다 (DISTRICT_NAMES에서도 같은 이유로 제외돼 extract_region_tags가
+# 추출하지 않음). "서울"이 함께 언급된 경우에만 서울 자치구로 인정한다.
+_AMBIGUOUS_SEOUL_DISTRICTS = {"중구"}
+
+
+def _has_seoul_district(region: str, title: str) -> bool:
+    """region 문자열 또는 extract_region_tags(title) 결과에 서울 자치구명이
+    하나라도 포함되면 True."""
+    haystacks = [region or ""] + extract_region_tags(title)
+    for d in SEOUL_DISTRICTS:
+        if d in _AMBIGUOUS_SEOUL_DISTRICTS:
+            if "서울" in (title or "") and d in (title or ""):
+                return True
+            continue
+        if any(d in h for h in haystacks):
+            return True
+    return False
+
+
 def is_region_eligible(region: str, title: str):
     """region 필드와 제목에서 추출한 지역 태그를 함께 판단하는 단일 진입점.
 
     region 필드, 그리고 extract_region_tags(title) 결과 중 하나라도
     ELIGIBLE_REGION_HINTS(전국/서울/수도권) 이외의 지역명이면 False.
+    단, 서울 자치구(SEOUL_DISTRICTS) 단위로 한정된 공고는 예외적으로 True.
     """
+    if _has_seoul_district(region, title):
+        return True
     if region and not any(hint in region for hint in ELIGIBLE_REGION_HINTS):
         return False
     for tag in extract_region_tags(title):
         if not any(hint in tag for hint in ELIGIBLE_REGION_HINTS):
             return False
     return True
+
+
+# 사업 단계 태깅 - 하드 필터 아님, 대시보드/이메일에 참고용으로만 노출한다.
+# 청창사/글로벌창업사관학교처럼 고유 프로그램명을 먼저 확인하고, 그 외에는
+# 예비/초기/도약 같은 일반 단계 키워드로 판정한다.
+def tag_stage(title: str):
+    """제목에서 사업 단계를 추출한다. 매칭되는 키워드가 없으면 None."""
+    if not title:
+        return None
+    if "청년창업사관학교" in title or "청창사" in title:
+        return "청창사"
+    if "글로벌창업사관학교" in title:
+        return "글로벌"
+    if "예비창업" in title:
+        return "예비"
+    if "초기창업" in title:
+        return "초기"
+    if "도약" in title:
+        return "도약"
+    return None
 
 
 # 같은 기관(org)의 공고가 dismissed_orgs 에서 이 횟수 이상 누적되면
@@ -328,6 +397,157 @@ def fetch_bizinfo():
     return items
 
 
+# --- 서울시 전용 포털 소스 (3개) -----------------------------------------
+# PEQUOD가 서울 소재 1인기업이라는 점을 반영해 추가. 직접 접속해 RSS 유효성을
+# 확인한 결과는 아래 각 함수 docstring 참고. 전부 API 키 불필요.
+
+SEOUL_CITY_RSS_URL = "https://news.seoul.go.kr/economy/feed"
+
+# Google News는 결과 제목을 "<원제목> - <발행처>" 형태로 내려주므로 <source>
+# 태그의 발행처명을 이용해 접미사를 제거한다.
+def _clean_google_news_title(raw_title: str, source_name: str) -> str:
+    title = (raw_title or "").strip()
+    suffix = f" - {source_name}" if source_name else ""
+    if suffix and title.endswith(suffix):
+        title = title[: -len(suffix)].strip()
+    return title
+
+
+def _parse_rss_date(raw: str):
+    """RSS 표준 RFC 822 pubDate 포맷을 YYYY-MM-DD 로 정규화."""
+    if not raw:
+        return None
+    try:
+        return email.utils.parsedate_to_datetime(raw).strftime("%Y-%m-%d")
+    except Exception:
+        return None
+
+
+# Google News의 site: 검색은 사이트명/메뉴 같은 정적 랜딩 페이지도 함께 반환하므로
+# (예: "서울경제진흥원 - sba.seoul", "서울시 통합 창업 플랫폼 - startup-plus.kr")
+# 실제 공고로 보이는 제목만 남기기 위한 키워드 필터.
+ANNOUNCEMENT_HINT_WORDS = ["공고", "모집", "선정", "접수", "지원사업", "신청"]
+
+# 서울시 "내손안에 서울" 경제 RSS는 패션위크/한강 행사 등 소상공인·창업 지원과
+# 무관한 일반 경제 뉴스도 섞여 있어 아래 키워드가 포함된 기사만 남긴다.
+SEOUL_CITY_RELEVANT_WORDS = ["소상공인", "창업", "지원"]
+
+
+def fetch_google_news_fallback(query: str, source_tag: str, hint_words):
+    """공식 RSS가 없는 서울시 산하 포털을 Google News의 site: 연산자로 대체 수집."""
+    url = f"https://news.google.com/rss/search?q={quote(query)}&hl=ko&gl=KR&ceid=KR:ko"
+    items = []
+    try:
+        resp = requests.get(url, timeout=20, headers={"User-Agent": "Mozilla/5.0"})
+        resp.raise_for_status()
+        root = ElementTree.fromstring(resp.content)
+    except Exception as e:
+        print(f"[ERROR] {source_tag} fetch 실패: {e}", file=sys.stderr)
+        FETCH_ERRORS.append(source_tag)
+        return []
+
+    for item in root.iter("item"):
+        def g(tag):
+            el = item.find(tag)
+            return el.text.strip() if el is not None and el.text else ""
+
+        source_el = item.find("source")
+        source_name = (source_el.text or "").strip() if source_el is not None else ""
+        title = _clean_google_news_title(g("title"), source_name)
+        if not title or not any(w in title for w in hint_words):
+            continue
+
+        region = "서울"
+        end = _parse_rss_date(g("pubDate"))
+        items.append({
+            "id": make_id(source_tag, title, end),
+            "source": source_tag,
+            "title": title,
+            "org": source_tag,
+            "region": region,
+            "start_date": None,
+            "end_date": end,
+            "url": g("link") or f"https://news.google.com/search?q={quote(query)}",
+            "is_priority": compute_priority(title, region, source_tag),
+        })
+    return items
+
+
+def fetch_sba():
+    """서울경제진흥원(SBA) 공지사항.
+
+    직접 접속 검증 결과 sba.seoul.kr/rss, /kr/bbs/rssFeed.do 등 전부 301
+    리다이렉트 후 SPA 홈으로 떨어지고 RSS 자동탐색 링크도 없어 자체 RSS를
+    제공하지 않는다. Google News "site:sba.seoul.kr" 쿼리로 대체 수집한다
+    (직접 접속 검증 결과 "「2026년 SBA×굿윌스토어 굿파트너스」참여기업 3차
+    모집 공고" 등 실제 공고가 반환됨).
+    """
+    return fetch_google_news_fallback(
+        "site:sba.seoul.kr (공고 OR 모집 OR 지원사업)",
+        "SBA(서울경제진흥원)",
+        ANNOUNCEMENT_HINT_WORDS,
+    )
+
+
+def fetch_startup_hub():
+    """서울창업허브(startup-plus.kr).
+
+    직접 접속 검증 결과 /feed, /rss 전부 302 리다이렉트 후 빈 응답(size 0)이라
+    RSS를 제공하지 않는다. Google News "site:startup-plus.kr" 쿼리로 대체
+    수집한다 (직접 접속 검증 결과 "서울 AI 허브 멤버십 모집", "벤처확인
+    도전기업 일대일 비대면 밋업 참여기업 모집" 등 실제 공고가 반환됨).
+    """
+    return fetch_google_news_fallback(
+        "site:startup-plus.kr (공고 OR 모집 OR 지원사업)",
+        "서울창업허브",
+        ANNOUNCEMENT_HINT_WORDS,
+    )
+
+
+def fetch_seoul_city():
+    """서울시 "내손안에 서울" 경제 카테고리 RSS.
+
+    서울시 고시공고 게시판은 공개 RSS/자동탐색 링크가 없고(직접 접속 검증:
+    홈페이지가 JS 네비게이션 기반 SPA) news.seoul.go.kr(서울시 공식 뉴스
+    채널) 의 경제 카테고리 RSS(/economy/feed, 직접 접속 검증 결과 정상 응답)
+    만 유효해 이를 사용한다. 소상공인/창업/지원 키워드가 포함된 기사만
+    남긴다.
+    """
+    try:
+        resp = requests.get(SEOUL_CITY_RSS_URL, timeout=20, headers={"User-Agent": "Mozilla/5.0"})
+        resp.raise_for_status()
+        root = ElementTree.fromstring(resp.content)
+    except Exception as e:
+        print(f"[ERROR] 서울시청 fetch 실패: {e}", file=sys.stderr)
+        FETCH_ERRORS.append("서울시청")
+        return []
+
+    items_out = []
+    for item in root.iter("item"):
+        def g(tag):
+            el = item.find(tag)
+            return el.text.strip() if el is not None and el.text else ""
+
+        title = g("title")
+        if not title or not any(w in title for w in SEOUL_CITY_RELEVANT_WORDS):
+            continue
+
+        region = "서울"
+        end = _parse_rss_date(g("pubDate"))
+        items_out.append({
+            "id": make_id("서울시청", title, end),
+            "source": "서울시청",
+            "title": title,
+            "org": "서울시",
+            "region": region,
+            "start_date": None,
+            "end_date": end,
+            "url": g("link") or "https://news.seoul.go.kr",
+            "is_priority": compute_priority(title, region, "서울시"),
+        })
+    return items_out
+
+
 def dedupe(items):
     seen = set()
     out = []
@@ -343,10 +563,17 @@ def dedupe(items):
 def main():
     load_dismissed()  # DISMISSED_IDS/DISMISSED_ORGS 채움 - fetch_* 의 compute_priority 가 사용
 
-    collected = fetch_kstartup() + fetch_bizinfo()
+    collected = (
+        fetch_kstartup() + fetch_bizinfo()
+        + fetch_sba() + fetch_startup_hub() + fetch_seoul_city()
+    )
     collected = [c for c in collected if c["title"]]
     collected = dedupe(collected)
     collected = [c for c in collected if c["id"] not in DISMISSED_IDS]
+
+    # 사업 단계 태깅 (하드 필터 아님, 표시용) - 모든 소스에 동일하게 적용
+    for c in collected:
+        c["stage"] = tag_stage(c["title"])
 
     # 마감일 기준 정렬 (없는 항목은 뒤로)
     collected.sort(key=lambda x: x.get("end_date") or "9999-99-99")
