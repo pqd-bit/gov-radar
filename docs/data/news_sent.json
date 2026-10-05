@@ -1,46 +1,6 @@
 {
   "sent": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5CVDdrQUU5ckhXTk45MVV5dTYwemlOclp5RFlKMm1kbzljZWx0R200cWFVVWhQV2JYNGEzTlowcUctRzZtaGc?oc=5",
-      "sent_at": "2026-09-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YaVBwai15QWh5MDZHdTN3MVluTWYza29TTTJITXNaal9YaUIxZm5Da1hHdFRRZ1ZnRkpRV21TNFV6RHlFS2NPeG1LNTM3dzRZYTB3R1dZSjVxcWFqSkN1V21xcw?oc=5",
-      "sent_at": "2026-09-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hMlViQTZOSXdUSHpPSFljaTNIY2Nkc2pQSmkzNnpqdksxZDFQekZiam9GeWFKbFpOdnJxdFROanVtUWJMUEFUckFCRmdRWHUxVllfc0xrMFJmN28xcHhPQUZEUkJPY1V2VkJr?oc=5",
-      "sent_at": "2026-09-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LcVFKdTFwLXN2dmtqdVdqS25tZHBwYXFheHJYd1FVTk1FOGJHTW50dURQVEppZXlYbzNiSUlyUXRSV3dyZTI0TFRBY05heFZXVGFONXJvYTRMdlJYTW56TGtQcHpKaEJ5VzUxc0NtbVVKQQ?oc=5",
-      "sent_at": "2026-09-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XR3VJQlZmekJHd3pFSE5rSlFZaTRuRUJzYXNPaFdIVmp1QWVjTnBTZXpFN1lWM3NpaU41a0V5UmVmdnVLRFptT0hxdy02dmxxU003Y0lKbUdZdDJTeHZtTmtpeHdYOFJZM3k2dDFUY20?oc=5",
-      "sent_at": "2026-09-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlZ2txN1Y3M0FPdUF4MVBSS3J2TVdNYzV0YlA3YzNibFRDckZVRS01ZTR6V1p4eUY5LU9Ob0RzQ2pXM25TQk41VUtybzFZVktnU3NFMUFNNHdvREFJSVNB?oc=5",
-      "sent_at": "2026-09-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wR1ktbzVRYWl6MHRsU1FYcjhZUEg2UllTQktPeGx2V1E2ekRTOG5DTGJsdlhhLUJmZHVucEoxS2Fna2RkZE9EemRiRy1COUhUcWlQNFdn?oc=5",
-      "sent_at": "2026-09-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1Qmw5Ui1Bc29MRFBTZ1ZKNVNPUDY5ZVdWaXQ3YUpwaUFTSmIyTnVocUdzMENmMzJYRmtEOFFkTWlIaUZZR3pyTmZJX1lVSHNkQWtnSFg0ZWF3Y3FlTFp0T041YmU?oc=5",
-      "sent_at": "2026-09-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oOE4yZDdkTFFEenRxSkNNcHlaLVI0eF94TDFIMElmOEdaNzJjQ0JENXo3RURQcEdpbEFkT0ZrR0pCY0N2YWRBN3ljTGx3ODIwQl9zME5aVW50dTFCaDh5Zg?oc=5",
-      "sent_at": "2026-09-20"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQancxLUktTEVYbG1obkxBQmpZWFRXSE16LW80d3NPaGlfQkNVYUdtNGo2UGhmWXE3dVE0eVpXU1Y2dG51VDNyU2MyOW5YeXlPVjRmSXFaenJIdkR2STY0V2RLcFhfS3QtdEUtdENfQXJfS2FIUE9tSWZ6a25ibVZpeDFsS2E3SmFHaGc?oc=5",
-      "sent_at": "2026-09-20"
-    },
-    {
       "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201230",
       "sent_at": "2026-09-21"
     },
@@ -563,6 +523,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZy1MUk9uV1B1M1RVT1psdWpHQTFsWERXTDlfVEZCanpiQ29vVzZoZTgyekRaZ18wX0JLbHdxUzV4NlRRR2hDOEl5OElITGZMemVpYTFzN2lfbTFXYjFnQUcyT0ZnVFQxZ2xYX1hOekRnVmtRbGZnbTVnZ0wxMnFDdXIya2NTQ3VON3FCdWxoTG5sem1Yc3l2VEM4d1FKRk9GYXdINDFHZ2RwUm16RUdGM0pkX1QtVm8?oc=5",
       "sent_at": "2026-10-04"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90NEdGc2dMRGZoOTFjdjJ6S1RRWWNWOHNNMENRM0diMTVGSUx2TXJOOXZybkVtZ29HNjFqZFhpRlhjQVNvSy04VkFqRXg4MWRrVHJkNC1hVUcwR0lrenF6R21KSmZKYjFaMXdoQm4tSkc?oc=5",
+      "sent_at": "2026-10-05"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5d2I3elB2QzFlcm5lSnMycWpIWHN3aFNlZ2hlN2ZJMEsxR3RwWGx3cmZaVGtmQlhLSFFhRUVqOEtsQ3prQUtMcFdEQTRHYms2Y1AyRkNYOXJ6b3RCZGtZRWJ0VXJwSlpCODlla2VR?oc=5",
+      "sent_at": "2026-10-05"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14dkV4MFY2WXliX1lZWmlBeHdwM3VfUmlYalJSSUphUmVMcTlqV21TT3pBRGp3MEJtTHFkTW9ucVpzLWFaTGhTSmtjenJUNnM?oc=5",
+      "sent_at": "2026-10-05"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HV0VTZm82T3dBZHV4Y0hDU2dtdU9aWUNVOWZfTUdBdWdPNGJXV3VLNGZQVE0yQjI2U0w5Q0NJWEFvTm5EYlJHaXA1QXBVcHdkR1RydTJwRmxoZlNrMFJKNHotU0lUdw?oc=5",
+      "sent_at": "2026-10-05"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QZkRpdnlHallRYUozVF9PbDFUUXZLbTZSTjhfWkhNSXdqbHlCcDJfb0V3ai1LV0k5X0lIU3MxemJVNjQzbXJ5RWhGZ3A3MFZyNkFYYXpKVVp3anpzbzN2SnVnTENLQlpwckxYa2h3b2JkRHh6?oc=5",
+      "sent_at": "2026-10-05"
     }
   ]
 }
