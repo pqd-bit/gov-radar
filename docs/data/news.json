@@ -1,7 +1,162 @@
 {
-  "generated_at": "2026-10-05T00:47:09.368047Z",
-  "count": 9,
+  "generated_at": "2026-10-06T02:12:08.271979Z",
+  "count": 15,
   "items": [
+    {
+      "title": "교촌치킨, 열도 공략 재가동…日 아라이상사와 손잡고 도쿄 1호점 낸다",
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201336",
+      "source": "식품음료신문",
+      "published_date": "2026-10-06",
+      "summary": "교촌치킨을 운영하는 교촌에프앤비㈜가 일본 현지 유통 전문기업과 손잡고 열도 공략에 다시 시동을 건다. 교촌에프앤비는 지난 9월 29일 일본 현지 기업 ‘아라이상사(Arai Shoji)’와 일본 시장 진출을 위한 전략적 업무협약(MOU)을 체결했다고 밝혔다.교촌은 이번 협약을 발판 삼아 오는 2027년 상반기 도쿄 1호점 개점을 목표로 현지 시장 진출을 본격화할 계획이다.파트너사로 맞손을 잡은 아라이상사는 1920년 설립 이후...",
+      "origin": "domestic",
+      "id": "de1d9002eb",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "mou"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "건강기능식품 품질관리인을 2명 이상 선임해도 되나요?",
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=120412",
+      "source": "식품저널",
+      "published_date": "2026-10-06",
+      "summary": "인간의 건강에 직접적인 영향을 미치는 식품산업은 엄격한 안전 규정이 적용돼 다른 산업에 비해 본질적으로 리스크가 더 많다. 중소기업은 물론 비교적 리스크 관리를 철저히 하는 대기업도 법률을 준수하지 못해 논란이 되기도 한다. 이에 식품업체는 모호한 문제에 대해 사전에 당국에 명확한 답변을 요청한다. 식품의약품안전처는 이해관계자를 돕기 위해 전화 상담, 국민신문고 등을 통해 지난 1년간 접수된 민원과 질의ㆍ답변 내용을...",
+      "origin": "domestic",
+      "id": "9d1c60eb6a",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "건강기능식품"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "'K-푸드 수출 대박\\' 농수산식품 무역적자 5년간 260조원",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jRVFtODkzQVAtME5tRWF0a21kekJycXpiQU1QWUpyVTZQMzRfTDZqZEN6Q0F4Tm5NdDVwZXpXNC0yNkVjUzBjNU42R2dHc0Y4YXcyT1NEYUJFTDgxLTFsTHp2d0VsRXR0YWFv?oc=5",
+      "source": "경북신문",
+      "published_date": "2026-10-05",
+      "summary": "",
+      "origin": "domestic",
+      "id": "f0e18128f5",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "윤준병, ‘K-푸드 수출 신기록’ 이면엔 258조원 적자…수입액, 수출의 4배",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HSENYc01GcHRmMXhCM09kQ3dhWmV1bkNyamR1bllVUUZyTGlwTVJzX2hNZk9kZVlCWjBfalJQMmhPaG1PREVSM01QaVc4b1Q5MGZGWXp5ajc5X0JNX09FSWl4aU8yQlFaVXc?oc=5",
+      "source": "투데이안",
+      "published_date": "2026-10-05",
+      "summary": "",
+      "origin": "domestic",
+      "id": "c4da486363",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "대구식품협회, 대구본부세관과 식품기업 수출 확대 협력",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pWEJuQnI2QTlYYm9FdTBNajk4WGNPa1c3eW12c3NGRTBNVE1Sc0xWTzBrSXk4TXMtZmJDeTdoRVk1RmMwcHZxbmg2LWdWRmY2T3JKTF9vREdOMUx3a1g1YU9GbERCQWk2dU8w?oc=5",
+      "source": "대구신문",
+      "published_date": "2026-10-05",
+      "summary": "",
+      "origin": "domestic",
+      "id": "64f0b55395",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "Jeena Sikho Lifecare launches Ayurvedic and nutraceutical product lines",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlRTaFNncjhUbkt4Zzk3ZjhhNVB1OWhmb3ZSTGE3WVJJNEJ6TnprYk1Ed2taQk5vZy15THlzWDBuODN2V2JvQk56cXMxbDRBRGp3VTV0aW1TZGxabXlOWEhOQjk0T04tWmZjU245dEVlemFPbmlNbDU2cGUzV2ppNXRaZDBtQmVHcGo1TGJxZi1VLWJxdXh2UjI4R05pekRxdzdFX0pDRjFFLTIyMm0zOEtPLTgwY0ZIYkg5UVR4MHR1UQ?oc=5",
+      "source": "scanx.trade",
+      "published_date": "2026-10-05",
+      "summary": "",
+      "origin": "foreign",
+      "id": "d382dfcdfd",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "nutraceutical"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "Hydrolyzed Vegetable Protein Market Forecast to 2035: Plant-Based and Clean-Label Demand Drives Growth",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSVZZZzJhYVU4ME1JNVE4YmJTa0hPNzFINDJIYk1MTHFrRWlIdmR2TE1pMmIzMUNJdkRGY1VRbkpVWGFDLUh1TWpKRUZrd0JfTVE3YmtrVkpQQXg4NEtpZU5LRUhnT0RiMjRFVDJGMHNpWWFtQUFMS292eE9waVhtOHpwOXBqTGY1WjlWeHdXc3F0TzhvanRRdnpZQm90QjRrOTJCc21IdW5XdFhTU3pldWp6ZWkxM0ZjWHpQV2c5Vl9RVVU5dzg5VFZhWQ?oc=5",
+      "source": "IndexBox",
+      "published_date": "2026-10-05",
+      "summary": "",
+      "origin": "foreign",
+      "id": "89fbdd58ff",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "plant-based",
+        "protein"
+      ],
+      "keyword_score": 2.0
+    },
+    {
+      "title": "Protein is maxed out. Here’s where CPG growth is hiding.",
+      "url": "https://www.fooddive.com/spons/protein-is-maxed-out-heres-where-cpg-growth-is-hiding/829875/",
+      "source": "Food Dive",
+      "published_date": "2026-10-05",
+      "summary": "Protein claims are everywhere. Here's the shelf strategy that still moves volume.",
+      "origin": "foreign",
+      "id": "2d91971c30",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "protein"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "Healthy aging is Functional Aging: Clinical Evidence for Heart Health and Recovery",
+      "url": "https://www.nutritionaloutlook.com/view/healthy-aging-is-functional-aging-clinical-evidence-for-heart-health-and-recovery",
+      "source": "Nutritional Outlook",
+      "published_date": "2026-10-05",
+      "summary": "",
+      "origin": "foreign",
+      "id": "01d52b8a74",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "healthy aging"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "New Barn Organics and BAM partner on new buckwheat milk",
+      "url": "https://www.foodbev.com/post301/new-barn-organics-and-bam-partner-on-new-buckwheat-milk",
+      "source": "FoodBev Media",
+      "published_date": "2026-10-05",
+      "summary": "US plant-based milk specialists New Barn Organics and BAM The Brand have partnered to launch a buckwheat-based milk alternative product at Whole Foods.",
+      "origin": "foreign",
+      "id": "d9d2a75b69",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "plant-based"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "China’s alternative protein investment offers lessons for the UK",
+      "url": "https://www.foodnavigator.com/Article/2026/10/05/uk-alternative-protein-sector-needs-backing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "source": "FoodNavigator",
+      "published_date": "2026-10-05",
+      "summary": "China’s protein lead leaves UK playing catch-up as industry warns of scale-up bottlenecks and calls for greater investment",
+      "origin": "foreign",
+      "id": "abcd358638",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "protein"
+      ],
+      "keyword_score": 1.0
+    },
     {
       "title": "[급변하는 외교시장: 싱가포르 건강기능식품시장] “영양 보충 넘어 맞춤형 건강관리”…싱가포르, 기능별 건강기능식품 수요 확대",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5d2I3elB2QzFlcm5lSnMycWpIWHN3aFNlZ2hlN2ZJMEsxR3RwWGx3cmZaVGtmQlhLSFFhRUVqOEtsQ3prQUtMcFdEQTRHYms2Y1AyRkNYOXJ6b3RCZGtZRWJ0VXJwSlpCODlla2VR?oc=5",
@@ -31,20 +186,6 @@
       "keyword_score": 0.7
     },
     {
-      "title": "8개국 바이어 거창으로… 농식품 수출길 모색",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14dkV4MFY2WXliX1lZWmlBeHdwM3VfUmlYalJSSUphUmVMcTlqV21TT3pBRGp3MEJtTHFkTW9ucVpzLWFaTGhTSmtjenJUNnM?oc=5",
-      "source": "v.daum.net",
-      "published_date": "2026-10-04",
-      "summary": "",
-      "origin": "domestic",
-      "id": "20b7bf542f",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "바이어"
-      ],
-      "keyword_score": 1.0
-    },
-    {
       "title": "거창군, 농식품 해외 바이어 초청 수출 상담회 개최 > 뉴스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90NEdGc2dMRGZoOTFjdjJ6S1RRWWNWOHNNMENRM0diMTVGSUx2TXJOOXZybkVtZ29HNjFqZFhpRlhjQVNvSy04VkFqRXg4MWRrVHJkNC1hVUcwR0lrenF6R21KSmZKYjFaMXdoQm4tSkc?oc=5",
       "source": "더코리아",
@@ -60,72 +201,16 @@
       "keyword_score": 1.4
     },
     {
-      "title": "임오경,\" K-컬처 400조 수출·계약까지 실질적 성과 관리해야\"",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QZkRpdnlHallRYUozVF9PbDFUUXZLbTZSTjhfWkhNSXdqbHlCcDJfb0V3ai1LV0k5X0lIU3MxemJVNjQzbXJ5RWhGZ3A3MFZyNkFYYXpKVVp3anpzbzN2SnVnTENLQlpwckxYa2h3b2JkRHh6?oc=5",
-      "source": "글로벌뉴스통신GNA",
+      "title": "8개국 바이어 거창으로… 농식품 수출길 모색",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14dkV4MFY2WXliX1lZWmlBeHdwM3VfUmlYalJSSUphUmVMcTlqV21TT3pBRGp3MEJtTHFkTW9ucVpzLWFaTGhTSmtjenJUNnM?oc=5",
+      "source": "v.daum.net",
       "published_date": "2026-10-04",
       "summary": "",
       "origin": "domestic",
-      "id": "1217bebdaa",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "일동바이오사이언스, 수면 개선 프로바이오틱스 연구 국제학술대회 수상",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYU9VSmZaQkZSQzVrazFFdEZ2OFJRVENOSG5qYnoxU2x6ZWJTbzczaklXeXYxZ3FBZ2tKcEtuWVZ2UnJBWUxLdy0wdXRtNVI0QWttOThuc0Vka0lROTVIUHJTV2ozelhvZkZQSGVLRWIzRlkwUUFieFE1aGZtNFJnX1Q4MllGaGljcnh1T1c2LVJpQzR1a3g1cGRVRXA4QQ?oc=5",
-      "source": "약업닷컴",
-      "published_date": "2026-10-03",
-      "summary": "",
-      "origin": "domestic",
-      "id": "8ec3ba6c07",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "프로바이오틱스"
-      ],
-      "keyword_score": 2.0
-    },
-    {
-      "title": "롯데웰푸드, 7개 공장 ‘글로벌 해썹’ 인증…수출 식품 안전관리 강화",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IUlJ2R0wxUXFaODl1RFI0d0dDQmlHZlF5TjFxREh0WlptMGw4UndDVTVPcE1SZzM3a3F0R3FWTldCMEFONEctMTlEQ3dISnpuSWRKdzc2QU1GOVpnQXJRaFUtbk40NU1uZkRvQWsyeWE?oc=5",
-      "source": "신아일보",
-      "published_date": "2026-10-03",
-      "summary": "",
-      "origin": "domestic",
-      "id": "9ab90e5911",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "[공자의 고향 산둥성을 걷다] ③ '제조·바이어 글로벌 교량' 린이 한중 물류 쌍방향 허브로",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50R0hFNmN1MVJoNElsclUzTEFRSVBoM0xXT05QUHJCNE9Ia2doUVJpNnBOMENsNlBWR0ktZ1o5ZDRsTXZPemc2cTFhd2tKUG5lOFU1ajI0bVk1REg3?oc=5",
-      "source": "뉴스핌",
-      "published_date": "2026-10-03",
-      "summary": "",
-      "origin": "domestic",
-      "id": "a8e7447241",
+      "id": "20b7bf542f",
       "category": "trade_opportunity",
       "matched_keywords": [
         "바이어"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "Carpediem Healthcare enters India’s nutraceutical market with D2C launch",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFZzRmExUHZSQ3A2Y2QxNlY3cW82YXBZR0h4ZlhIM0tQd2RnZVRNQ3F3emlOSnVqZzNYdzZPanpqZUdfdVk0V1ZIS3hMMXUyWUR1S3hLWTFHR2l3Q2pERVByQkFEUW5IbU1Xejg2eWR0b25ZN2JtTzZIenROODRLSncxLXo?oc=5",
-      "source": "MediaBrief",
-      "published_date": "2026-10-03",
-      "summary": "",
-      "origin": "foreign",
-      "id": "0381b0c0e3",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "nutraceutical"
       ],
       "keyword_score": 1.0
     }

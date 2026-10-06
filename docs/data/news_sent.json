@@ -1,10 +1,6 @@
 {
   "sent": [
     {
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201230",
-      "sent_at": "2026-09-21"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OOVZOQzRnenh0LUJ4NGI5M082N2QxR1V3UzZBb1NScEV2U29NTzFLQ2pFbjZXVUJBT2tNekZRVzhUOVZsOHg4OXg3dUZOYVZwTHRPZEJpLThOU2VSN2ViSlFmellXNWEyemJEUVlHVQ?oc=5",
       "sent_at": "2026-09-22"
     },
@@ -543,6 +539,46 @@
     {
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QZkRpdnlHallRYUozVF9PbDFUUXZLbTZSTjhfWkhNSXdqbHlCcDJfb0V3ai1LV0k5X0lIU3MxemJVNjQzbXJ5RWhGZ3A3MFZyNkFYYXpKVVp3anpzbzN2SnVnTENLQlpwckxYa2h3b2JkRHh6?oc=5",
       "sent_at": "2026-10-05"
+    },
+    {
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201336",
+      "sent_at": "2026-10-06"
+    },
+    {
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=120412",
+      "sent_at": "2026-10-06"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jRVFtODkzQVAtME5tRWF0a21kekJycXpiQU1QWUpyVTZQMzRfTDZqZEN6Q0F4Tm5NdDVwZXpXNC0yNkVjUzBjNU42R2dHc0Y4YXcyT1NEYUJFTDgxLTFsTHp2d0VsRXR0YWFv?oc=5",
+      "sent_at": "2026-10-06"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HSENYc01GcHRmMXhCM09kQ3dhWmV1bkNyamR1bllVUUZyTGlwTVJzX2hNZk9kZVlCWjBfalJQMmhPaG1PREVSM01QaVc4b1Q5MGZGWXp5ajc5X0JNX09FSWl4aU8yQlFaVXc?oc=5",
+      "sent_at": "2026-10-06"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pWEJuQnI2QTlYYm9FdTBNajk4WGNPa1c3eW12c3NGRTBNVE1Sc0xWTzBrSXk4TXMtZmJDeTdoRVk1RmMwcHZxbmg2LWdWRmY2T3JKTF9vREdOMUx3a1g1YU9GbERCQWk2dU8w?oc=5",
+      "sent_at": "2026-10-06"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSVZZZzJhYVU4ME1JNVE4YmJTa0hPNzFINDJIYk1MTHFrRWlIdmR2TE1pMmIzMUNJdkRGY1VRbkpVWGFDLUh1TWpKRUZrd0JfTVE3YmtrVkpQQXg4NEtpZU5LRUhnT0RiMjRFVDJGMHNpWWFtQUFMS292eE9waVhtOHpwOXBqTGY1WjlWeHdXc3F0TzhvanRRdnpZQm90QjRrOTJCc21IdW5XdFhTU3pldWp6ZWkxM0ZjWHpQV2c5Vl9RVVU5dzg5VFZhWQ?oc=5",
+      "sent_at": "2026-10-06"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlRTaFNncjhUbkt4Zzk3ZjhhNVB1OWhmb3ZSTGE3WVJJNEJ6TnprYk1Ed2taQk5vZy15THlzWDBuODN2V2JvQk56cXMxbDRBRGp3VTV0aW1TZGxabXlOWEhOQjk0T04tWmZjU245dEVlemFPbmlNbDU2cGUzV2ppNXRaZDBtQmVHcGo1TGJxZi1VLWJxdXh2UjI4R05pekRxdzdFX0pDRjFFLTIyMm0zOEtPLTgwY0ZIYkg5UVR4MHR1UQ?oc=5",
+      "sent_at": "2026-10-06"
+    },
+    {
+      "url": "https://www.fooddive.com/spons/protein-is-maxed-out-heres-where-cpg-growth-is-hiding/829875/",
+      "sent_at": "2026-10-06"
+    },
+    {
+      "url": "https://www.nutritionaloutlook.com/view/healthy-aging-is-functional-aging-clinical-evidence-for-heart-health-and-recovery",
+      "sent_at": "2026-10-06"
+    },
+    {
+      "url": "https://www.foodbev.com/post301/new-barn-organics-and-bam-partner-on-new-buckwheat-milk",
+      "sent_at": "2026-10-06"
     }
   ]
 }
