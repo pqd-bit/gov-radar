@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T00:20:31.233342Z",
-  "count": 261,
+  "generated_at": "2026-10-06T01:59:35.996222Z",
+  "count": 266,
   "items": [
     {
       "id": "dfe53268a8",
@@ -255,14 +255,14 @@
       "stage": null
     },
     {
-      "id": "5407bdc3af",
+      "id": "40a73b6226",
       "source": "서울창업허브",
-      "title": "[제2서울핀테크랩] CONNECT+ 네트워킹 1회차 참여기업 모집",
+      "title": "2025년도 키친인큐베이터(개별·공유주방) 21기 모집",
       "org": "서울창업허브",
       "region": "서울",
       "start_date": null,
-      "end_date": "2026-03-23",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXZzJSUkdfYTRFTkNPdlQzbkdQako1TS1rdmxTblZoZUIyUkRxbjNJWGRuMjdjS2h3dHJwb1pkTUlCOVB5Q2p4VDVKT3RicVFWX3RfWFdYMXB4OUJYSkhLZVZUdnEyNEhIM2c?oc=5",
+      "end_date": "2026-03-13",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSTXlNY2dnQnpxR0c2ZGJxaEJfQUp4QnE3cldGdUw5Q3M4bVgzdVR6eGFVODQzem5Wd2g4WklZVmtHUjVDZndlekFGcGtNUUVMZ1ZtTGhZWXNIZEZ4c044bFZR?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -335,18 +335,6 @@
       "start_date": null,
       "end_date": "2026-06-18",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03TC1lazVsaUVZMGZXazF2X0FTZEY2TkxLVlNSVy1TMkFWQkdaVlN4YVE2aVRFZzJsNmpOMjNaTEdXN2lBbkd2NndFdVd0cktBYWE1Uml5MmxDU1hIVjZ6LURGS2NPeUpQR0xabA?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "2f42d7549a",
-      "source": "SBA(서울경제진흥원)",
-      "title": "2026년 서울어워드 푸드 우수제품 북미 온라인 진출 협력기관 모집 공고",
-      "org": "SBA(서울경제진흥원)",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2026-06-19",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fWjBVUGJLd2RyamMxRjE3cnkwd0N5NjRwdWRmUHNJXzJkdF9xXzBDTmNsNnQwRmNaTlBocWtiNHlUUUhFMG9sdTZvalZnNjRDZW5iWDYzVmhCeVkxdlVhVFVDWEZMTXJGOUxpRg?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -447,6 +435,18 @@
       "stage": null
     },
     {
+      "id": "b292550c97",
+      "source": "SBA(서울경제진흥원)",
+      "title": "웹서밋(Web Summit 2026) 참여기업 모집",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRW95WmVSbFMzYzdjVzVvVGZoTDU2bm9GYXUwbnFLT3diMkFLcXBkbzB5aUhjbHRVRTNZR2NLVGJhSGVVdnVkbFJuQ1FydHZTWENVNXVNRlE0OG4yRlpIQjFEbWY2R29Fa2tXNTExbHo5eUNXQ295WVNzQ3F4OExYcW02d2prbGs0WGsxME02OWdVYi10Q29OaG1ZN0lCaXFwWGxraWJTbU5Kajlxc3JaSHhB?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
       "id": "070c6e4f40",
       "source": "SBA(서울경제진흥원)",
       "title": "사업공고/신청",
@@ -507,6 +507,18 @@
       "stage": null
     },
     {
+      "id": "a59d78c9a3",
+      "source": "SBA(서울경제진흥원)",
+      "title": "해외바이어 초청 '글로벌 비즈니스 상담회 2026' 참가기업 모집(*연장공고)",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHJFRmJrTW1lRDNtVUVqU3RfMW5JMGZFeG1zcm5HNXJmOXhhTjBaUkpIVTAzVG9ncTctd3hCUVNBOW9MVXJjODRvVjlFLWVDaWNxUnQtVFlicFdvVC1ZT2tXZ3R2UVZVdGJVNnVIMHpjWGxiRWZMNXBGVVRQcVQtTzV2Mjg4S1hnUVRlUWh5aUJfUjNrNElMUUluRHJpWHBqNHA5RE5JbG9SUVRrODBjSU5B?oc=5",
+      "is_priority": true,
+      "stage": null
+    },
+    {
       "id": "6a57ca85f9",
       "source": "SBA(서울경제진흥원)",
       "title": "2026년 해외전시회 개별참가지원 사업 참여기업 모집 공고",
@@ -519,6 +531,30 @@
       "stage": null
     },
     {
+      "id": "a3df06e8ef",
+      "source": "SBA(서울경제진흥원)",
+      "title": "2026 KDAY TOKYO 참여기업 모집 공고",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-23",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVphLVhiWVIzX3hreGVXdTlwQkZzbWRHbnNmTXFGbDZSZC1HeGFUaVFjWWdxOW5xTWFjM3RiaGZaUFR3VW5rS1Y1SklsYXpOcnFVZWtsOV9WRG52b2piMHhnZHR4V3JhcUVuUEJVUlRmaGt4Yl9seTJXXzZ6VGh0MkJrclJmOUUtbkFRRVJxdDJhUVk2dnBQcEgxaVJkcWNLZk81T2QwY3B1RGZWeGpvbi13?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "9bd62ba5af",
+      "source": "SBA(서울경제진흥원)",
+      "title": "한국산업지능화협회 창업보육센터 입주기업 모집",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-23",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOay0ybWJBUV9LVWFZMzJRdzdlSHBFVWppQ2FuZWR0Qi1kT2pSMkd5WnJ3TG5hSDRFcEhaSWE4T1J4TXFDel9PRV9udVZxYVpfbnpsMlk5V0YtVzF5YnRCaEdFSVpSNEZ5TGtjN0trQllzR1BLcy1XZUFCb0hPbVBJaG1YRkp2M18zblM0Sks0OEpMcjBoZWdyR21ieDJDWWlZZ1V2ZXBpVXdQamh1eG5kREFB?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
       "id": "5253d6da8f",
       "source": "SBA(서울경제진흥원)",
       "title": "사업공고/신청",
@@ -527,6 +563,18 @@
       "start_date": null,
       "end_date": "2026-08-24",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdGpYNUVpMnQyeHh1RjRnM1U3cG1tS0F1eGhwMEVsQzZ5YndmVTAweWpndnZBRjlWRHZBN2RXWkNZMUxLX2JXRk50OXZ0eWZKQXBsMldPR2RBaVNPUWk2c2JRamc1MmFqdWJSNkRmMVhScVdFSDNtU3kyVjV1cXduUXNUWXhjY29JbVFEMFhSTnZ3ZDdQVGNrNmdLZU1obS1TV3BzTmIxUEp0YWVX?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "aeeef62368",
+      "source": "SBA(서울경제진흥원)",
+      "title": "사업공고/신청",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-26",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZEdEdXB5VHV6dXQwb2YxdUtDNWlUU3AxbnBKOWhWR0VVSzdMU1lpTTdlM3Z4aXpCWFV0ZzRfOTQ2NUpIajRESHU0Zzk2SHllQlc1SDJnWWtjTnppaUsyeFhES0NuZ0ZEdTFZbE4wVmtpaDdTSU90Wm9oeWRvNUVKdnJHV3JDQ2wxWEZqc0pybGFaVVFBbVB4WS03b2liOUdacEZwV2xHNA?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -899,6 +947,18 @@
       "start_date": "2026-09-21",
       "end_date": "2026-10-05",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179320",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "f9f6bae891",
+      "source": "서울창업허브",
+      "title": "2027년 제 2 서울핀테크랩 입주 멤버십 기업 모집 공고",
+      "org": "서울창업허브",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ybEdsQTMzSDdPMEpIbVFiOGV1VmV1YnRQbUNWTEpSNG9waDNybnJRYVJYOXpqODh3a0N2UWU2QXBheFNfYkl1c21vMC1jWFE4cEIxYTVUeVJTNVFRUGM1LUEtbjFaZmFJd3c?oc=5",
       "is_priority": false,
       "stage": null
     },
