@@ -1,18 +1,4 @@
 {
-  "2026-09-22": {
-    "건강기능식품": 16,
-    "바이어": 22,
-    "단백질": 1,
-    "기능성 원료": 3,
-    "수출": 25,
-    "mou": 1,
-    "functional food": 1,
-    "nutraceutical": 1,
-    "수입": 1,
-    "protein": 3,
-    "wellness": 1,
-    "plant-based": 2
-  },
   "2026-09-23": {
     "장 건강": 1,
     "건강기능식품": 13,
@@ -228,5 +214,18 @@
     "protein": 3,
     "healthy aging": 1,
     "바이어": 2
+  },
+  "2026-10-07": {
+    "건강기능식품": 8,
+    "mou": 4,
+    "수출": 20,
+    "바이어": 8,
+    "수입": 2,
+    "protein": 4,
+    "sourcing": 1,
+    "healthy aging": 2,
+    "wellness": 1,
+    "nutraceutical": 1,
+    "plant-based": 1
   }
 }
