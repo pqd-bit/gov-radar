@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T01:35:04.164671Z",
-  "count": 271,
+  "generated_at": "2026-10-10T01:25:01.521689Z",
+  "count": 273,
   "items": [
     {
       "id": "dfe53268a8",
@@ -203,6 +203,18 @@
       "start_date": null,
       "end_date": "2026-01-29",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uakhiTGFSMHhZLTg4dFk2bGd5MklxMHNFTGt4MWROQjhwdnctbmdhSnFCUXFIM211TVlkM1VxQmxWLUVOOXhfNm42T1hNblFlU3VPUktjZTd2NDRzekVfTkJR?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "339c907e58",
+      "source": "서울창업허브",
+      "title": "2025년도 키친인큐베이터(개별, 공유주방) 20기 모집",
+      "org": "서울창업허브",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-01-29",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LTFNQcXlqUDZlNXNrcmtoZkI2Z0FlTzR3YnAzc2F3VTJPa00ybU92ckdiRkFnQUgweUlUYkh0cHdLOG1xLVZVbWVWRlBXZkFQQk1kZ2VBU3cwSlhYMl9UY0J3?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -615,6 +627,18 @@
       "stage": null
     },
     {
+      "id": "e137719047",
+      "source": "SBA(서울경제진흥원)",
+      "title": "모집개요",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-26",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15bUoxNnRpSE4wbjdXNXpGWWhqY1Q0WkdIYkZaOHoybFZuU1dDdjVuX1JZZk9OWmZWWlNfUjFkSDlxa0xXVVpGcU5aaWItZEhHUThFcko1TkRyV25LVWlLZXlDOXU2d3lraTRB?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
       "id": "aeeef62368",
       "source": "SBA(서울경제진흥원)",
       "title": "사업공고/신청",
@@ -659,6 +683,18 @@
       "start_date": null,
       "end_date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGZIN2NsZmFVMFd4RlJKZ1RHcEJkdkhXdTdQTVg0TDhHWW5CVS1vcXh2eW0zaC04NEVUN2dvX2ttZHRFRUpHN3liRDVJSjBYT0thU05jTGRQUUpHU3BqOXZIV3R3OXBBdTdFdXA3N1R2Zmgwd1ItNmpBeG12OUhDZEJ4dklubUdJNmFXRERJcHVYQnMtbUN1MDBzc21XWXozemNITjZLSQ?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "0faa5132a9",
+      "source": "SBA(서울경제진흥원)",
+      "title": "사업공고/신청",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-09-04",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2VOaFlUR1JVSTJPRGhTcnlSblNYRXZIVjh2Q2czX0F0aGRtMWs3aFhEN0ZJVXlZTEwwWldCYk83bXJ2c1dESVpCU3VpZWNoYkZsQzVCZlp2cDlnODJkMUp3TWRyY2NyQ2lXVExheHZTX1I5aDQ0cXlhSzJCMGJTNmNmZUptWktMazNVYnBHNV9kQU1KeGZyR2x1YU8xcER3VkFVSXJHUQ?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -959,18 +995,6 @@
       "start_date": null,
       "end_date": "2026-10-07",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWXlwWk5ObFk2TFBUSW12eVFDcEZ6MFpsQ1hTSGFwZTJqVERFX2dBTDRVSXJaZ3liUGRYQXJDcEV6R09KMk1FZUs2cTl4aTJUQ0RkMGlqR3VvcG80QlN2eDZCZnV5OUFORjB6blhOQkVoQXpOd3lMa0luazRBc2VDZHg1dTZ3dDgyMWNaUnZHVnU1aGtLLWh0M1NRdmRVazBwejJMWEZiR1lYOU9V?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "9196f847b4",
-      "source": "SBA(서울경제진흥원)",
-      "title": "2026 오세아니아 전략시장 진출 사업 참여기업 모집",
-      "org": "SBA(서울경제진흥원)",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2026-10-07",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMG43UXlDT3h1VjFmMno4SHh1M3Z2RmhSYzBnMXkzOEJmMExXZktDM1pmX2JwWmZrcUZocUh0U1VtbG1RY29SNmp6VEI4RjdLZ3BoRGhPdzlpQlQ1aHpMTTctTFBDQmdUYmdRQWduYXE4ZHZCRm52U0ZpbnJ3N25kWktzZllmeEI0cGFwd3l5N19jdWxIdDBPdlFHWGVvdXFFQWNXNWw2RkVNSFFGS01MRm5n?oc=5",
       "is_priority": false,
       "stage": null
     },
