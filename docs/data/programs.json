@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T01:25:01.521689Z",
-  "count": 273,
+  "generated_at": "2026-10-11T00:35:49.688189Z",
+  "count": 272,
   "items": [
     {
       "id": "dfe53268a8",
@@ -71,18 +71,6 @@
       "start_date": null,
       "end_date": "2024-06-20",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TRUpxT014X2pLY2lleXQ0VjNmaGszbUhVNmVWZWQ5aFBaVVZFNm1wbGVOQ29YNFBCOGpsUTN6SlZqeEhWdlpjVkVxSmF0ZkRQTFpEc0RocFpyQmpYc1RFWEtsSTRYVzBYTjQ4?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "8605d36f5a",
-      "source": "서울창업허브",
-      "title": "2024 서울창업허브 공덕 입주기업 데모데이 ‘NEXT STARS UP SEOUL’ 참여기업 모집 공고문",
-      "org": "서울창업허브",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2024-09-27",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV1FsYVd1c2NKZ1JXTjgyanNFc1RrLWtITndad2E1WGlKcy1hVWZhMUllbmh1QzJxRHN1Y3VWekdSSm85TUZPNmo2NkFrS191djdyWTQtX05PYTRpTHc4TjZXZ2xKd1JiTjBiSUlZRWs4bzRhMzlSdjBfUWFiQ2VZZndiRHBROFlGQ0pGS3ZNQkVyZXNRQ01BVzM4Rm1GYUQzT2ZDSkxPOUVOdXAwOGMxYklxS3ROX1g1WXlVMmh2bEEyOTV0OTdXWFpyeXA?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -383,6 +371,18 @@
       "start_date": null,
       "end_date": "2026-06-28",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EQzdhMXJOYzVrSFJ4aGNNZC10UmhfQWpzRnN5MXlXc213WVJhOUJGNGVONTBaOXVweXdHaDJ4RFhuUlgyVUhjRmNRSjdjdXJhQ1FXT3luVVBqTlV4WHpZa3h4WQ?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "fe7b454684",
+      "source": "서울창업허브",
+      "title": "2026년 제품화지원센터 제품화 지원사업 모집",
+      "org": "서울창업허브",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yTEpsWmJJOF9adWJTNjFfVVNKSm5BTmwtcXBSSDA2TjZ2Y3lENEpJdXZKaG1NRkdrdWdRSENIejBRSmRKQnl3NWRsa3NrQ1pNeEVYRHZFNlNZRjE4UnRB?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -695,18 +695,6 @@
       "start_date": null,
       "end_date": "2026-09-04",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2VOaFlUR1JVSTJPRGhTcnlSblNYRXZIVjh2Q2czX0F0aGRtMWs3aFhEN0ZJVXlZTEwwWldCYk83bXJ2c1dESVpCU3VpZWNoYkZsQzVCZlp2cDlnODJkMUp3TWRyY2NyQ2lXVExheHZTX1I5aDQ0cXlhSzJCMGJTNmNmZUptWktMazNVYnBHNV9kQU1KeGZyR2x1YU8xcER3VkFVSXJHUQ?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "8d41800e1f",
-      "source": "SBA(서울경제진흥원)",
-      "title": "「2025년 B the B 뷰티기업 전시팝업 지원사업」 사업비 집행 및 정산 안내",
-      "org": "SBA(서울경제진흥원)",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2026-09-06",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SRDRVNF9zVmM0RFJzRGU0Zlg0V3UxVVh5dVlKLWsydk5Xb2FTUGdhYlJCNnBsby1MT1RTVVdnaEZUMXZGS0tOaUNQSDlTWlN2Y0JEaEtBNUZoSmVZNFd1SG05WGJ4QnF2d0FLNA?oc=5",
       "is_priority": false,
       "stage": null
     },
