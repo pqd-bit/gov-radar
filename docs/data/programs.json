@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T00:35:49.688189Z",
-  "count": 272,
+  "generated_at": "2026-10-12T00:52:15.593632Z",
+  "count": 271,
   "items": [
     {
       "id": "dfe53268a8",
@@ -71,6 +71,18 @@
       "start_date": null,
       "end_date": "2024-06-20",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TRUpxT014X2pLY2lleXQ0VjNmaGszbUhVNmVWZWQ5aFBaVVZFNm1wbGVOQ29YNFBCOGpsUTN6SlZqeEhWdlpjVkVxSmF0ZkRQTFpEc0RocFpyQmpYc1RFWEtsSTRYVzBYTjQ4?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "8605d36f5a",
+      "source": "서울창업허브",
+      "title": "2024 서울창업허브 공덕 입주기업 데모데이 ‘NEXT STARS UP SEOUL’ 참여기업 모집 공고문",
+      "org": "서울창업허브",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2024-09-27",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV1FsYVd1c2NKZ1JXTjgyanNFc1RrLWtITndad2E1WGlKcy1hVWZhMUllbmh1QzJxRHN1Y3VWekdSSm85TUZPNmo2NkFrS191djdyWTQtX05PYTRpTHc4TjZXZ2xKd1JiTjBiSUlZRWs4bzRhMzlSdjBfUWFiQ2VZZndiRHBROFlGQ0pGS3ZNQkVyZXNRQ01BVzM4Rm1GYUQzT2ZDSkxPOUVOdXAwOGMxYklxS3ROX1g1WXlVMmh2bEEyOTV0OTdXWFpyeXA?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -747,18 +759,6 @@
       "stage": null
     },
     {
-      "id": "9d63c8bdb1",
-      "source": "SBA(서울경제진흥원)",
-      "title": "[모집공고문] 2026년 허브 그라운드 CEO 프로그램.hwp",
-      "org": "SBA(서울경제진흥원)",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5RXoyWVM2MENKYlRXMTAzNGp1MEVfVUk2OXh3ejVjVGhQeWVmbi1hclRVMU83RWNUUXBpbjlic0lqWW5mOFpoei0tVHhodnM1aEdod2VyczVWc2s4SjcwRUU1ZXM0d1lCdElqSw?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
       "id": "a1a06a34ea",
       "source": "K-Startup",
       "title": "[ 모 집 ] GVC AI Platform Startup Enabling Program 및 스마트워크·쇼핑몰 창업지원 및 AI 전환 지원",
@@ -803,18 +803,6 @@
       "start_date": null,
       "end_date": "2026-10-01",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UUngtdEM5R1VJZ2JLNzZzWXg4QjluUjVjRGZmelhHVlpJbE1obUpQYVRLRmJrNzlFZXFxdkxQVTRLLV9vUE0wUHJnSE4wVVVGeWtTRTZzTzhvMXlFQV9JLUdWeUFwc3JGUjVwNQ?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "218a60824f",
-      "source": "서울창업허브",
-      "title": "2026 서울창업허브 공덕 하반기 입주기업 모집 공고",
-      "org": "서울창업허브",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2026-10-01",
-      "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxNNzNGdXJoSGpSUEZ2UXQ5c3FlUGlCNWFIc2FXdXpFOEYyZjhqRUx4LVMtTjJDZ3Q3dUd1WnptV2huRGhVRGI5VFhIV2RXenJ4Z2xFblhIMnN3emVkM19JbTN4eWN1ckE1Y1phTHVmSS1xLVlXWkctSUEtYTNYbS12d3ZSeE05OTJtUFc2eTREanhZQ3lXVGtTMGY2MEJydk5fcXhQUTByVE45bERUNHpLQXg0b3NqOUxyMU1UT09sdnl3S3poNUhqd2g4ZkRBNkVCZ2gyaWRaTlZqcTJFTjE2R2FNV0pURjR5dm1Ddm5oeU1keEtFd2FOQ0lEc3JTbHk5RkRLc2lDbmpncW5RSkstdURrdlZxUV9WNllpUTJoMHNzRWEybUEyUG5oV3k5NnFTaVBpeHVJRXpKNTYxMmo5ajNUUktYT05aQ2NvTm1OY2pncGkybzloelFKVDk5c25iclhRNHhzTV9ZWjUtUjN0QVhLRFRQd01mY202V2JBdXk1VWNjLUszWFpDbFoxZjlzbno3MmJlNEJ0NVBHQjdrU1hDNWRhNElMMUxkYkNJYnNpbVFPdFN2Z1BYRkU2bnRRNTg4NHlZR0NiY3RjWnNkdzZQaklua3hrUGVfS1U5NTU?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -1079,18 +1067,6 @@
       "start_date": "2026-09-18",
       "end_date": "2026-10-11",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179347",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "f29145b4c2",
-      "source": "기업마당",
-      "title": "2026년 극지 데이터 융합 스케일업 프로그램 참여기업 모집 공고",
-      "org": "해양수산부",
-      "region": "전국",
-      "start_date": "2026-09-28",
-      "end_date": "2026-10-11",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127001",
       "is_priority": false,
       "stage": null
     },
@@ -2736,6 +2712,18 @@
       "end_date": "2026-10-29",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127065",
       "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "83452077be",
+      "source": "기업마당",
+      "title": "2026년 2차 한국무역보험공사 연계 수출지원프로그램 시행계획 공고",
+      "org": "중소벤처기업부",
+      "region": "전국",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-29",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126981",
+      "is_priority": true,
       "stage": null
     },
     {
