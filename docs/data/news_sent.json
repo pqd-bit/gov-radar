@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90NEdGc2dMRGZoOTFjdjJ6S1RRWWNWOHNNMENRM0diMTVGSUx2TXJOOXZybkVtZ29HNjFqZFhpRlhjQVNvSy04VkFqRXg4MWRrVHJkNC1hVUcwR0lrenF6R21KSmZKYjFaMXdoQm4tSkc?oc=5",
-      "sent_at": "2026-10-05"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5d2I3elB2QzFlcm5lSnMycWpIWHN3aFNlZ2hlN2ZJMEsxR3RwWGx3cmZaVGtmQlhLSFFhRUVqOEtsQ3prQUtMcFdEQTRHYms2Y1AyRkNYOXJ6b3RCZGtZRWJ0VXJwSlpCODlla2VR?oc=5",
-      "sent_at": "2026-10-05"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14dkV4MFY2WXliX1lZWmlBeHdwM3VfUmlYalJSSUphUmVMcTlqV21TT3pBRGp3MEJtTHFkTW9ucVpzLWFaTGhTSmtjenJUNnM?oc=5",
-      "sent_at": "2026-10-05"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HV0VTZm82T3dBZHV4Y0hDU2dtdU9aWUNVOWZfTUdBdWdPNGJXV3VLNGZQVE0yQjI2U0w5Q0NJWEFvTm5EYlJHaXA1QXBVcHdkR1RydTJwRmxoZlNrMFJKNHotU0lUdw?oc=5",
-      "sent_at": "2026-10-05"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QZkRpdnlHallRYUozVF9PbDFUUXZLbTZSTjhfWkhNSXdqbHlCcDJfb0V3ai1LV0k5X0lIU3MxemJVNjQzbXJ5RWhGZ3A3MFZyNkFYYXpKVVp3anpzbzN2SnVnTENLQlpwckxYa2h3b2JkRHh6?oc=5",
-      "sent_at": "2026-10-05"
-    },
-    {
       "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201336",
       "sent_at": "2026-10-06"
     },
@@ -571,6 +551,46 @@
     {
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wSElJQi1LVXV1TnFENGhOdUREUnVULXNSVGY4WV8zU0plN28xd3Z6VFl0dDNqMmdNMkN4VFhtLTR2bkNsbVF1cEQ0VUV6VXZnZzNIQkh3ZzJ4V3FJZno2OXFXSTFSeXN1Ymd3TDJuaGVzNjTSAXNBVV95cUxPMEhJSUItS1V1dU5xRDRoTnVERFJ1VC1zUlRmOFlfM1NKZTdvMXd2elRZdHQzajJnTTJDeFRYbS00dm5DbG1RdXBENFVFelV2Z2czSEJId2cyeFdxSWZ6NjlxV0kxUnlzdWJnd0wybmhlczY0?oc=5",
       "sent_at": "2026-10-19"
+    },
+    {
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201384",
+      "sent_at": "2026-10-20"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFVTYzOXlGM21wS042eXZaOHR2ZFpEbExkQmNvU1gzV1lMZ0NwRnBnU3l3Q0xYME04VzZmTDhyajQ1ZGhOeHVjNkxwOVVRWlA2R3RQaFQ5THZkQXVHWUY3dXJ6Ui1nWkh6WnV4bndFMA?oc=5",
+      "sent_at": "2026-10-20"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iYk1lSUwyWHFUY3l6WWQtSWhXSFZ2cm1aVGlSUWgwS1l2dmZ3MlR5REJKb3dMUFQwaTlscTBYWjNHcUdIRDNIbkVGMTFQR001b3d3d0hWczhJUFZiaXhMTDlsTEU3c1dSbGc2cDlZREVaZw?oc=5",
+      "sent_at": "2026-10-20"
+    },
+    {
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=120585",
+      "sent_at": "2026-10-20"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYXJUSXM4NnFOMjkwbkMxR3NhQTdjMWJzY2FkcFlvR2h1S3QwNG12eTFQblNvYnl2SkhRS3FJb053clZiN1p2Q2VCeXZ4QXNDMnZKMWluY0hrM1dRTnY0RzlzQ3k3X0tQd1VSNTRacTRxRWFxR0xuSi04X0JRMHdHdGJGbmFHLW5zTlhmQ9IBoAFBVV95cUxPUzF4ZkNaeERkOUo0QUZBQmxsUGxQUDg5OGxfTnMycWUzY21COUhEVExEWWc4dVlmajRFSHJ5cEpWVm0zYzh2RXMtd2pHZXNjUWhOZmFLY0E0LW5PMlRmVHBQYjRwYUYtY0Nad2hRSElZYkhyMnEtOVZRdVNTcGxsdVg3VGl4Tm9jVS1fZ09RYVZmMGczLThHLTNBeWJ3R3Vv?oc=5",
+      "sent_at": "2026-10-20"
+    },
+    {
+      "url": "https://www.foodnavigator.com/Article/2026/10/19/low-carb-vs-functional-health-can-they-coexist/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sent_at": "2026-10-20"
+    },
+    {
+      "url": "https://www.foodnavigator.com/Article/2026/10/19/china-focus-mengniu-yili-alt-protein-hurdles-and-the-trends-shaping-food/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sent_at": "2026-10-20"
+    },
+    {
+      "url": "https://www.foodbev.com/post301/jimmybar-launches-creatine-and-protein-trail-mix",
+      "sent_at": "2026-10-20"
+    },
+    {
+      "url": "https://www.foodbev.com/post301/global-patent-applications-for-high-protein-foods-hit-record-high-amid-functional-f-b-demand",
+      "sent_at": "2026-10-20"
+    },
+    {
+      "url": "https://www.nutritioninsight.com/news/astareal-astaxanthin-longevity-active-nutrition-supplyside.html",
+      "sent_at": "2026-10-20"
     }
   ]
 }
