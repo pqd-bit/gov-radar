@@ -1,46 +1,6 @@
 {
   "sent": [
     {
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201336",
-      "sent_at": "2026-10-06"
-    },
-    {
-      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=120412",
-      "sent_at": "2026-10-06"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jRVFtODkzQVAtME5tRWF0a21kekJycXpiQU1QWUpyVTZQMzRfTDZqZEN6Q0F4Tm5NdDVwZXpXNC0yNkVjUzBjNU42R2dHc0Y4YXcyT1NEYUJFTDgxLTFsTHp2d0VsRXR0YWFv?oc=5",
-      "sent_at": "2026-10-06"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HSENYc01GcHRmMXhCM09kQ3dhWmV1bkNyamR1bllVUUZyTGlwTVJzX2hNZk9kZVlCWjBfalJQMmhPaG1PREVSM01QaVc4b1Q5MGZGWXp5ajc5X0JNX09FSWl4aU8yQlFaVXc?oc=5",
-      "sent_at": "2026-10-06"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pWEJuQnI2QTlYYm9FdTBNajk4WGNPa1c3eW12c3NGRTBNVE1Sc0xWTzBrSXk4TXMtZmJDeTdoRVk1RmMwcHZxbmg2LWdWRmY2T3JKTF9vREdOMUx3a1g1YU9GbERCQWk2dU8w?oc=5",
-      "sent_at": "2026-10-06"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSVZZZzJhYVU4ME1JNVE4YmJTa0hPNzFINDJIYk1MTHFrRWlIdmR2TE1pMmIzMUNJdkRGY1VRbkpVWGFDLUh1TWpKRUZrd0JfTVE3YmtrVkpQQXg4NEtpZU5LRUhnT0RiMjRFVDJGMHNpWWFtQUFMS292eE9waVhtOHpwOXBqTGY1WjlWeHdXc3F0TzhvanRRdnpZQm90QjRrOTJCc21IdW5XdFhTU3pldWp6ZWkxM0ZjWHpQV2c5Vl9RVVU5dzg5VFZhWQ?oc=5",
-      "sent_at": "2026-10-06"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlRTaFNncjhUbkt4Zzk3ZjhhNVB1OWhmb3ZSTGE3WVJJNEJ6TnprYk1Ed2taQk5vZy15THlzWDBuODN2V2JvQk56cXMxbDRBRGp3VTV0aW1TZGxabXlOWEhOQjk0T04tWmZjU245dEVlemFPbmlNbDU2cGUzV2ppNXRaZDBtQmVHcGo1TGJxZi1VLWJxdXh2UjI4R05pekRxdzdFX0pDRjFFLTIyMm0zOEtPLTgwY0ZIYkg5UVR4MHR1UQ?oc=5",
-      "sent_at": "2026-10-06"
-    },
-    {
-      "url": "https://www.fooddive.com/spons/protein-is-maxed-out-heres-where-cpg-growth-is-hiding/829875/",
-      "sent_at": "2026-10-06"
-    },
-    {
-      "url": "https://www.nutritionaloutlook.com/view/healthy-aging-is-functional-aging-clinical-evidence-for-heart-health-and-recovery",
-      "sent_at": "2026-10-06"
-    },
-    {
-      "url": "https://www.foodbev.com/post301/new-barn-organics-and-bam-partner-on-new-buckwheat-milk",
-      "sent_at": "2026-10-06"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaMy1xanE0MkZwUjJMcFNBR09ZcjVFcU54NHdEVkNGdFVMTncyZGgyc1lhWFFIQS05VXhCcGdKaUxwRVlKOEo0SEZrNW1NcEFMU1hYeGwzNF9TbzZHVDFOejFpVHhDeGZSclM2Ng?oc=5",
       "sent_at": "2026-10-07"
     },
@@ -591,6 +551,46 @@
     {
       "url": "https://www.nutritioninsight.com/news/astareal-astaxanthin-longevity-active-nutrition-supplyside.html",
       "sent_at": "2026-10-20"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84TkpJWWo0bHdYR0paQVNtVUxMdHVOTk9KTmRjYVFLYkM5RzRfYV95cmZCZjBTMFdhWVdpVWI4c2EtWmxqNFljaVF1c3dDbVNTUUkyc0hDQ0U0VmpEMTMw?oc=5",
+      "sent_at": "2026-10-21"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWGR1bXU4UzYzSUw2a0pDeThONDE2LTVPQkFSMVQ5dTZ3TFB2eGZ1a3RHTW15czU2QUgwTy1yN2E5WXY1UVJ5QXhOd0JYYWtTVU9KeEd2T0J5VXdGT3g1c3NkSVh0c3pEVHRwNk8tUWlHSUlOWjZXNW1iRGl5Y1ZZTURMN1BZdw?oc=5",
+      "sent_at": "2026-10-21"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ET3Q4S3RwUGs4SFNVcWR0QmZ3VVp6RVlFdVJfdWZpYnd5LTNKQ21tX1J5WHJDTHV0UnJ2TXNoSnN1anVEUHZZek91TDJWTjVFdy16cXhBVms2OF80anM4TV92S0lMZkhRVkhV0gFvQVVfeXFMTklCbFp4dGhETW9yQkE5Tlg0TGt1VV9QWTBmSzFMcWM0WnpONTVhOXNnN1JHMWVIS3luQlRLdFBXRDNqbzBPYjlrZTRjWkxfQ0c3THlmVkZXbVBSWTREZjY0T1c0STlXdUxfY2Fic1ln?oc=5",
+      "sent_at": "2026-10-21"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zeTRpNzZtVjF3RkNFM2JaVktHam5tSGwwU2tEVHV6NXJTUHNNd0FGYXZaVTNmbEMzcnNxeEY3VEIzSEdmMW1WMTU4cDBBMUF0a0dKRi1JRk5QWTFnd0ozd3hPNTl4SVZy?oc=5",
+      "sent_at": "2026-10-21"
+    },
+    {
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=120602",
+      "sent_at": "2026-10-21"
+    },
+    {
+      "url": "https://www.foodnavigator.com/Article/2026/10/20/letter-from-the-editor-what-is-driving-dairy-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sent_at": "2026-10-21"
+    },
+    {
+      "url": "https://www.foodbev.com/post301/biotiful-launches-uk-s-first-kefir-cottage-cheese",
+      "sent_at": "2026-10-21"
+    },
+    {
+      "url": "https://www.foodbev.com/post301/the-gym-kitchen-expands-tesco-range-with-two-high-protein-ready-meals",
+      "sent_at": "2026-10-21"
+    },
+    {
+      "url": "https://www.foodnavigator.com/Article/2026/10/20/the-rise-of-morning-snacking-what-it-means-for-food-and-beverage-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sent_at": "2026-10-21"
+    },
+    {
+      "url": "https://www.foodnavigator.com/Article/2026/10/20/why-full-fat-dairy-is-making-a-comeback/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sent_at": "2026-10-21"
     }
   ]
 }
