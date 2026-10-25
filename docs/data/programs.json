@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T23:52:39.097299Z",
-  "count": 278,
+  "generated_at": "2026-10-25T23:41:34.020601Z",
+  "count": 279,
   "items": [
     {
       "id": "dfe53268a8",
@@ -47,6 +47,30 @@
       "start_date": null,
       "end_date": "2024-02-29",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55VXpQOV9hS25yaERHYW9lbVA4dE51QS0tM01pLXE5NjZDR1U5VUxWVnc0ZkpYUEJfd3VVdFRCV1d3c1BMeUR5OFpjcFJxWDdrcldnWjZpREUtWTR3SkE1SmRqM0k5YXRIVTdsaA?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "b7b9b5500b",
+      "source": "SBA(서울경제진흥원)",
+      "title": "마곡의료아카데미(7월) 교육 참여기업 모집 공고",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2024-06-20",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TRUpxT014X2pLY2lleXQ0VjNmaGszbUhVNmVWZWQ5aFBaVVZFNm1wbGVOQ29YNFBCOGpsUTN6SlZqeEhWdlpjVkVxSmF0ZkRQTFpEc0RocFpyQmpYc1RFWEtsSTRYVzBYTjQ4?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "149015a0fc",
+      "source": "SBA(서울경제진흥원)",
+      "title": "K-패션 지식재산권(IP) 보호 지원 공고",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2025-04-10",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LODZjUVRxUnYzYkhLX0R5ODllU1J6OEdJcnhiak1ReHc1Qm1HdlRxZmVvQlNtSkpXZmhpNnVlb2FKZWlUZVZuQzBpcEJkblpFbXU2aTNrM0NyZ3YtcEZwS19SZm9SRzJTUURB?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -155,18 +179,6 @@
       "start_date": null,
       "end_date": "2026-01-29",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95SXVFWUpRMFZsWVBjOUpZVm5LZGFLWXI2cjB2bHdqZ0tvYVZnbjdlSzd5bU9EWV9RTm9zOVExVm1qSVlSeWRZZERrOGlNbUp2VzV0dnh5eUM0VmJac01HVm9NRk94WXV5dFE?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "f31b8ad231",
-      "source": "서울창업허브",
-      "title": "2024년 덕성여자대학교 캠퍼스타운사업『패션아이템 및 디자인 창업 공모전』신청자 모집공고",
-      "org": "서울창업허브",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2026-01-30",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxQXI3NjBDRnppSXJlTGgyTEFvZWRkc3NINTFsNmhKQllPMjQtR1NPaVVMMS1RcDVNek1nWGI4anFJeUkxVDl4UXlPb3EzblQwblZFeXVsRXczejhqQVlIc0wzTDFGQQ?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -495,18 +507,6 @@
       "stage": null
     },
     {
-      "id": "79a31e5880",
-      "source": "SBA(서울경제진흥원)",
-      "title": "2026년 제1회 ‘SBA 크리에이티브포스’ 모집 안내",
-      "org": "SBA(서울경제진흥원)",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2026-09-03",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uNVZnUE56NXU0MXpKTVJuT25LMGluTDFsb19ETjAtcG1oSFVaN0wwc1Zoa3lsQTdXNklxN3ZLU3VWWWxrWVVkaHZPS0VIZnpvQW9oSGZrc1NjRldpSnVJeFJVVjBwNEgtb3Br?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
       "id": "c90d12c625",
       "source": "SBA(서울경제진흥원)",
       "title": "사업공고/신청",
@@ -539,18 +539,6 @@
       "start_date": null,
       "end_date": "2026-09-05",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBISXJ0RTV5TkJJZVRnQjhwUmRiLUZrQ0dIendZVVVQbldQaU4tcm5DTmRnU3E1NFZrZy1faXFvQjQtSm1YZDdEWlZFVF92OXdUQVpFRDg2b05LSTBhaWYwa09BMFQ5U0tCU2NqY1NR?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "0a0b1faf93",
-      "source": "SBA(서울경제진흥원)",
-      "title": "2025년 제2회 ‘SBA 크리에이티브포스’ 모집 안내",
-      "org": "SBA(서울경제진흥원)",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2026-09-06",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sOUthVWVBTlZXcExxMTVFOUp3Y25XVE12QkhWcUk5Zi1mdEs1Q0tNN1ZnNUQyTTRuTnFyRlFNSGhaUTlLMGVLZ2xLOEdaNzVhb1lnSlBFNmR1bkR2OWhkMm00VFBNWmhSOXBGSg?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -658,7 +646,7 @@
       "region": "서울",
       "start_date": null,
       "end_date": "2026-09-18",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KZUUwWEk5WDhJMEhERjVibTZyZ0p0RWNzajc0a25Qc0dkSE5VdkM5NE44aFE5MzRfUXFkc09rM2FGWXFPNzBIZ3JTRzBBNG1jTDBWZVJ2VkZtTl9uYmxXbU82YWpNdlJMQUt5Q21aMU05QnBw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUZwVDJMR0pVMVowVlFXSU5KbTNlUGR6NlctZDhUeUUzcXJrUUhYNEtsSUVwZXYyY0k1em1BcHZiamVEV054Vy1DYUdsSjNXbmM2b01jOUJmUWttd01vdWlFeGNqR2ZKZDdJS3lIdHBSU3RsbEt3eXNIdk9XWUM3TTdKaDV1QW5ZOG5oR2gtQnZlMEEzZ0RTNGlyWnpQR2lDZ2haUUo3N2ZPbHZj?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -695,6 +683,18 @@
       "start_date": null,
       "end_date": "2026-09-26",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FZTY5eGVUZFJ3bFRLOGoxVFdlblZHUUQyb3N5dWVtWUlYRktwODdSYjh5QV9JVDFFYUtYdHFtZ2R3M21aOEI4UEw3S2hQUkZKclBjQThDN1U2S3hYMFhhNVlST3BYM2VyZ2owNQ?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "535a756236",
+      "source": "SBA(서울경제진흥원)",
+      "title": "2024년 SBA x 유튜브 쇼핑 지원사업 참여기업 모집",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-09-26",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWlFNHNyaUZmOHJ3TnNRRE1ZOTZLM0k0a1Q1aEVlVHYyWk1NRTJNbFF2US1QQVJBSW0yb1p4Q1QzQnZKMTJ3R3c2ZVJRNUhXMUl0QTNQVlU5TnNWSWIxa2xfUmZvOXg1ZjdiUlNOeEpjQjZ1djFpMFMyNE9Mdkg4Y2NOTFhFZ2FNQzc1V2hVb2FrTTJWLVF2U3VEaDRPUGcyVm02cVhEajNFUGZJYkF5RWxB?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -934,7 +934,7 @@
       "region": "서울",
       "start_date": null,
       "end_date": "2026-10-19",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kb2RqRUphbk92QTg1cXY1NC1ZSGYxRjVwM18wbUp1MFBYRWxjX1Vudl8zYnhldy12cm1WTUZGaDB4UWFTaFB2OHZGTDEyVWpmS2ZEY1hGUTN5WDIydl9reUVFWnFHcGpIWmxSaA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Galk5NlRXTXFINkxFekNKclJsN3o3X21DWXNfQldJMTVCSHZnNVUtcVhoRVFsVXhLUmxZbVZkUEVTRjdhd2YzaHhxdkZ4UWpnOHFTbTg5RVJFcURLMXM5RmthbVUxUDNrTGY0?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -1227,6 +1227,18 @@
       "stage": null
     },
     {
+      "id": "63494dc0c3",
+      "source": "SBA(서울경제진흥원)",
+      "title": "‘K-뷰티 브랜드 러시아 시장 진출 전략 포럼’ 참가기업 모집(~8/13)",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-10-23",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sQzNQQU9PUEpfSUlBaHlMS1lLRjNLVDVLYUMwV1p2RGhrOE5hdTJoVFMxYlN3QXJ6VlpUVmR5UHRmdVpDZm4tU0MycU41VzJyRnJwOG83eXpYYmRIZUp4UjRtczBOdjhlYnI0OA?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
       "id": "8ce43ff426",
       "source": "K-Startup",
       "title": "2026 시흥시 청년창업가 네트워킹 행사 참가자  모집",
@@ -1259,18 +1271,6 @@
       "start_date": "2026-10-15",
       "end_date": "2026-10-25",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179529",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "93d0bb3a0c",
-      "source": "기업마당",
-      "title": "2026년 베트남 최대 방산전시회(VIDEX 2026) 방산홍보사업 참가사 모집 공고",
-      "org": "산업통상부",
-      "region": "전국",
-      "start_date": "2026-10-16",
-      "end_date": "2026-10-25",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127339",
       "is_priority": false,
       "stage": null
     },
@@ -2267,6 +2267,18 @@
       "start_date": "2026-10-19",
       "end_date": "2026-11-02",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127341",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "bbcfd0cc79",
+      "source": "기업마당",
+      "title": "[경기] 2026년 로컬 스타트업 챌린지 비즈니스 데이 참가기업 모집 공고(투자사 1:1 매칭)",
+      "org": "경기도",
+      "region": "전국",
+      "start_date": "2026-10-19",
+      "end_date": "2026-11-02",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127329",
       "is_priority": false,
       "stage": null
     },
