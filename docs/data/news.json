@@ -1,15 +1,183 @@
 {
-  "generated_at": "2026-10-25T00:14:26.768377Z",
-  "count": 49,
+  "generated_at": "2026-10-26T00:08:51.180006Z",
+  "count": 42,
   "items": [
     {
-      "title": "경주시, 17개국 바이어 참여 원전 수출상담회 ‘NES 2026’ 27일 개막 `",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YUGktMXRSWE1FR3Ewd0h3Q0tnODFiRWJwV0VzQzlpTld1ZE5xYUxYWXVOdC1XZXlDTkhFLUt5ZnBHYjJGWm9kQ2FRWm9EcDhtdnJz?oc=5",
-      "source": "CBN뉴스",
+      "title": "식약처, '건강기능식품 기준·규격 일부 개정안' 행정 예고",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZRkM3ZlhHQ21mYnVEdk1WNmJNcHNKZmNWTW1qejdpaUp5R1RfOVhPbndvSFdyTWpreGt1SWw4RGQ3VFJrczRHNlhNWU4?oc=5",
+      "source": "대구MBC",
       "published_date": "2026-10-25",
       "summary": "",
       "origin": "domestic",
-      "id": "5e0705d323",
+      "id": "0f41ff0156",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "건강기능식품"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "콜마스크 매각·화장품 사업 양도…콜마비앤에이치, 건강기능식품 ODM에 집중",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUNXRFZXJNc2tzZk1vaHpsaVAweERROUplVVRsTjI2a2EtcldWaUhZZ2VSQzA3eUZTV3B0YnM5N0dfcnFabE1pUENaVlZ5T2wxSTctXzhBZWdsVmEwSmxGOEEzbGJCc0k4X3dURGxld3I2MzjSAXdBVV95cUxOWGo0U21XcDl0eEVSMzNoZVJGUG5PZV8wWG9LQ1VmOENmM0t4elpORVBqdVVINnNKSHJFVzZFX01paXl4V2I1S3ZiQzA2d0l2UWZvQ095YnRsMEVyLTZMMV9JMXZOSlBkcHNQNHRVU0ZTOXdLelFocw?oc=5",
+      "source": "핀포인트뉴스",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "f366300b9f",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "건강기능식품"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "전남광주통합특별시, 농수산식품 수출 8억4192만달러…2.7% 증가",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVWS1yWDNTVno1dDZyTmh3LVR6OURJUkxWRjlYblM3RVlKRGVLcTh6R3BDOUNJUGdteTN6Qm9jWV9jZ1JNeDVSdkllRHQ5aWY1QzhJWnp2TEtTX0tDOVgwckEwSjU?oc=5",
+      "source": "매일일보",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "9cd8a05c2c",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "올해 전남광주 농수산식품 수출 8억 4,000만 달러 돌파",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfMzhJaFBFOWlQRDFya0FJRWppcWZmdEx2X043OG4zM0dsaGZneHNtYVlvd1U2RnVTOFZQQ0FYOThWZ0tmVmJLQkxOM0dkQXpvTUxaN1dDc0lVbFd0V0Y1aw?oc=5",
+      "source": "KBC광주방송",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "1901d5d94d",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.55
+    },
+    {
+      "title": "전남광주 농수산식품 수출 8억4천만 달러 돌파…김이 전체 41.5% 차지",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10bFpLME5uSXhzM092M0VBTzd5MkpxVmViMmJqVUVSYjZ2emJiVEcyTDhWNVRfblIwRUg3SEdoV3B1aEI4MFVxSWdBcXg0c2dSSW8yYXlQbG42T2Q4d29pNEZsZExCT1E?oc=5",
+      "source": "지이코노미",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "d0b793858d",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "전남광주 농수산식품 수출 8억4000만달러 '돌파'…주류 음료 등 가공식품 '성장세'",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9feks0cU9RbjkwelRheV9ES3Jwa1NmVUt0dDJkTlJldGQ5azZoQlVjME9uSFNFaVdNTWhvSll4Z0dxb2dIb3BPVXVqOWpMRVVoSUs5NjJoSGdxMkYxaUc0cGtNUENNbmRXanpSRHZYUmXSAXBBVV95cUxPX3pLNHFPUW45MHpUYXlfREtycGtTZlVLdHQyZE5SZXRkOWs2aEJVYzBPbkhTRWlXTU1ob0pZeGdHcW9nSG9wT1V1ajlqTEVVaElLOTYyaEhncTJGMWlHNHBrTVBDTW5kV2p6UkR2WFJl?oc=5",
+      "source": "글로벌경제신문",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "8a6dac4176",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "전남광주 올해 농수산식품 수출 8억4천만달러…작년 대비 2.7%↑",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ieHNBS0JWZm5EaTIwOWVCMTlocXpuZFg2NmZXdGNDd1hMTThQUU9pOWVCSHdYR0h3cVNHQWR0ekVIcERVbnJXNkdVcTNJbGJkQURhVzVKZmdYc1HSAWBBVV95cUxPTlVramx5Mm0tNG94cHdCdm9WNU15dmNZOEJYUWZhVnlPeEkxTXVVX0x5bDNXUlN2SGhraDdpNWVvSUlVUk1WQmxnVkhMR1hhS2hmNW9zQ21WRHViengzNXQ?oc=5",
+      "source": "연합뉴스",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "ca75677286",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "김은 4할 차지, 커피조제품은 2.7배…전남광주 식품 수출 증가",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Y1ZBNmcwNGxQSlMwcmFrZHI0N2lJb0QtZk4yZTk0ZHlSMFdCRzJYUk14Wmd0UlFYRE1EU2d3VGpqZTA2Y2F4XzhTeURLS2lHRHlCWlF5OXNXOHZyZVlXYQ?oc=5",
+      "source": "아시아경제",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "97c77f1d7d",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "전남광주, 'K-푸드 돌풍'... 가공식품 수출 견인차 역할 톡톡",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RSUtnYVRBZ0x2Q2ZqNVdDTWVQTk5GRnBvSVVWMkNwUWt1djE5S3lqTFJvLUg4c2NaTUtlVXZHRXVOQnNtWmVlQjFUM3pNRU9PUEdGTlNwOUxJbW94ZDdoN2RlSjlJYWp6SXZHaVJ2TVNMdTV50gF0QVVfeXFMTlFJS2dhVEFnTHZDZmo1V0NNZVBOTkZGcG9JVVYyQ3BRa3V2MTlLeWpMUm8tSDhzY1pNS2VVdkdFdU5Cc21aZWVCMVQzek1FT09QR0ZOU3A5TEltb3hkN2g3ZGVKOUlhanpJdkdpUnZNU0x1NXk?oc=5",
+      "source": "뉴스워커",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "2d7a5b0d9f",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "전남광주 농수산식품 수출 8억4192만달러…김·가공식품 성장 견인",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BeFQzTzJjTGpGYkVrVW5NazFfeVk5S1pOb3dyOGpYVC1jMlozMnFBRlZjM3cwTmVjM2lILU5BYWJrNEh5RmtUMDJVSTk1VVhoZGpDUlVubDgxZDNOOGNZdmNFejl1NnhVbUljSVc3RQ?oc=5",
+      "source": "진일보 | 전남일보",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "5529e9ac3c",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "K-푸드 날개 단 전남광주, 농수산식품 수출 '훨훨'",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1acktwSjZPSWRsTEpGOTZMTHllNTZibFhBbmg2ekMyR0xUZ011TnpkYTh0Q01TbzcxMFBCMUZwUUowNXgyLXZTOXU1NEw5WkxfR0xHNnZNaDhWQ012NXFKd1JGRFlFc0NkOUFZ?oc=5",
+      "source": "프레시안",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "417e4b2617",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "익산시, 식품기업 해외인증 지원 성과…용궁식품 말레이시아 첫 수출",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05cDRUc0gyMTJfdWVQVXo3Z25XY2FPbzA5TlFWMXNzUjZfZzZXaktLeHJRNWg1SnZkUm9uRnFoR2FPa2ZNOURJQURtUnh5VUJDZDdpQ0REczZVbmNyM1Q0S2QwR2V2bEtkRlF0cWZBamU?oc=5",
+      "source": "신아일보",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "b602d6551a",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "충북 농식품 수출상담회, 떡볶이 소스에 해외 바이어 눈길",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyVExsTGIxaHM2T0xCdml4bHpiOU8wVVdTcUZJN0Rqb1lXMHpwN0syMjlldmV1cGxlTXFQdkJZanlkcnJsMXBnRUpjdFp3T3RzczI2YnVjQ1BuYkpPbzY1N05meFnSAWhBVV95cUxOWG9KMjduUURoVy1EMlY1MGE1aTR3UXdLcnlfQ3JSTEpITnpBTGQ0MGtmS2dma0dpUzdobVZyNVRNYzQ0NER5aTVaRjRUazZaVTZYYjdRSkxfQU5KYld0cUFad2hRQkRhSw?oc=5",
+      "source": "글로벌 비즈 뉴스",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "452b0db412",
       "category": "trade_opportunity",
       "matched_keywords": [
         "바이어"
@@ -17,13 +185,281 @@
       "keyword_score": 1.0
     },
     {
+      "title": "충북 농식품 126억 수출 계약",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZeVlqZHJ2X2NQMURISVl5eWJKRDlZT2NIeFA1cmd6aHJUa0o3MGFyT0plcVh2bzhxR2tLNW1UUW1pazl2VlR2OVZfUC1wSG9RaFZsNGFqdzFMdFhtV20tbVprd3FXT3BwSVNV?oc=5",
+      "source": "동양일보",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "677348d4cf",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "전남광주 K-푸드 수출 8억달러 돌파…커피 170% 급증",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aY1pVdl9MWXo5Y2pBQUpRTkhpbzR0TnFrUTFIeVhoNTdMZzQyVWVrUVNFNWw4N3pnY0EtTWloTGVsM0xMc1RoQ0l0NlFZc2NQX1RERXkzUFd4RUlzcGlMUUloU0RvN2VPM2w0YnAybw?oc=5",
+      "source": "진일보 | 전남일보",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "c020848923",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "K-푸드 열풍… 대구 떡·떡볶이 수출 고공행진",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ValdKaWNORTNoSFB2WHN4ZENQQlZaNWhQRUdrN3JHRGJPSThMdGpZWmo3SjFiRW5tZTgtVDlZS0djb0E2ejZUaUhWaVJ5Q1FM?oc=5",
+      "source": "문화일보",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "58c0225480",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "2026 해외바이어 초청 수출 상담회 개최",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mWlc2UTgyTlItX1I5b25XVmxNU0d0LW5VOFlTMHVCYzR1RFlRQkYxODY4cDdvODdRUG1obThGTTVuelJBbDdKYnFRZnd0TFVlNG1PUU9ORjJKRXBZY3dmMmJlNXA?oc=5",
+      "source": "G1방송",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "1460693143",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "부산시, 해외 마이스 바이어 초청 팸투어…\"인센티브 행사 유치\"",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xeVA1ZndSc0xfU2IwRGNJRkYxLTMzaWx0RjN4OU1RMXFFOTNrU3NleWpCWFFDX2RqSjNRVmdkQnpUb24zVTNnTV9MU2JaYk02eTdsME1RaF9rbHlU?oc=5",
+      "source": "뉴스핌",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "e24a747122",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "바이어"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "대전시, 해외 바이어 초청 비즈니스 상담회 개최",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtMUVPYlR5SHQ1SVJRQXlpMk81QUhXcnNMSldoeVctcDRBRUN3OXk2QUNuRHZnczhSNlAwb05PZWE4MWtGNzVQRlpYaE1YOGtGMjU5QkZ5WDZ4dTdOa2ZTN2tvUnNoMl9QTUhYa2V3dmVvU1HSAXNBVV95cUxQbTFFT2JUeUh0NUlSUUF5aTJPNUFIV3JzTEpXaHlXLXA0QUVDdzl5NkFDbkR2Z3M4UjZQMG9OT2VhODFrRjc1UEZaWGhNWDhrRjI1OUJGeVg2eHU3TmtmUzdrb1JzaDJfUE1IWGtld3Zlb1NR?oc=5",
+      "source": "대전일보",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "029a7104bb",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "바이어"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "부산, 해외 MICE 바이어 20여 명 초청…국제회의 유치 본격화",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zNEVBcnJsVjlvTWtrNGg5Z1FGNGZQVlduNnAtVVBSUXpuS2tYaVE1dEdMNUtGeXBrSkY3cm05dWp4Zm0tVW1Yc29XRVg5NWxJUzJnbFJla2l5cjR5NUJOLWo1dlM5WmVa?oc=5",
+      "source": "복지TV부울경방송",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "ce5890c0ec",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "바이어"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "경주시·하이코, 아시아 최대 ‘ITB Asia 2026’ 단독 홍보관 가동… 해외 바이어 정조준",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oY25welFXc2hBY19yOU51X1ZrVlFOSHplSDA1bjRvREFSU1EtOUVfRlpWTC1pYVNsMlJCNXI2QnN6VG13V2tUR3V2NkNvQi05R01qVkVtYk02emtWdGZKUENLMGw5MUg3LXRaa0VuWEQ1eEHSAXdBVV95cUxNeHE3OGMwZXBEYUFRMmw5dnV2eFUtQmNnRm51a1JnVzNfN1JiZ1NxRjBtVFNZTGlYMlNxSnVEUXcwRmxEM0YzU05qZE9kWEYtN2xYaTc4VFVZWW92OTBqMkpXbldxaGwtRHYwSFRQLTA3NlBqSDhKWQ?oc=5",
+      "source": "스트레이트뉴스",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "f6c32b6a3a",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "바이어"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "원주서 27∼28일 수출상담회…해외 유력 바이어 97곳 참여",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02eUswOWJDbjRla3M0YjROSFo1Nml0bUJJYXJscUN5b291VllQOEdlSUd2cGxtaE9DRVRMSThhSVlhODZIZWkweHVXRTU2aVlXdUtsOXMzRkxjcjRyV2ZGWtIBYEFVX3lxTE02eUswOWJDbjRla3M0YjROSFo1Nml0bUJJYXJscUN5b291VllQOEdlSUd2cGxtaE9DRVRMSThhSVlhODZIZWkweHVXRTU2aVlXdUtsOXMzRkxjcjRyV2ZGWg?oc=5",
+      "source": "연합뉴스",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "a12adad7e4",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "바이어"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "세계 바이어 55개사 대전 집결",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZDlGN0FLUFVTTk5YUkhrNmlaQXlsaldVMWNEMGVHQzdNVnJzc0NzOHBtQXE4X0tKOGRWYUtya0JIOXByNC1wNHVPWVBHVkhBam1lY2FNTFFfR05tR2VDWnJMdW91R2EzOWc?oc=5",
+      "source": "충청매일",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "f808365c88",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "바이어"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "경주서 ‘NES 2026’ 개막…17개국 바이어 참여 원전 수출상담회",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jeEM0TWZjOXRuZnkwOWNKeG5rQVB0WTR5RHBqRmNqWjQzdTdPQWFPMndsN3pSZEY1SXBkWVlUM3o5a0o2ZmtJV1Nwemp6OGpUVTh6R3VZQ1dTQmFFRnp4R2NKQUE?oc=5",
+      "source": "매일일보",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "8cd6554aac",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "바이어"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "WMIT, 부산서 해외 인허가·수출 지원 세미나 개최",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84WFE3bzRpbndNR04zVnFXUXpVSzZfTlFmNGxlQzJpYlp4b3Vld2F3OWNIRUR5VkVMNnVDX0sxalZ2NFhZMUJSdmd0eG9EQWlpTUNtc2drODBaNk0?oc=5",
+      "source": "강원일보",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "4303b3aff8",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "원주의료기기산업진흥원, KIMES 부산서 해외 인허가·수출 지원",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96dFRfZl93UkNiSGhXaldEY0Q5dUVJUzhSdldtRHJiWFVOT0MtUUFUMW9hak4zUUo5amwwQXJObVlxcDRKaGlqNTB2bTBBeW11dGlZdWplNmJwOVFaMlZ6Wjln?oc=5",
+      "source": "보건신문",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "91b1739c3c",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출"
+      ],
+      "keyword_score": 0.7
+    },
+    {
+      "title": "오송화장품뷰티엑스포, 39개국 바이어 참여…K-뷰티 수출 상담 활기",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOSnI0a191b1p0X3FualpjQXpoQ3NJSzQzdUdfMlc0SGh2T3VBd0VBcmZwYlFTd0lralhCNjFiYWpMR3JJNDdZcUp4LXNXN0F3aDlBcF9kejhzTGdCY3NsSzk2Q0xNRlhZT2xZUw?oc=5",
+      "source": "충청도민일보",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "9021dc0736",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "수출",
+        "바이어"
+      ],
+      "keyword_score": 1.4
+    },
+    {
+      "title": "원주시·강원경제진흥원·경동대, 웰니스 관광 MOU 체결",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wMUwyQzlJT0JQR3pSM1gxem5TUkRrQUxJanlQdk1EN0d6T2lqVU5RdGl1WjVLUThhM0RfSERWcTRjNi1JX2g3bEV1VERIbzhOYl8xeDdMb215X09naUsza0VZWUhLTTRSbGt1RF9BOVZzRlU?oc=5",
+      "source": "동방일보",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "domestic",
+      "id": "b65dc9162d",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "mou"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "Germany Nutraceutical Excipients Market Size, Share,Trends, Growth Analysis Report, 2030",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLWFzUzRQb1pSOHpVSmY5clRTZ2EzQldIZFRDLXBySkwtU0pwSFdzR09ZaDFEald2Rjg2aXVYMTh5QVljdDhvOTZldUhZdWp1V082NGxUSkRsXzVFdE5PX0s0aHU3MWstc0RjLXhhdGRjbDlvYmV6YzdCTlppX1BkLVplVmZlUWREdHhjemxVUElpLUExZHozR2h0aDdUZw?oc=5",
+      "source": "MarketsandMarkets",
+      "published_date": "2026-10-25",
+      "summary": "",
+      "origin": "foreign",
+      "id": "81eedeece3",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "nutraceutical"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "건강기능식품 기능성 원료 안전관리 강화･ 영양성분 원료 확대 등 기준 정비",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UanRoQ3BJdlMxVDk5OVdyYTlpZXF2bF9nTzhCaU9uaEhyeXNFLUZxZGVVaGdlelREUG0tc09kNnY3bEM2Y0t6amVjS21MN3JxRkE?oc=5",
+      "source": "투위복지뉴스",
+      "published_date": "2026-10-24",
+      "summary": "",
+      "origin": "domestic",
+      "id": "25f2256ce1",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "건강기능식품",
+        "기능성 원료"
+      ],
+      "keyword_score": 1.7
+    },
+    {
+      "title": "[R]식용 곤충 '고소애'..'근력 개선' 기능성 원료 인정",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4TEhfVVNMaEdpcmVhM0VqdDRVXzRjNllHLVNBOVdkbW9Fc0dnRWgwTjRiTUttSGozWmJvTDlfRjVDdERvbUd5SDNXWmNBY0hPOGw3cnZ4czlCdmh4Z25pOEFPMHl1c1hqRkFCaEVFT21DT3JoUFE?oc=5",
+      "source": "안동MBC",
+      "published_date": "2026-10-24",
+      "summary": "",
+      "origin": "domestic",
+      "id": "46a91158a3",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "기능성 원료"
+      ],
+      "keyword_score": 0.85
+    },
+    {
+      "title": "그린스토어, ‘우먼 프로바이오틱스’ 출시",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRUVZZ1BpYUFfUTkwVE04VThMLWs2b015Sm93TllaQTBXUWZITUxNcDZUb2prd2Foa3FZU0xJRS0xWGZNRERER3NFajBFLUdhU3R3TXJrWEVRdko5aHRFekpSUXRkQzRHejAydkFtbWJkTWFxM3hYMkRFcTFSeV94WTBxa3BSb0VpTERpb3ltdkF2YWlyY1VpQTVFRFVpZGVST0tmSV9oOA?oc=5",
+      "source": "약업닷컴",
+      "published_date": "2026-10-24",
+      "summary": "",
+      "origin": "domestic",
+      "id": "74ebd70092",
+      "category": "wellness_trend",
+      "matched_keywords": [
+        "프로바이오틱스"
+      ],
+      "keyword_score": 1.0
+    },
+    {
       "title": "전남광주 농수산식품 수출 8억달러…커피조제품 170%↑",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nQTQ4Wm5KZDNMcndkRXFOdUpCMEJTY1IyS0g3YzI0aHRQU2dHd2lENDJSYVlpSFRYeU8zUTFUbUMyeE5jWDhmMGFsVWUwNm1IY2RxdXFZdW5lc0IxbmVQNdIBeEFVX3lxTFA5XzhVMkhfcjNHLW5uOTBUalRtZ0doR3ludEh4eE5QdG1fSXZpQk9PVU5JaTF4cEE1RzgtZ0dfYUhTQ3ZwOW9KTS1YcUZlcXJsc0FYRU1jeFBmRVozdGdwazNoZ2hramR3bGRKZmlUbmp6Qk5Ob2gwcQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5XzhVMkhfcjNHLW5uOTBUalRtZ0doR3ludEh4eE5QdG1fSXZpQk9PVU5JaTF4cEE1RzgtZ0dfYUhTQ3ZwOW9KTS1YcUZlcXJsc0FYRU1jeFBmRVozdGdwazNoZ2hramR3bGRKZmlUbmp6Qk5Ob2gwcdIBeEFVX3lxTFA5XzhVMkhfcjNHLW5uOTBUalRtZ0doR3ludEh4eE5QdG1fSXZpQk9PVU5JaTF4cEE1RzgtZ0dfYUhTQ3ZwOW9KTS1YcUZlcXJsc0FYRU1jeFBmRVozdGdwazNoZ2hramR3bGRKZmlUbmp6Qk5Ob2gwcQ?oc=5",
       "source": "뉴시스",
       "published_date": "2026-10-24",
       "summary": "",
       "origin": "domestic",
-      "id": "4ecc9a157f",
+      "id": "ce8f5fea1d",
       "category": "trade_opportunity",
       "matched_keywords": [
         "수출"
@@ -87,20 +523,6 @@
       "keyword_score": 0.7
     },
     {
-      "title": "해외 유력 바이어 대전 총집결 지역기업 수출시장 개척 나선다",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4ZnZKZVRkQ0lETEo2LWVsX0JhU3VVMjdnTDdsZVBXekRZbnF1SGNEQ0h0RWFWdUNGOG5lMEFpUUFLMTk4dzJCVFc5MElKUFA0MU16OVE2N0dSeWY2ZFFsbDUxcTJta28yckNkdm5DeWk?oc=5",
-      "source": "모빅경제",
-      "published_date": "2026-10-24",
-      "summary": "",
-      "origin": "domestic",
-      "id": "a5f5f62713",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "바이어"
-      ],
-      "keyword_score": 1.0
-    },
-    {
       "title": "[사진] 도자기 제품 사진 찍는 해외 바이어",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05ZV9KUkJ4RjNhb1BydzE2RG0zZGVuME9zNTVBeGQ4Q3VHWXR0R1hYNHVfSG1QWXkzOFEwRXptdGRmWV9ZX2Z1bTZxNjEyTWR6RU0zWDdYcm9pMXFXM2ExSlJUMWhSU3hMcU1kMVR30gFwQVVfeXFMTWlfU1MyX3UwemJqcUFYYUFZcTljcm9teU04YU5OLUlMYi1SREZUcjRZdEhNVXJYUHFlMWpDMS0xQmZOa2p5b0Uxb3FNT1pSd3VPaTNBRWoxa0RNVmpjanBXSE5PQU8zSldBd3BmeTFkRA?oc=5",
       "source": "내외뉴스통신",
@@ -108,6 +530,20 @@
       "summary": "",
       "origin": "domestic",
       "id": "c3effd0158",
+      "category": "trade_opportunity",
+      "matched_keywords": [
+        "바이어"
+      ],
+      "keyword_score": 1.0
+    },
+    {
+      "title": "해외 유력 바이어 대전 총집결 지역기업 수출시장 개척 나선다",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4ZnZKZVRkQ0lETEo2LWVsX0JhU3VVMjdnTDdsZVBXekRZbnF1SGNEQ0h0RWFWdUNGOG5lMEFpUUFLMTk4dzJCVFc5MElKUFA0MU16OVE2N0dSeWY2ZFFsbDUxcTJta28yckNkdm5DeWk?oc=5",
+      "source": "모빅경제",
+      "published_date": "2026-10-24",
+      "summary": "",
+      "origin": "domestic",
+      "id": "a5f5f62713",
       "category": "trade_opportunity",
       "matched_keywords": [
         "바이어"
@@ -144,553 +580,16 @@
       "keyword_score": 2.0
     },
     {
-      "title": "건강기능식품 기능성 원료 안전관리 강화·영양성분 원료 확대 등 기준 정비",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9henhiZVgxVi1HZUtDbExNTWxld1hWSFRyQTlCZzEzdGVCOWxYS2h0YmtRS2l4bmx6SWZWQldqYkZ2WHE1YXY2QnBOcmVpOXl3Wkp3XzUwc0g3X2pBYmc2MWdpOVhJUWdrTlE?oc=5",
-      "source": "도민연합뉴스",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "4f05438f8a",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품",
-        "기능성 원료"
-      ],
-      "keyword_score": 1.7
-    },
-    {
-      "title": "건강기능식품 원료 안전관리 강화…기준·규격 정비",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tMnlDNUpoZjJRd3VNeHJ1clVnWHdUTXdSWUVQWHdNTUZZM1pDRzJBdFpsUjZocEZHb09FRHNQbDVMVkM3REtkRndHZTFINGpQUHdBSGc3djRvbnFERE1rMlRIb0Z2SW8?oc=5",
-      "source": "한국식품의약신문",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "7894c6724d",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "[건강기능식품] 기도 염증과 면역 불균형에 대한 영양학적 접근",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0ODZrSmh2SE54ZHF6c0dYc3ZjdzJITDlxU1NOMDliM2JlWFl4ZVFlV0ZOaXk5aEw3Z3hkY3ZCUl8xUDdXeE5IWWRQcXlFRXB2cnI3b3JKak16WkN0dVV0Q0JBQms2VGdiOGJMaQ?oc=5",
-      "source": "약사공론",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "dd1baf55c3",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "건강 챙기려다 간 상할라…건강기능식품 과잉섭취 관리 강화",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMbjdjcXpCang4MGVlc09nNVhkSXU5UjVSY1FtV01DMlctZmwyRUVOT3dhdm56VWp3dzhXNGVIdnc1dkJQYkEyMTJaUVZnU0QxcVlTeFZ2QUkybDJj?oc=5",
-      "source": "뉴스1",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "7abd4dc87c",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "식약처, 건강기능식품 제조기준 개선안 행정 예고…간질환 관련 원료 혼합 금지",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45UTFoYXZ2SE9CcjVTZlE2QkVzRmZQUmU1bkVZRU4xWm1hR21WSEJWcXpfdEtRS1pVUmFqYV9WWm1iVVAxN0ZqSGhwVEtRUjVZZHI0WTliMmlWOTFVNFBSOXVLVS1pS21HUDdF?oc=5",
-      "source": "BBS불교방송",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "90d5ae9918",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "건강기능식품 원료 혼합 기준 강화…식약처, 안전관리 개정안 행정예고",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ySW54NDFya3N2bXNEbXk5UGlZSkJMbk5qRHJpLWhTOVBZcS1TeWlOWUNua3Y2VVdBeGF0R1ExV0xpRzRBUXA0ZnNkRWFieGxweElQaTdTV1A1bWhFWGdQMTJ4VmZNZTA?oc=5",
-      "source": "씨원뉴스",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "e1c5437c6a",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "한미양행, 남원에 191억원 투자…화장품·건강기능식품 공장 건립",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ObG52OUhmOGdaLUk1bWVMRFBLOHdzd0ZqMnRILXVlZmNJdGpucmMwSHJfQlo3Yy1mQUpXM0RyQnV0Vms4WHh5RTFNZVRJa0p0X29kSG5EYXZCVnJORC1PYTFlVFU0ZXZUdDJkckVB?oc=5",
-      "source": "아시아투데이",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "6a6ef48131",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "남원 기회발전특구 ‘1호 투자’…한미양행, 화장품·건강기능식품 생산 예정",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvM3pPTlJNejkwbWF6cVlGd0xIb2VvODE3a3RVTFN5YVpMV1Q2MmxtVjFndGozT1FjMUd3cTVLM3BhUV9qSlhVT3RvOHRDaS1ETTloUEt0cHQ0YkZmV0lOeFhod0NOR0xrM3RUcGdkVQ?oc=5",
-      "source": "서울신문",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "84cd3892bd",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "건기식 기능성 원료 안전관리 강화…제조기준은 합리적 개선",
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201480",
-      "source": "식품음료신문",
-      "published_date": "2026-10-23",
-      "summary": "앞으로 ‘간 질환’ 관련 섭취 시 주의사항이 포함된 기능성 원료 혼합 사용이 금지되고, EPA 및 DHA 함유 유지 등의 제조기준과 프로바이오틱스 일일섭취량 기준이 개선된다.식품의약품안전처(처장 오유경)는 건강기능식품의 안전관리를 강화하고 영양성분 및 기능성 원료의 제조기준 등을 합리적으로 개선하는 ‘건강기능식품의 기준 및 규격’ 일부개정안을 23일 행정예고했다.개정안은 건강기능식품 기능성 원료의 혼합 사용과 과다 섭취 등에...",
-      "origin": "domestic",
-      "id": "c5a546b66b",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "건강기능식품",
-        "프로바이오틱스",
-        "기능성 원료"
-      ],
-      "keyword_score": 2.55
-    },
-    {
-      "title": "건기식 원료 안전관리 강화.. 기능성 원료 ‘혼합 사용’ 제한한다",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SLVdONmUycDk5Vzk4dUVKcGhRM0VuNUJlUHk0SW5WNFRWTWJXaG5STVVjUTJLUFo3WWh6Sm1UV1pWUUNnRWxYM2FrbTJVWHF6enZ0a1N5UWF3a1hMcmc?oc=5",
-      "source": "한국재난안전뉴스",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "21898f758c",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "기능성 원료"
-      ],
-      "keyword_score": 0.85
-    },
-    {
-      "title": "건기식 기능성 원료 15종 혼합 금지…섭취 기준도 강화",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zcWVuSG1TTkd0RTNoYzBQZEdFM3Z6UGlod0JFYXg2NFlLUkVMZEFnVG9rZWx3WFlYMF9XMUxnVGR1RE8yTkxXWWVkNTdTV08wckhMYTF5TlRYQURSNzVyM0djY0JZR1VzV2840gFvQVVfeXFMT1RwOVFRTFdDODhiYXZFTDBBbWxpX056U01reUdLTEVXMDhnMmVsOUdsa2NWR1FzNzNCRTd2dURmS1lKNUlOVkdpUnh2QzVhUFBZYkUzS2NUWmVscS1PSlJ2dmFFMjhHbzM0SXpsZ3dr?oc=5",
-      "source": "한스경제",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "a7679bc524",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "기능성 원료"
-      ],
-      "keyword_score": 0.85
-    },
-    {
-      "title": "건기식 기능성 원료 섞어 쓰기 제한…식약처, 안전기준 손본다",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9odlF1S3pHY1JQSFh4VmpicFRHcGZVUFRXaHljbDJ1ZlNjQ1YyRUpRNVl3ZEJQRk1hY2dWVlB0Vmd1cVNuYVYyaV9lR1duUGpTLVl2ckhieVnSAVhBVV95cUxPaHZRdUt6R2NSUEhYeFZqYnBUR3BmVVBUV2h5Y2wydWZTY0NWMkVKUTVZd2RCUEZNYWNnVlZQdFZndXFTbmFWMmlfZUdXblBqUy1ZdnJIYnlZ?oc=5",
-      "source": "SBS Biz",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "767e651f05",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "기능성 원료"
-      ],
-      "keyword_score": 0.85
-    },
-    {
-      "title": "대구 식품 수출 30% 급증… 떡볶이 등 떡류가 가공식품 견인",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TMlZhR0Q1ejdDRUJfa1FYZzJwUm9haGJ0Ynd4MUVwQ2kyY1I4YjYxMmExZFJ2ZzA1VmdJTzZ3ak5WVjRwZ2JuaFVQU0FWbjNNcU4xZ3JIalBqeDRPa2NkWldUVjJiZzBxc1A0dnVwX3M3dDDSAXdBVV95cUxOMTlwNTlrNWtBcmR1NGJYcHUtb202NDFWQlg4SG1TLUZVZ3A5RGtSTHF1Z0NIYk5fcEd5bktVRVhqd1d1TkNHV1JuRzdiY3ZfT2N1NFcxajRUYV9qTlg0akZpM2doZHducHdnWFotQ3NocWg3UkozOA?oc=5",
-      "source": "핀포인트뉴스",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "227b8a8493",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "전주국제발효식품엑스포, 13개국 34개사 바이어 참여…전북 식품 수출 확대 기대",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWZ0FJN0V3X0lrSUJHRnd2MXZQZW82WGE1cTZtU3MtOGliVDJmWk5JbXdxOUJiTnhaR3FKb2JRX2lYaXd5eHJmWTlmeTFHanFFR2dhd0tWS2FFVWdrYl8yVmRBZw?oc=5",
-      "source": "뉴시니어",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "96c6134e9a",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출",
-        "바이어"
-      ],
-      "keyword_score": 1.4
-    },
-    {
-      "title": "홍성군, 중국 전장시와 자매결연…광천김 수출·청년 교류 확대",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41U3ZxSmVZQkc4ZFBFNXhsbUNFRzRLb3R3Z0c1Z092Y05vdkhkTkt3WWZHSHQxQXNkb1Q0ajhyMm9CcGM5R3BicEhESHlpSExBMmwwVzczM0o1NE1nT2Vub3hYX0s1LXBKZVJnQWNR?oc=5",
-      "source": "충청투데이",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "4e8d225e03",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "2026 충북 농식품 해외바이어 초청 수출상담회 성료… 상담 227건·MOU 13건",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqMGY2QTdZMU1kaXlpZ0ZHNmZUWUZYZW56OGRNRUFaSUVPX3hmUWNOXy02STJmaDZwYlVrTXNCODh4cEMydkFqV3RuaEg1OXFIaDZTTFBQaFFrcUtidU51NFY4Z2VVdkU?oc=5",
-      "source": "충북뉴스",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "7d319c532d",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "mou"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "'K푸드 열풍 덕'…떡볶이 등 대구지역 식료품 수출 급증",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yWjNxN2V5T1lmdVZ5UkRXX2RmTGQ1YzZKUm5vT0doT21QWTdFaVJNamRwQjlaN0piOVpoam1tOHp5bDktSjNuVjhqU2pCU1I5TnNBMVhxbWYwc1nSAWBBVV95cUxPNURfUFF4NElHcGh2VjV5TVFBZXM3U1ZrSUE2MG9aTGVESnpBaExxcFVtVE44YW9Cc3ZVNjNtU3VxcS1LTzl3TmRMRDJPWFktV05XdzFYOTctUFNNR3VMQVQ?oc=5",
-      "source": "연합뉴스",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "3848498f9c",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "[기획] 수출 '10대 품목' 지정된 펫푸드, K푸드 이을 차세대 효자 될까",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EX2JVN3ppM05rcXhESHdHZUpjVThUWlVlRWZkNDZyMXN0Z21HNzNJdzRDZnZqU09NX0RwSFV3Sy1hS3ZFR04weWxibGVJUGp3VDNnWWxrTVFJSXFQdWwtVUJkVHk?oc=5",
-      "source": "서울경제TV",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "e6095476af",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "이토요카도 등 해외 바이어 대전으로, 지역 기업 수출시장 개척",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JTGhkUEhkcWxSMTlIVWtmMThua3ZneloteG5tcnpkQVBlS0VvUEYySlNuUFd6ZGhxM1RRaXFYNURkcVpRUTV0M0NOa2xVSWV0NUhQdkxIZERJcU54eHJvc0R5UmhvN1RtM2cyMDdRMA?oc=5",
-      "source": "서울신문",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "073cca88d0",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "바이어"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "해외 유력 바이어 55개사 대전 집결…지역기업 수출시장 개척 지원",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vNERZb2UxX2pVUG5yd0hTOExYdXdBN2tkcThQSWFiRmdVTkcwSU9xcHE0eEw5LWpNRi1nVGR5UjZaZ1RPUjlZMmh6Smd6bWFXZGlVeC1RdVFRRlVhcUw2VEpzeHRaajhDa3NNeWx3?oc=5",
-      "source": "뉴스홈(newshome)",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "b1896f786f",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "바이어"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "대전 중소기업 해외 판로 개척… 55개 해외 바이어 맞춤 상담",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81aTdvVHIxRDVpSjQ0Tjd0NUYwbGhJdFp5Q2RObHpHYzFRWUs4NVl0NU5vdElGTW5iUGJrQkJlUncxdGRaZWMzVFcxZXpZbGd0bm1ydU9VV0VIUVNEU1I2c2h4NnVoLThGOFppQVhySFU?oc=5",
-      "source": "로컬투데이",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "835d90c218",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "바이어"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "대전시, '해외바이어 초청 비즈니스 상담회' 개최...해외 유력 바이어 55개사 대전 총집결",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDcnVGVjlLWkRJU0pqc2lhbVl5WXBhR1A3QlpMNDI0eU92eFF4Y2l6OUI0Y3R6YV9CZklUaGFsTk5VUjZta0dfSFpnZ0REeFZiV1JOSUVIRTlnUkpQb3U0a0dibkdpYmh5OUhtRVBUOGE?oc=5",
-      "source": "신아일보",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "c43ed1305f",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "바이어"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "대전 중소기업 해외 판로 뚫는다…4개국 바이어 55개사 초청",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50c05VcGgxUXR4YWpfVEE1YWpLc01rNmplOXVEM1BLX25NUUcxT21vaGx4UjBqOEc0V0x4YmZIbkNKNWRpamVhSU1qRFNhQXJJX2VfZ0VydDRscjFSTkp6VTZGZzU3Y05Q?oc=5",
-      "source": "한국NGO신문",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "f7a7217ff6",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "바이어"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "해외 바이어 눈길 쏠린 충북농식품은 떡볶이 소스",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lU1o2T1hYRVNsUV93SkJkMkZpNk1wV3ZkODFsRWFmb3FmeUNSaHVjcFFfYzh0NjhxSGxBZmNfRk45bXMydWYwVjQwbGo?oc=5",
-      "source": "아이뉴스24",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "aa68d77da7",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "바이어"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "세계 한상 수출 상담회 연계 대전 기업 해외 판로 개척 지원",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wRFJUcS1QaWJXWW1UdGN4eU8ySm9Xci1HcERTb0tWTm5LMno0LUFJZ0NpMVp3NmxDalR0NlJYSUNaLVZNQ2JYQUFUeGpkWnBNd2lFMWtMTTZJODYwTTV5eHhLOXkxdw?oc=5",
-      "source": "대전시티저널",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "de88656c93",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "사천에 모인 항공·방산 기업 130곳… 수출 상담 본격화",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12QVZNcjRYXzJkLW4xZ1dRRUVzMmlCbnlGcWNBelVhczk4MFctYmNGcHJMN29FZlZrYm5veUgxVjNxSi0zZ3gycC1lbmJoUUdsc2RCNzk5VmNDWDZCWmZkeDRVSHlKUkU?oc=5",
-      "source": "팍스경제TV",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "dbb66445ed",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "수출"
-      ],
-      "keyword_score": 0.7
-    },
-    {
-      "title": "제24회 전주국제발효식품엑스포, 국내외 바이어 및 전북 도민 관심 집중",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TY1NlM0NjVHo4dnhYRnBDeERrbWE0VHg3YTB2V09sckk3RE1QRlJyYTNpZTJiNkFkaVdmalNUS1pUMm9sZHppYmVua1QzX3VkM1hPR3JabDJYaTB3T00yWHlDcjU3Zw?oc=5",
-      "source": "전북투데이",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "2f2ae4e1a3",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "바이어"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "글로벌 웰니스(Wellness) 시장의 성장과 기업의 미래 전략",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDJJOS1kZXIyUFp1NWZyVFhvSzBMYnR3bWVHY0VfZjhaWVN0RVpwbDF5VUhzdzJSVENkMU9lcmgtd2ptYXJuYk1JbHVhZFlDUVIyRkxVYi1iUTJvaFJpelpiV01xRVJzWWRQWFN2M0ZPS19DZGpvUkh5UjFVWWY4OUFqclNtQzZyZ3pLZUNoRVFkNW95MUloOXNYNk5CcXJIT2ZiU3dvdlNOS0E?oc=5",
-      "source": "Deloitte",
-      "published_date": "2026-10-23",
-      "summary": "",
-      "origin": "domestic",
-      "id": "0f433c8ed2",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "wellness"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "High protein won’t last forever",
-      "url": "https://www.foodnavigator.com/Article/2026/10/23/high-protein-trend-will-not-last-forever/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "source": "FoodNavigator",
-      "published_date": "2026-10-23",
-      "summary": "The high protein trend is all encompassing, spreading to nearly every corner of the food industry. But trends come and go. Food companies must be prepared for a time when such a trend is no longer so widespread.",
-      "origin": "foreign",
-      "id": "36f009d6c4",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "protein"
-      ],
-      "keyword_score": 2.0
-    },
-    {
-      "title": "Global Bauxite Prices Q3 2026 : Price Outlook and Sourcing Insights for Buyers",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM1FiMmUyWEttUC1HZUcwYnRacy1kUGlPZ1BfeWs0V2t0bTVuQmltZnRXelRpYVh5TVc3dTBMelpzamdlajQ3UFFuX2FjczgtV2NCSGwwRHRGb0dRR3hRWGZ3bEE1NWVLZmlTbWJ2VVQ4YXp4UHltWHZETDlYZlJsMG5iVlRNb1lJdzhPY2ZUZkZaOHdMT0Nr?oc=5",
-      "source": "openPR.com",
-      "published_date": "2026-10-23",
+      "title": "The Growing Interest in Plant-Based Proteins in Food and Beverages",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN0htbTcyVENSaG1WLW84d3NMOGxwRmw5azlKSjhxNjFraVVHSUhmd2hUSV9nQzdPWEY4THpoaC1CeVNFM2Z6MHJLNm8zRGpPTnhrWmo0d1VmLWZuVE8zN09wN1JTejFiTE94cXFlbmwzTmZsTm9lSl9aOG96Wm5saXp0ci1pQU1BdzVzNkdXMjN4MmNSRFlz?oc=5",
+      "source": "Nutritional Outlook",
+      "published_date": "2026-10-24",
       "summary": "",
       "origin": "foreign",
-      "id": "29e6a3ef18",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "sourcing"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "북미 웰니스 새 트렌드…붙이는 건강, 씹는 즐거움 등 자연스런 관리",
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201439",
-      "source": "식품음료신문",
-      "published_date": "2026-10-23",
-      "summary": "북미 웰니스 시장의 경쟁 구도가 달라지고 있다. 비타민과 단백질 등 건강에 유익한 성분을 강조하던 시장에서 소비자가 얼마나 쉽고 자연스럽게 건강 관리를 실천할 수 있는지가 새로운 경쟁 요소로 떠오르고 있다.최근 미국에서는 피부에 붙이는 패치형 웰니스 제품이 젊은 소비층을 중심으로 주목받고 있다. 또 캐나다에서는 식감과 감각적 즐거움, 작은 건강 습관, 어린이 영양, 전통 제조 방식 등이 차세대 소비 트렌드로 제시됐다.두...",
-      "origin": "domestic",
-      "id": "de9c8be763",
+      "id": "f8e9aed29a",
       "category": "wellness_trend",
       "matched_keywords": [
-        "단백질"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "K-푸드, 세계 바이어 관심 집중…‘SIAL Paris 2026’서 단연 백미",
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201449",
-      "source": "식품음료신문",
-      "published_date": "2026-10-23",
-      "summary": "전 세계 관심을 한 몸에 받고 있는 ‘K-푸드’의 위상이 세계식품산업의 중심 파리를 강타했다.농심, 삼립, 삼양식품, 샘표, 빙그레 등 11개사는 17일부터 21일까지 프랑스 파리 노르 빌팽트(Paris Nord Villepinte) 전시장에서 열린 ‘SIAL Paris 2026’에 한국식품산업협회와 ‘K-푸드 선도기업관’으로 참가해 라면·베이커리·장류 등 한국을 대표하는 식품부터 글로벌 소비 트랜드를 반영한 혁신 제품까지...",
-      "origin": "domestic",
-      "id": "85658dee2a",
-      "category": "trade_opportunity",
-      "matched_keywords": [
-        "바이어"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "Wilde bags new funds to fuel protein snacks growth",
-      "url": "https://www.just-food.com/news/wilde-bags-new-funds-to-fuel-protein-snacks-growth/",
-      "source": "just-food",
-      "published_date": "2026-10-23",
-      "summary": "Protein-snacks manufacturer Wilde has secured new investment to fuel the US company's its “next phase of growth”. The post Wilde bags new funds to fuel protein snacks growth appeared first on Just Food .",
-      "origin": "foreign",
-      "id": "4f1bc27ef9",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "protein"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "Nurishment expands protein drink range with Coffee Caramel flavour",
-      "url": "https://www.foodbev.com/post301/nurishment-expands-protein-drink-range-with-coffee-caramel-flavour",
-      "source": "FoodBev Media",
-      "published_date": "2026-10-23",
-      "summary": "Nurishment has expanded its range of nutritionally enriched milk drinks.",
-      "origin": "foreign",
-      "id": "b4c05a749d",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "protein"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "Müller and Myprotein launch 20g high-protein yogurt range",
-      "url": "https://www.foodbev.com/post301/m%C3%BCller-and-myprotein-launch-20g-high-protein-yogurt-range",
-      "source": "FoodBev Media",
-      "published_date": "2026-10-23",
-      "summary": "Müller UK &#38; Ireland and Myprotein have expanded their partnership with the launch of a new range of single-serve high-protein yogurts.",
-      "origin": "foreign",
-      "id": "03b70d417f",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "protein"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "Symrise to debut clinical evidence for acerola beauty ingredient at SupplySide Global",
-      "url": "https://www.nutritioninsight.com/news/symrise-acerowell-acerola-skin-radiance-supplyside-global.html",
-      "source": "Nutrition Insight",
-      "published_date": "2026-10-23",
-      "summary": "Symrise will unveil clinical evidence supporting the skin health claims for its acerola-based beauty ingredient, Acerowell, at SupplySide Global 2026 (Oct 26–30) in Las Vegas, US. Additionally, the company’s Care and Wellness Division will...",
-      "origin": "foreign",
-      "id": "7a163d2955",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "wellness"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "Clasado Biosciences secures ACI Group as UK and Irish distributor for Bimuno GOS prebiotic",
-      "url": "https://www.nutritioninsight.com/news/clasado-biosciences-aci-group-bimuno-gos.html",
-      "source": "Nutrition Insight",
-      "published_date": "2026-10-23",
-      "summary": "Gut health ingredients specialist Clasado Biosciences has selected distributor ACI Group for its Bimuno GOS galactooligosaccharide ingredient across adult nutrition products in the UK and Ireland. The timing of the deal reflects a strong...",
-      "origin": "foreign",
-      "id": "0b44018b80",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "prebiotic",
-        "gut health"
-      ],
-      "keyword_score": 2.0
-    },
-    {
-      "title": "IFF backs probiotic strain quality over CFU counts, taps biomics to predict behavior",
-      "url": "https://www.nutritioninsight.com/news/iff-probiotic-strain-quality-cfu-biomics.html",
-      "source": "Nutrition Insight",
-      "published_date": "2026-10-23",
-      "summary": "Amid a growing demand for probiotics, IFF underscores the importance of improving the inherent quality of strains used in supplements, rather than increasing their colony-forming units (CFU) count. CFUs are used to estimate the number of...",
-      "origin": "foreign",
-      "id": "045a8d881e",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "probiotic"
-      ],
-      "keyword_score": 1.0
-    },
-    {
-      "title": "Ferrero commits to high protein: Why is the confectionery giant investing in functional health?",
-      "url": "https://www.foodnavigator.com/Article/2026/10/22/ferrero-why-its-embracing-high-protein/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "source": "FoodNavigator",
-      "published_date": "2026-10-23",
-      "summary": "Ferrero is embracing high protein. It is not the only confectionery company doing this, but its strategy is slightly different from its competitors.",
-      "origin": "foreign",
-      "id": "aa0003ab94",
-      "category": "wellness_trend",
-      "matched_keywords": [
-        "protein"
+        "plant-based"
       ],
       "keyword_score": 1.0
     }
