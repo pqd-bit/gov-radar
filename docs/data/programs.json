@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T00:50:36.212611Z",
-  "count": 251,
+  "generated_at": "2026-10-29T01:26:05.635301Z",
+  "count": 271,
   "items": [
     {
       "id": "dfe53268a8",
@@ -39,18 +39,6 @@
       "stage": null
     },
     {
-      "id": "1c186041e1",
-      "source": "SBA(서울경제진흥원)",
-      "title": "DB × 서울 스타트업 오픈이노베이션 프로그램 참가기업 모집안내",
-      "org": "SBA(서울경제진흥원)",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2024-02-29",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55VXpQOV9hS25yaERHYW9lbVA4dE51QS0tM01pLXE5NjZDR1U5VUxWVnc0ZkpYUEJfd3VVdFRCV1d3c1BMeUR5OFpjcFJxWDdrcldnWjZpREUtWTR3SkE1SmRqM0k5YXRIVTdsaA?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
       "id": "45c823f565",
       "source": "서울창업허브",
       "title": "지원사업 신청",
@@ -59,6 +47,18 @@
       "start_date": null,
       "end_date": "2024-03-03",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EbVB1SEh2elZqQVVmaUlGZThfRUZiVmxEZkYycnJ2aVVXQldmOHlZbl9uRGZvNWEwR3ZITnNBajRFRktKaXlpemhoTQ?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "b7b9b5500b",
+      "source": "SBA(서울경제진흥원)",
+      "title": "마곡의료아카데미(7월) 교육 참여기업 모집 공고",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2024-06-20",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TRUpxT014X2pLY2lleXQ0VjNmaGszbUhVNmVWZWQ5aFBaVVZFNm1wbGVOQ29YNFBCOGpsUTN6SlZqeEhWdlpjVkVxSmF0ZkRQTFpEc0RocFpyQmpYc1RFWEtsSTRYVzBYTjQ4?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -75,18 +75,6 @@
       "stage": null
     },
     {
-      "id": "c73548a1fa",
-      "source": "서울창업허브",
-      "title": "2025년 서울창업허브 공덕 상반기 입주기업 모집공고",
-      "org": "서울창업허브",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2025-04-30",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNX1J1VjR0VlpGM0ZYSjd2cFhUeGlqa05Qa1FBLVdBVWlYQzJxanJMR25KamhGNWtpTGo2MGZfeDdzWXZPOUVQRFhjdU5COUZERVp4MjFpOWw5RU1yUGtyRUs5ckpWODIxdlU3RTM4ellNRW9GcllUOWVLcDNvd0NTZHREZ2p3VFJGUkxFZUxvX1hCcDRrUVpGc0E0WlgteUZBTF9PTjA2YjZHbEVGdkxmLUxQeGozMmJOaW8yQkNuRkdaVDF2MXJRc1pMemt0RldTQmNVQ1hvRXdEc1ZRdkNIdjE0blVFOWJlZEs5cG9yUXZoUnV0MUt4WTRObXlha05xRWVwLTNlRW03UVFoU0FfazRGZUNlLWhvVFQ1RHFoaEpSZ3NPTmZZRWI1WE80dk52RXhMY3pqTm9ENDRJdXM5V21kNElfQ2RKckFSblNFZHZuOFJIUlowa0MzOEc2dzVIR04wUkY4eEdRYTc2dGlxbnh1bjd2eVFqbVlRQkZLenRMdDNxRTQwV3lWOVlEOEg1dy0wUExSMHVGbDg2TXE0T1pRek9kX2tBOHdFZm11UW5aWmF3SnVxdTQxNXlEQkd6R0l2NXU3c0I1UWc?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
       "id": "2022db166f",
       "source": "서울창업허브",
       "title": "2025년 서울창업센터 동작 입주기업 모집 공고",
@@ -96,6 +84,18 @@
       "end_date": "2025-08-08",
       "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPZk13ZDB6RWU1dXhZUi1fLWNGejhxNnpoejZQb2s3dGtyR1Vnc2xiWnBpUFdDWFVYVGFNRHNzMncxYVZEdXYyX1ExNE9KOVBtWGpYQ1Fkd3ZlMGtJVkYyRTFtYUxzLS1uNm1EdU9FZWZTRWFiY3J2c0J6NWF5YU83UjlILXUyWGFlV0hxdmRpQnhNWEFYMXhiSXljanRDU0NEX2dBcFdZRElOOTE2MmlFUzA3bzY0bHZIUUgyU3BmVDVBVVRhc0t5WER3bnNvVTJpY20tZE45VE9vWnlpRHR5YnpvbW16QWFMLWFiSHJXdjZ0UVdxLTV1aGJkdTVhbm00dEJHYVBKUzNqWjdUNGdDN1dieFhRSUFHTC1KUHEyM3NtQXdhdERPeENvSXdqdDJNTnlZUGhyWTAzTmU4STFrUGttVUstSlRHd3o3MEczN1pRUzBrckV0NnJ5SThXbmw1Q05aWnZOeTVDdFJ4dFltaC0xenlHOFVyRHpYdFpjYjhQREhnTThSMjgtMUVHbElzaHc?oc=5",
       "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "a7dfab1575",
+      "source": "SBA(서울경제진흥원)",
+      "title": "2025년 일본 웰시아 리테일 채널 수출상담회 참여기업 추가모집",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2025-08-12",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EaXd1bTBIX19ZczE5QXRlaFdnSHltQjF1NlEyT0xmeTFjbVpHQmU5TWpUOVBLNUNDWTlEM1o1aGtUX0VHNE9BN1NRekNlY2pmNnZvZWpHLVFJc1Ata3piYlRPc21mY0c3cDFj?oc=5",
+      "is_priority": true,
       "stage": null
     },
     {
@@ -159,26 +159,14 @@
       "stage": null
     },
     {
-      "id": "8a43f8cb73",
-      "source": "서울창업허브",
-      "title": "『Slush 2026 참가 지원사업』 모집 공고",
-      "org": "서울창업허브",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQam5INU10ZC1MT2RaMTNhbFRfZGc1bGswc0RuR05yYXBPdlR6VUQ3STNud0IzbmU2MktMcnJKeDdqX3VZSjBtZlJuc0NSVndDOXQ3WmpRVW16U1RDM29nOXJEajdVSFc4QWdNdW9FWThlTnpYVFp2VXdVY19LcG1FRWNCbDNwbkNJQzB6RnlsN0YzaTViOEp4MHphWDNvMnJRVVQ3VmpTSXV1MGJ4WF9DNk9KTW9jZnVVVWdjaTFlbEdZOU9wVDJmLXZneTN5VEQ5bkxyb3NCbDJzdFpHd1lPa09xemltSTRhSlRPLUpoZmNpZXVpTTBWa0w5Uk0tY1BlZlJpZzFpMnJvQ3Izb2hVcTh4Y2ItSHRLbHNNUzdxSTZVRHFqcEQxY0pBaTQ?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "6ec4d8f8db",
+      "id": "e9f27aebf5",
       "source": "SBA(서울경제진흥원)",
-      "title": "2026년 하반기 B the B 뷰티테크·디바이스 테스트베드 지원기업 모집",
+      "title": "사업공고/신청",
       "org": "SBA(서울경제진흥원)",
       "region": "서울",
       "start_date": null,
-      "end_date": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZV82RmdJQW43N0p4YWVheEw5M3FxOUFTeGdqV3dCNXNLYk05UjNiU2hRX0FXenhGZlFEQzB3LVhLMks4Q0ZHQVQ3VXZvLUJudURXeDVWM0V2SFlVUHF6OWQ2V1JMc1l3MkpVOVJIVS1zS2FEZm10T01YZlpzWFM4eXpIcHBwcGVCNm96cGNkLXdIODFyaWpHZDQzY0NRTFRydXV5dlR4UnI2LWlFRS1tZ2hB?oc=5",
+      "end_date": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNejhOYnBLeVhJVFk4R1BzZUZjeHczemVIWGNfcHFxalBjdEVqVE1hblJKOXJ5dHkxb05fX0lPOVdCX3RNUUpUZDF4Q2JpVEM1cURGWWtESEFzZS16WTRiYUkzTEx1UXp2bHlzQ0twQUhYZENQZUFVNVV6dm1fcldJN1h3b09KeEhsdlpmQThOVENlUThzbUhOLTg2S3EyR2RtRFUtMVlsQQ?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -191,18 +179,6 @@
       "start_date": null,
       "end_date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLeDJRR01meTVXX3lLaUpsSW5LVGhSN3lFcGdHalJMSEc4OFdYb2d2Z2dNQV9MYXRYWVNTS0c2ZjhOSWRZY2dGZ0JIRkc0N1dYYTRHWDhVOUt2RlpJSDJfU0hGbTVPNlo0bDBJ?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "d5a2454278",
-      "source": "SBA(서울경제진흥원)",
-      "title": "사업공고/신청",
-      "org": "SBA(서울경제진흥원)",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1QwRkFCcnhhYllrVU5KRjFFcnZMNkJpT0lCcFI1R19qXzBLOTZlRjl2aWdaenFCaldYNHo0Q0xQRXg4dk5CRzBCTFZSSmJSaTZ6Um9BaTRfdWNIenNyZFItM0xEVUE3QVMxaGR4N0EwTzhza21sX1RnSy1Na3JGX2dxUHpPNm1NNUFYLWQxREdoaWVQUmVQQzI1WkUzaVFGMGFsTzltcw?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -231,18 +207,6 @@
       "stage": null
     },
     {
-      "id": "67da14fce4",
-      "source": "SBA(서울경제진흥원)",
-      "title": "웹서밋(Web Summit 2026) 참여기업 모집",
-      "org": "SBA(서울경제진흥원)",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRW95WmVSbFMzYzdjVzVvVGZoTDU2bm9GYXUwbnFLT3diMkFLcXBkbzB5aUhjbHRVRTNZR2NLVGJhSGVVdnVkbFJuQ1FydHZTWENVNXVNRlE0OG4yRlpIQjFEbWY2R29Fa2tXNTExbHo5eUNXQ295WVNzQ3F4OExYcW02d2prbGs0WGsxME02OWdVYi10Q29OaG1ZN0lCaXFwWGxraWJTbU5Kajlxc3JaSHhB?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
       "id": "070c6e4f40",
       "source": "SBA(서울경제진흥원)",
       "title": "사업공고/신청",
@@ -250,20 +214,140 @@
       "region": "서울",
       "start_date": null,
       "end_date": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfT3ZUbW52S3pJcnhvODhBSVBTZ3pmRmNvWXZSVF9qQ21KTGdYMlVfZzJhOHNldU8wQWJJYkd2bzVtTXBGMEF1MWJfMHBVdzIwMnJ5azFkb2hrV1R3aGhTaGtZNHp0UnAyNVpqMnFYNXBfV2pr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNm1qenNraVhpc3FhTXVkeGFtWWZIVWRlempyN2tnWF81UW9zUm11cjV2ZWdMc2ltT0I3YnhtZUhlS2hOWkFUbVo4THp6N2J1eTlyMVppeVdzTGpRR0RUOWNfZDhrMjNtb2FQci1HaEdoT0tFREFNZmdMaUIzdk1RN3VPWW1Kams1UlJUVU52aldaaGdiWFNJTlVvT2xyQTFXM19wY2YyVWo2THRa?oc=5",
       "is_priority": false,
       "stage": null
     },
     {
-      "id": "e14120d7e4",
+      "id": "79890c90df",
       "source": "SBA(서울경제진흥원)",
-      "title": "2026년 중동상황 대응 「수출위기 극복 물류지원금」 지원사업 모집",
+      "title": "「2025 서울AI로봇쇼」전시 부스 참여기업 모집",
       "org": "SBA(서울경제진흥원)",
       "region": "서울",
       "start_date": null,
-      "end_date": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWNhTDc4bnZkTkxJWWRUQmlfbU1wTlY4T0thQV9nQm1RVm5MN3QtMGFEZmNITUhjZ3ZTb3ViVjRGR21JUnlfTk1sR3NmN3F3Z1FtNWVUWEE4RVJLNF9lN3ZMZ2xETXdPeGtWTU1KdG9KTlowWGtQYm5oeUcwdUJqYmUzX1FhM1VqOWxIREltc003d1AwRGl4R2pRakN6eXhGTU9WYWJLQl9pWjJJVnV5d1B3?oc=5",
+      "end_date": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4VWFmMW5PTDF4dGtjS2xid1Fvc2NHZ1EzOHF1dXBxc2VKYTdSSnFQLVJOOTJyekhNelQ4RUw4Q1hja2hmUHZRWkhyZ2hPMDRQM0MxaGRSVnJva1B4SzhqeFJXSF9uUmE0NHdDSA?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "abd559e84d",
+      "source": "SBA(서울경제진흥원)",
+      "title": "2026 DDP쇼룸 패션 라이브커머스 참여기업 상시 모집",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWnJKbHdhWlJmb2VSWWNNMzNnTWhzdGUtSTNLZXVBT0l1ZUc5Ym9JdGs2bEkySTRHWnA2UWxhMy1BVnQ0MmRTUEk1SC1ybG5vWVdHZmtuaXloYnpmZXJ0YUhtRV8yRlpCdzBibnBZc01QYWxqTXQ3Mlk4bTUwSFlSalFtZ2g0NGlQQ1VIdVdYSVk1MlNZYUlUZ2NhbkdudG9qQk94YzVBS3p4MkZZT3VMemF3?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "58d667aaa6",
+      "source": "SBA(서울경제진흥원)",
+      "title": "사업공고/신청",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVJtNEdxOVNOZUxqcGNkRldSdmwtT0pHY0IzQkEwUkpKeFQxTzZYWExCY3hnTFlqQ2FoMldQTkFmZGZwamRUVnBCenZYM0ZiZ3NVZmtIbE1qNmFydzc4bUlaYW5pRXJNOGZBN0NILTkzLTFZUjNjWlNCRFN2SlF3SXgyd0VjaVJ2MWtoOE56TVM3b2dnd1NpUXVSaU1CYWh6ZEdKQ2NoS3EwenFu?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "c57574bcf2",
+      "source": "SBA(서울경제진흥원)",
+      "title": "2026년 수출유망기업 육성지원사업 모집 공고(수출초보기업)",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWWFWcWwwUVBseEJrWnlia1gwWmxsdmRaeDVySnBvblkyQmFqVHRqTk9WTTYxOHlMa2lNYUl6MzNOWEg1Sl9ucmVhVENfNnFaMjdTZFAzRDJFMUN2SEhNbmk0eXF3cWFNdXJGN243Z0c2UG1mUHZKeG1jXzZXNHRUbEx0eVFFWmtsM1FWaDJoLXlmU0J0cmxQYmJ3MGtiWUxGQzNic3U2VmlFMWxlQ3Z2Wmd3?oc=5",
       "is_priority": true,
+      "stage": null
+    },
+    {
+      "id": "913c7cc196",
+      "source": "SBA(서울경제진흥원)",
+      "title": "사업공고/신청",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yek1CMWY4QzltbWwzWmtUelM0aDI2a3pGOWZGSk9ST0lIQ2FiTjg1RTFFUU05aU55Y1ZLZEtDOUYwS3lxUFUzNU9lNElVbXAyNmxVMlh3S1NwakVKMWJjRVNJdV8xcWtQcHRZQTg4WGtWVkdV?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "9458af9dfb",
+      "source": "SBA(서울경제진흥원)",
+      "title": "사업공고/신청",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMEFFWElOdGdJdnA3NzF3RW9paXVMbV9qZHNmWkpLaU0weXZhZG5aNW1IaGlnZ21ObDRBVEVKZlp5VDc0OUxTNVc3TVR2Q3hrZ0lSNVhDS2xDS3lHLV9wbk5pX2FzWTc0VmtvZzBvN2RmV2dLYnJidHFJVVRFNGlfTGdpSEVWTER0blFzNGVlQjdnRV9XbXludDI3Q3hCV2tIOWhLZVFJa1BtRDZo?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "0857d0ef1a",
+      "source": "SBA(서울경제진흥원)",
+      "title": "2026 1회 'SBA 크리에이티브포스' 모집(~6/29)",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXZmZ0J1eVVNNGM5aU9OVHIwQ3ZRNEtUeXJiazNnODhMMW0tbzR5a3hpM3AzRnJmVFpCMTZEMnhyeUd4VmhjTUtUOTJobDFHdThhUWFmcWlKQi15MnlXTlZ6NHJORHFaUnhFUWdLdjBtNnhJT1J4RDdhanlhWWJSLWdVWWtVSjBYVlBQTkRNRHN3T1lLUnVSNURaS01malIxZEFPTjZPSG0yQUlDQ0k5LXd3?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "a59d78c9a3",
+      "source": "SBA(서울경제진흥원)",
+      "title": "해외바이어 초청 '글로벌 비즈니스 상담회 2026' 참가기업 모집(*연장공고)",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHJFRmJrTW1lRDNtVUVqU3RfMW5JMGZFeG1zcm5HNXJmOXhhTjBaUkpIVTAzVG9ncTctd3hCUVNBOW9MVXJjODRvVjlFLWVDaWNxUnQtVFlicFdvVC1ZT2tXZ3R2UVZVdGJVNnVIMHpjWGxiRWZMNXBGVVRQcVQtTzV2Mjg4S1hnUVRlUWh5aUJfUjNrNElMUUluRHJpWHBqNHA5RE5JbG9SUVRrODBjSU5B?oc=5",
+      "is_priority": true,
+      "stage": null
+    },
+    {
+      "id": "9bd62ba5af",
+      "source": "SBA(서울경제진흥원)",
+      "title": "한국산업지능화협회 창업보육센터 입주기업 모집",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-23",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOay0ybWJBUV9LVWFZMzJRdzdlSHBFVWppQ2FuZWR0Qi1kT2pSMkd5WnJ3TG5hSDRFcEhaSWE4T1J4TXFDel9PRV9udVZxYVpfbnpsMlk5V0YtVzF5YnRCaEdFSVpSNEZ5TGtjN0trQllzR1BLcy1XZUFCb0hPbVBJaG1YRkp2M18zblM0Sks0OEpMcjBoZWdyR21ieDJDWWlZZ1V2ZXBpVXdQamh1eG5kREFB?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "884ceae4f7",
+      "source": "SBA(서울경제진흥원)",
+      "title": "2026년 SBA 글로벌 펀드 출자사업 공고",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWDgyX1BJM204NkxtQnVrUFA1ZUkzbGNtajNZT0VVSTUxU19yMVlkRFItanQ3dHk4MHJJeWNyU2t0aXNkUmt4SFNJLXFfaDVKSDJXa0t5bEJ6SXk5ZWhhWl84NU9FMXFaZmdvMFktcmM1alU2aWh0UXBhaVJrY0VWZlhKczVqWW55RWs2RTVaeUlqYWtOOTAxN0syekRWRUhYZHpSVlBLbzh6clRyV0prTlVB?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "5253d6da8f",
+      "source": "SBA(서울경제진흥원)",
+      "title": "사업공고/신청",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdGpYNUVpMnQyeHh1RjRnM1U3cG1tS0F1eGhwMEVsQzZ5YndmVTAweWpndnZBRjlWRHZBN2RXWkNZMUxLX2JXRk50OXZ0eWZKQXBsMldPR2RBaVNPUWk2c2JRamc1MmFqdWJSNkRmMVhScVdFSDNtU3kyVjV1cXduUXNUWXhjY29JbVFEMFhSTnZ3ZDdQVGNrNmdLZU1obS1TV3BzTmIxUEp0YWVX?oc=5",
+      "is_priority": false,
       "stage": null
     },
     {
@@ -315,6 +399,54 @@
       "stage": null
     },
     {
+      "id": "0d0ba1d1c6",
+      "source": "SBA(서울경제진흥원)",
+      "title": "사업공고/신청",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-08-31",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90OXd3U3dEVlJLaThieVhaZWRONU0yZzl4ODlkN05nemw3ajI4YmhiSENoUlJYUXJqaGF2eU51WDFrQmxyZm5OaGVZblFqazkxYW9TUGVfaWxIZk1JZlZ1QU90Tk9wRFZDVS1HMXlSSGpWdnQ0?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "b2818198a2",
+      "source": "SBA(서울경제진흥원)",
+      "title": "2025 베트남 호치민 GS25 팝업매장 입점기업 모집공고",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-09-02",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTM5NDQtczBESWxFc21uVEcwZzk4WG1uODRXckJ0X25UNDFlems3ZTZSNVdfbThndUZiTGZSTXgyS3BYUVZsOUtDOVRJczNrQ0NneXAyRExvT3RSQ0RwMWw1NERwelFySE54VU5TU3J5MERLNkFRSUNBdzl5WnN6b2FGbGszVVQxT2h2T2JOMk01SUZwZmUxOV9Obi1QX2UtUG1sdDNZcGMwcTllcFdkcjZ3?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "3b8e7b46dd",
+      "source": "SBA(서울경제진흥원)",
+      "title": "사업공고/신청",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-09-02",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUFsRzlXTVpnRlZmWFBPZDFWNlVwbE0yMVhNMzIycmZLOGJqYWR6c1FwaEkzR2ktM2hmNi1ONXFneTVhOVNCcklobloxRGhVM2hwM1hLMXhYNW92bW1jUVNPMUtRLUpLSHRvNUdDVHhBTEh4czNsTVItR1h5UjFFUDdpZnZqRXNRcGZBM3Ywbl9lU2EtWWFfc0xnaS02djJxOHdFNWwyUnN4QVRy?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "79a31e5880",
+      "source": "SBA(서울경제진흥원)",
+      "title": "2026년 제1회 ‘SBA 크리에이티브포스’ 모집 안내",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-09-03",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uNVZnUE56NXU0MXpKTVJuT25LMGluTDFsb19ETjAtcG1oSFVaN0wwc1Zoa3lsQTdXNklxN3ZLU3VWWWxrWVVkaHZPS0VIZnpvQW9oSGZrc1NjRldpSnVJeFJVVjBwNEgtb3Br?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
       "id": "c90d12c625",
       "source": "SBA(서울경제진흥원)",
       "title": "사업공고/신청",
@@ -339,6 +471,54 @@
       "stage": null
     },
     {
+      "id": "0a0b1faf93",
+      "source": "SBA(서울경제진흥원)",
+      "title": "2025년 제2회 ‘SBA 크리에이티브포스’ 모집 안내",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-09-06",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sOUthVWVBTlZXcExxMTVFOUp3Y25XVE12QkhWcUk5Zi1mdEs1Q0tNN1ZnNUQyTTRuTnFyRlFNSGhaUTlLMGVLZ2xLOEdaNzVhb1lnSlBFNmR1bkR2OWhkMm00VFBNWmhSOXBGSg?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "8d41800e1f",
+      "source": "SBA(서울경제진흥원)",
+      "title": "「2025년 B the B 뷰티기업 전시팝업 지원사업」 사업비 집행 및 정산 안내",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-09-06",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SRDRVNF9zVmM0RFJzRGU0Zlg0V3UxVVh5dVlKLWsydk5Xb2FTUGdhYlJCNnBsby1MT1RTVVdnaEZUMXZGS0tOaUNQSDlTWlN2Y0JEaEtBNUZoSmVZNFd1SG05WGJ4QnF2d0FLNA?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "ab102322c5",
+      "source": "SBA(서울경제진흥원)",
+      "title": "2026년 특허출원·등록 비용 바우처 지원사업 12차(하반기 5차) 시행계획 공고",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-09-08",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWS04dGc2b2RHanl6eXRmd2NWdXN4WC1ZQ2ZsXzU5d1pOdXFDbUY0dVhfbDhvUi1VdWFDZkNhUGRMMm00S0diTVcyZmVhcURDdHpTWVhudi0wZ3FZZV9LcmVBTHpTRUNXX29nUV85QW5kekhuekJLSzdGZVNjU05GWFJhcUphcGRqMFZaS0RXT3o2S1hrY0FPN2FhamtiamppOWZERjdFMFJqSUFRYnpCa0xn?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "66eba2b5b6",
+      "source": "SBA(서울경제진흥원)",
+      "title": "사업공고/신청",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-09-09",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejllVDF6NVNIampyMFhMVDNsTHpqeW9rZTVNUzBiMlhDWVI0Z0RLR0JhUmRfeGhjLWd0R1h2N2RkdFN6NzdEQ0VZS0JfS2w3QnhzWEZpaHo0WWVqOU05cFhITE9WYUgzU1BjNXpHMUwtUW9uYU5CMEpDUEVlTlJYT0w1Q01pd0lLcVducUxBZDhTVXI0c1VvYUFZc0RPQWtXSGludWpSV2FnMThM?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
       "id": "d81199bd2a",
       "source": "SBA(서울경제진흥원)",
       "title": "2026년 뷰티 크리에이티브포스 모집공고",
@@ -347,18 +527,6 @@
       "start_date": null,
       "end_date": "2026-09-11",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jZ1FtV0EzaVROUkdFNFdZeTRuUGxldzUxa2RhS2NMOVZDUHJ1VmRoalh4cUV2SFVJVE4yYXE2N2JMS1BHTmU1SlNRTkQySmdQdExuRTFoT1pYeEh6RUpTSXQ2MnVoNkxSMF9n?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "8f4d24200c",
-      "source": "SBA(서울경제진흥원)",
-      "title": "사업공고/신청",
-      "org": "SBA(서울경제진흥원)",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2026-09-11",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQXzROQjRrQi1mNFVZRnlvZ0I4Z3FuUVRVejFYUVg1dUFFS1RJYm1ySE8wYXRZQnF0bjQ0b0RuV2o2X2lCZ0FhTkZiLU5tZ0drUkdPNDRkYzBFWkdLX0N6aHJwZ2xOUHUxRXhCS0NzbDFlVkVPV2xwVFd4OXI0X0JCVjdCR3B5UWZqWGtrZXp3Mm9jdHFGOUJFOXdITzZ4WHhIa0VpWkM5bw?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -423,6 +591,30 @@
       "stage": null
     },
     {
+      "id": "a15fe2c973",
+      "source": "SBA(서울경제진흥원)",
+      "title": "사업공고/신청",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-09-18",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUZwVDJMR0pVMVowVlFXSU5KbTNlUGR6NlctZDhUeUUzcXJrUUhYNEtsSUVwZXYyY0k1em1BcHZiamVEV054Vy1DYUdsSjNXbmM2b01jOUJmUWttd01vdWlFeGNqR2ZKZDdJS3lIdHBSU3RsbEt3eXNIdk9XWUM3TTdKaDV1QW5ZOG5oR2gtQnZlMEEzZ0RTNGlyWnpQR2lDZ2haUUo3N2ZPbHZj?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "bb18b37883",
+      "source": "SBA(서울경제진흥원)",
+      "title": "2026년도 상반기 서울테마 AI 숏폼 영상 시리즈 제작지원 사업 공고 (연장)",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-09-20",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VOGtQM0x2RzZIQ0tUTXZHZXZoMzkycW9jWXV4RVJYY3k0UjR0M3NGYWVzaVlWQUVGNG10ZVpySXNqeUlxYWNwbWlKZ2NnTHE3SmRQLVJKWlc0dGtpRW05UzNBZ1JJMi0weDg0?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
       "id": "02807c9162",
       "source": "SBA(서울경제진흥원)",
       "title": "「2026년 SBA × 굿윌스토어 굿파트너스」 참여기업 3차 모집 공고(~11/30)",
@@ -435,18 +627,6 @@
       "stage": null
     },
     {
-      "id": "d4450d5e51",
-      "source": "SBA(서울경제진흥원)",
-      "title": "2026년 청년취업사관학교 하반기 교육파트너 통합 모집 선정결과 안내",
-      "org": "SBA(서울경제진흥원)",
-      "region": "서울",
-      "start_date": null,
-      "end_date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FZTY5eGVUZFJ3bFRLOGoxVFdlblZHUUQyb3N5dWVtWUlYRktwODdSYjh5QV9JVDFFYUtYdHFtZ2R3M21aOEI4UEw3S2hQUkZKclBjQThDN1U2S3hYMFhhNVlST3BYM2VyZ2owNQ?oc=5",
-      "is_priority": false,
-      "stage": null
-    },
-    {
       "id": "9d63c8bdb1",
       "source": "SBA(서울경제진흥원)",
       "title": "[모집공고문] 2026년 허브 그라운드 CEO 프로그램.hwp",
@@ -455,6 +635,18 @@
       "start_date": null,
       "end_date": "2026-09-28",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5RXoyWVM2MENKYlRXMTAzNGp1MEVfVUk2OXh3ejVjVGhQeWVmbi1hclRVMU83RWNUUXBpbjlic0lqWW5mOFpoei0tVHhodnM1aEdod2VyczVWc2s4SjcwRUU1ZXM0d1lCdElqSw?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "b40686f4a7",
+      "source": "SBA(서울경제진흥원)",
+      "title": "「SBA·LG전자·중소기업이 함께하는 일회용품 저감 ESG 캠페인」참여기업 모집 공고",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-10-01",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UUngtdEM5R1VJZ2JLNzZzWXg4QjluUjVjRGZmelhHVlpJbE1obUpQYVRLRmJrNzlFZXFxdkxQVTRLLV9vUE0wUHJnSE4wVVVGeWtTRTZzTzhvMXlFQV9JLUdWeUFwc3JGUjVwNQ?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -531,6 +723,18 @@
       "stage": null
     },
     {
+      "id": "3b72719862",
+      "source": "SBA(서울경제진흥원)",
+      "title": "2026년 하이서울기업 B2B 비즈니스서비스(전문분야_AX,DX) 수행기업 모집",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16b2NlWWNmcmpfWDMxdU9FelJCWmdwN2Y1RGJIa1hsV3ZNNWk1WFBZdWRoLUs4eTdLTXllU3RFdlJoSkdyNER1Ym53WmI2TE9fSGUtRklBaHlOOE1FYmhYS2U1ZWhSRml0Wkpxdw?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
       "id": "2946e31e57",
       "source": "K-Startup",
       "title": "2026 Invest Seoul Partners Night",
@@ -579,6 +783,18 @@
       "stage": null
     },
     {
+      "id": "8200d1534c",
+      "source": "SBA(서울경제진흥원)",
+      "title": "사업공고/신청",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWZOWk95OEVFRnNSbVpJVkxiX1BXUVRJdUNCc3ZySzROSEtSWW9ybWFqeXdUdjdYbVlLMmx1ODFDWmFCOGMtMGIxci01Ql9tbC11bzM3enZlQ1V4bU9UekxvcUNaaXBodW81WkIwT3QwYTNiT3FwV1lKVlYwSFkyM3JCV1hOYkotMl83Z3kzWmtRN0p6emZrRTZ4QS12a1FQRUlRTXV1UQ?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
       "id": "afad0e32e3",
       "source": "K-Startup",
       "title": "충북테크노파크 차세대에너지 스타트업 DEMO DAY",
@@ -623,30 +839,6 @@
       "start_date": "2026-10-13",
       "end_date": "2026-10-22",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179504",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "c0c5095c57",
-      "source": "K-Startup",
-      "title": "2026 신한퓨처스랩 스타트업 성장 포럼 &apos;인사이트랩(Insight Lab)&apos; 참관 기업 모집",
-      "org": "신한퓨처스랩",
-      "region": "서울",
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-22",
-      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179502",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "b7904a0385",
-      "source": "K-Startup",
-      "title": "[중앙사회서비스원] 2026년 제3회 사회서비스 투자교류회",
-      "org": "중앙사회서비스원",
-      "region": "전국",
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-22",
-      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179501",
       "is_priority": false,
       "stage": null
     },
@@ -719,6 +911,18 @@
       "start_date": null,
       "end_date": "2026-10-23",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01MW5zbGZVN3M0bGtYZkVNTHVBVC1vVk9KWUR0MlpYV3F3ZHF2YWpob1pLcHdjbXdtTUFiVzlrOTBDdWJvWm9SMEZuNjBlT2tCZTdacENTS2ZZUXdKY19nNE9MUVNBWmlKSGFVLQ?oc=5",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "58ce7077eb",
+      "source": "SBA(서울경제진흥원)",
+      "title": "사업공고/신청",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
+      "end_date": "2026-10-23",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV1BYYWFMY2VwRl9sNGRheHl5bnZveFJFM1M1XzZadDFLa3lzZEdTOFVzUW5wODlEbS1PRDh2YmVfZ1h6RGg4UF9PVE03RjM1MDctbEN3ekRJaW8tQ2JMbkFYVlVfdGc3aHVmUzdIQUhhaEFRRWNnUDNUR1pkY29Pa3RfQVg4ak1KVldoT2lMOENPLWZzYzBHNVp1UjlsQThDYjR5ZXI5MA?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -927,62 +1131,14 @@
       "stage": null
     },
     {
-      "id": "2069ccadeb",
-      "source": "기업마당",
-      "title": "2026년 11차 미래환경산업육성융자(온실가스배출저감설비자금) 지원사업 공고",
-      "org": "기후에너지환경부",
-      "region": "전국",
-      "start_date": "2026-10-28",
+      "id": "319c6b4ce4",
+      "source": "SBA(서울경제진흥원)",
+      "title": "사업공고/신청",
+      "org": "SBA(서울경제진흥원)",
+      "region": "서울",
+      "start_date": null,
       "end_date": "2026-10-28",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127486",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "f543ef3cee",
-      "source": "기업마당",
-      "title": "[충남] 서천군 2026년 사회적기업 시설장비 지원사업 공고",
-      "org": "충청남도",
-      "region": "전국",
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-28",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127464",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "a4e2e10aa6",
-      "source": "기업마당",
-      "title": "[부산] 2026년 태국 식품 무역사절단(SEOUL FOOD in Bangkok 연계) 참여기업 모집 공고",
-      "org": "산업통상부",
-      "region": "전국",
-      "start_date": "2026-10-21",
-      "end_date": "2026-10-28",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127419",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "c39a8ef658",
-      "source": "기업마당",
-      "title": "[경기] 화성시 2026년 제4회 중소기업대상 추가모집 공고",
-      "org": "경기도",
-      "region": "전국",
-      "start_date": "2026-10-21",
-      "end_date": "2026-10-28",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127409",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "64c4721042",
-      "source": "기업마당",
-      "title": "[울산] 2026년 중국 소비재 온라인 무역사절단 모집 공고",
-      "org": "울산광역시",
-      "region": "전국",
-      "start_date": "2026-10-21",
-      "end_date": "2026-10-28",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127408",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQal84RlhtY19zdjhGTlVXOEw5TDhJaG44WUtEcGdqel9mWTNyVGpfUVdyVTNiWGZvaWlIbURmcHlrZVVPdy1BY0I5c2hvQ3BNTEwtQl9Oa3IxRjJBRERMeEpaS0E1T2s4WWtObXdJUmM0bTJGLVF5U1JGLWxBWmxSR0QxZ1Q1UHBHVENoSWpORDl4ODd3WXBXTGZGUWdsdlFGeW5aT3R4OA?oc=5",
       "is_priority": false,
       "stage": null
     },
@@ -1095,18 +1251,6 @@
       "stage": null
     },
     {
-      "id": "c18a39b7e3",
-      "source": "기업마당",
-      "title": "2026년 에너지공기업 기술나눔 연장 공고",
-      "org": "산업통상부",
-      "region": "전국",
-      "start_date": "2026-09-07",
-      "end_date": "2026-10-29",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127420",
-      "is_priority": false,
-      "stage": null
-    },
-    {
       "id": "c45657151f",
       "source": "K-Startup",
       "title": "성남 중장년 기술창업센터 입주기업 모집 공고",
@@ -1131,14 +1275,14 @@
       "stage": null
     },
     {
-      "id": "0d95f76fed",
-      "source": "K-Startup",
-      "title": "2026년 전남광주 제3기「지역자원 연계 청년창업 지원사업」 모집 공고",
-      "org": "전남정보문화산업진흥원",
-      "region": "전남광주",
-      "start_date": "2026-10-13",
+      "id": "9f10799020",
+      "source": "기업마당",
+      "title": "[전남광주] 2026년 전남 사회연대경제 수도권 직거래 장터 동행마켓 참여기업 모집 공고",
+      "org": "전남광주통합특별시",
+      "region": "전국",
+      "start_date": "2026-10-26",
       "end_date": "2026-10-30",
-      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179500",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127510",
       "is_priority": false,
       "stage": null
     },
@@ -1311,18 +1455,6 @@
       "stage": null
     },
     {
-      "id": "43c697a956",
-      "source": "기업마당",
-      "title": "중국 국제자원순환대회ㆍ전시회 참가 모집 공고",
-      "org": "기후에너지환경부",
-      "region": "전국",
-      "start_date": "2026-10-21",
-      "end_date": "2026-10-30",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127407",
-      "is_priority": false,
-      "stage": null
-    },
-    {
       "id": "952d8f5d80",
       "source": "K-Startup",
       "title": "26년 10월 스타트업 언론 홍보 지원사업 참가사 모집 공고(2차)",
@@ -1379,6 +1511,18 @@
       "start_date": "2026-10-19",
       "end_date": "2026-11-01",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179567",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "b115d11bfa",
+      "source": "기업마당",
+      "title": "[전남광주] 고흥군 2027년 모범업소 지정 신청 공고",
+      "org": "전남광주통합특별시",
+      "region": "전국",
+      "start_date": "2026-10-23",
+      "end_date": "2026-11-01",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127531",
       "is_priority": false,
       "stage": null
     },
@@ -1467,6 +1611,30 @@
       "stage": null
     },
     {
+      "id": "d8d4dfe317",
+      "source": "기업마당",
+      "title": "[제주] 2026년 4극3특 제주특별자치도 과학기술혁신지원사업 연구단 모집 연장 공고",
+      "org": "과학기술정보통신부",
+      "region": "전국",
+      "start_date": "2026-09-11",
+      "end_date": "2026-11-02",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127518",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "bec5c9c479",
+      "source": "기업마당",
+      "title": "2026년 산업기술 정책금융 지원 유공자 포상 신청 연장 공고",
+      "org": "산업통상부",
+      "region": "전국",
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-02",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127509",
+      "is_priority": false,
+      "stage": null
+    },
+    {
       "id": "5f8541751e",
       "source": "기업마당",
       "title": "[경북] 2026년 영천시 북안면 상리 돌봄마을 돌봄ㆍ경제 프로그램 실증 지원사업 참여기업(경상북도 사회연대경제기업) 모집공고(영천시 자립형 공동체 돌봄마을 조성사업)",
@@ -1475,30 +1643,6 @@
       "start_date": "2026-10-26",
       "end_date": "2026-11-02",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127491",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "52aa8936da",
-      "source": "기업마당",
-      "title": "[대전ㆍ세종] 2026년 수출물류 효율화 클리닉 참여기업 모집 공고",
-      "org": "중소벤처기업부",
-      "region": "전국",
-      "start_date": "2026-10-22",
-      "end_date": "2026-11-02",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127416",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "43a36056f5",
-      "source": "기업마당",
-      "title": "[제주] 2026년 제16회 제주 수출인의 날 포상계획 공고",
-      "org": "제주특별자치도",
-      "region": "전국",
-      "start_date": "2026-10-19",
-      "end_date": "2026-11-02",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127405",
       "is_priority": false,
       "stage": null
     },
@@ -1527,6 +1671,18 @@
       "stage": null
     },
     {
+      "id": "f76ecbece6",
+      "source": "기업마당",
+      "title": "[전남광주] 화순군 2026년 화순여성새로일하기센터 기업 환경 개선 사업 대상기업 모집 공고",
+      "org": "전남광주통합특별시",
+      "region": "전국",
+      "start_date": "2026-10-21",
+      "end_date": "2026-11-03",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127532",
+      "is_priority": false,
+      "stage": null
+    },
+    {
       "id": "dd73be0caa",
       "source": "기업마당",
       "title": "[세종] 2026년 하반기 착한가격업소 지정신청 공고",
@@ -1551,15 +1707,15 @@
       "stage": null
     },
     {
-      "id": "6b8c2a3fa0",
-      "source": "기업마당",
-      "title": "2027년 콘텐츠 아메리카 한국공동관 및 쇼케이스 참가기업 추가모집 공고",
-      "org": "문화체육관광부",
+      "id": "82b622ddad",
+      "source": "K-Startup",
+      "title": "강남구 개포동지역 ㈜오피스허브 1인 창조기업 지원센터 입주기업 모집(1인실)",
+      "org": "㈜오피스허브 1인 창조기업 지원센터",
       "region": "전국",
-      "start_date": "2026-10-22",
-      "end_date": "2026-11-03",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127423",
-      "is_priority": false,
+      "start_date": "2026-10-28",
+      "end_date": "2026-11-04",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179633",
+      "is_priority": true,
       "stage": null
     },
     {
@@ -1595,6 +1751,18 @@
       "start_date": "2026-10-07",
       "end_date": "2026-11-04",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179522",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "0f1ba45eed",
+      "source": "기업마당",
+      "title": "[세종] 2027년 지역서점 인증제 신청 접수 공고",
+      "org": "세종특별자치시",
+      "region": "전국",
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-04",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127522",
       "is_priority": false,
       "stage": null
     },
@@ -1695,27 +1863,15 @@
       "stage": null
     },
     {
-      "id": "1f67fe536b",
-      "source": "기업마당",
-      "title": "[경북] 구미시 2026년 하반기 착한가격업소 신규지정계획 공고",
-      "org": "경상북도",
+      "id": "69fdffe506",
+      "source": "K-Startup",
+      "title": "2026 신한금융희망재단 - 함께일하는재단, 사회연대경제 먹거리 으뜸경연대회 참여기업 모집",
+      "org": "(재)함께일하는재단",
       "region": "전국",
       "start_date": "2026-10-26",
-      "end_date": "2026-11-04",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127401",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "f99237c202",
-      "source": "기업마당",
-      "title": "[경남] 함양군 2026년 소규모 사업장 방지시설 설치(사물인터넷(loT) 측정기기 부착 지원) 지원사업 공고",
-      "org": "경상남도",
-      "region": "전국",
-      "start_date": "2026-10-20",
-      "end_date": "2026-11-04",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127400",
-      "is_priority": false,
+      "end_date": "2026-11-05",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179625",
+      "is_priority": true,
       "stage": null
     },
     {
@@ -1743,26 +1899,14 @@
       "stage": null
     },
     {
-      "id": "5b991ab736",
-      "source": "K-Startup",
-      "title": "2026년 서초창업스테이션 프리-오픈이노베이션",
-      "org": "서초창업스테이션",
+      "id": "67d491d1ed",
+      "source": "기업마당",
+      "title": "[부산] 동구 2026년 사회적경제기업 판로지원 사업 참여기업 모집 공고",
+      "org": "부산광역시",
       "region": "전국",
-      "start_date": "2026-10-14",
+      "start_date": "2026-10-27",
       "end_date": "2026-11-05",
-      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179499",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "fea51ece6f",
-      "source": "K-Startup",
-      "title": "[한국투자액셀러레이터] 바른동행 4차 모집｜선발 시 최대 5억원 투자",
-      "org": "한국투자액셀러레이터",
-      "region": "전국",
-      "start_date": "2026-10-13",
-      "end_date": "2026-11-05",
-      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179498",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127524",
       "is_priority": false,
       "stage": null
     },
@@ -1779,38 +1923,26 @@
       "stage": null
     },
     {
-      "id": "fe5e95658a",
-      "source": "기업마당",
-      "title": "[부산] 2026년 수리조선산업 맞춤형 지원사업 추가모집 공고(스마트수리조선지원센터 관리운영 사업)",
-      "org": "부산광역시",
+      "id": "3de29abf0c",
+      "source": "K-Startup",
+      "title": "[창업] 합격하는 창업 사업계획서 실전",
+      "org": "마포청년창업취업지원센터 나루",
       "region": "전국",
-      "start_date": "2026-10-22",
-      "end_date": "2026-11-05",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127415",
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-06",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179628",
       "is_priority": false,
       "stage": null
     },
     {
-      "id": "060f441399",
-      "source": "기업마당",
-      "title": "[부산] 2026년 수리조선 기업인증 지원사업 추가모집 공고(수리조선 스마트화 및 엔지니어 육성 사업)",
-      "org": "부산광역시",
+      "id": "639920ab42",
+      "source": "K-Startup",
+      "title": "[창업행사] 서울마포 대학연계 AI 청년창업포럼",
+      "org": "마포청년창업취업지원센터 나루",
       "region": "전국",
-      "start_date": "2026-10-22",
-      "end_date": "2026-11-05",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127414",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "8853a5284d",
-      "source": "기업마당",
-      "title": "[전남광주] 2026년 농림축수산식품 수출탑 대상기업 모집 공고",
-      "org": "전남광주통합특별시",
-      "region": "전국",
-      "start_date": "2026-10-22",
-      "end_date": "2026-11-05",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127404",
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-06",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179627",
       "is_priority": false,
       "stage": null
     },
@@ -1883,6 +2015,42 @@
       "start_date": "2026-10-16",
       "end_date": "2026-11-06",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179536",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "45a315f907",
+      "source": "기업마당",
+      "title": "[경북] 안동시 친환경섬유산업 육성지원 4차년도 참여기업 모집 공고",
+      "org": "경상북도",
+      "region": "전국",
+      "start_date": "2026-10-26",
+      "end_date": "2026-11-06",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127520",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "d9d074abf4",
+      "source": "기업마당",
+      "title": "[경북] 구미시 2026년 11월 중소기업 시설자금 융자지원 계획 공고",
+      "org": "경상북도",
+      "region": "전국",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127516",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "3f295519d4",
+      "source": "기업마당",
+      "title": "[경북] 구미시 2026년 11월 중소기업 운전자금 융자지원 계획 공고",
+      "org": "경상북도",
+      "region": "전국",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127515",
       "is_priority": false,
       "stage": null
     },
@@ -2019,30 +2187,6 @@
       "stage": null
     },
     {
-      "id": "ce6b6e26ef",
-      "source": "기업마당",
-      "title": "[대구] 2026년 수출물류비 지원사업 참여기업 모집 연장 공고",
-      "org": "대구광역시",
-      "region": "전국",
-      "start_date": "2026-10-22",
-      "end_date": "2026-11-06",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127413",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "9953c0f5d6",
-      "source": "기업마당",
-      "title": "[서울] 금천구 2026년 일자리창출 우수기업 인증 신청기업 모집 공고",
-      "org": "서울특별시",
-      "region": "전국",
-      "start_date": "2026-10-19",
-      "end_date": "2026-11-06",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127398",
-      "is_priority": false,
-      "stage": null
-    },
-    {
       "id": "9609a0aa30",
       "source": "K-Startup",
       "title": "서울동부여성발전센터 창업센터 2027년 신규 입주기업 모집",
@@ -2099,6 +2243,66 @@
       "start_date": "2026-10-22",
       "end_date": "2026-11-09",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179598",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "13cb8cffdd",
+      "source": "기업마당",
+      "title": "[전남광주] 강진군 2026년 신중년 희망 일자리장려금 지원사업 참여기업 모집 재공고",
+      "org": "전남광주통합특별시",
+      "region": "전국",
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-09",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127534",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "ac6d94546a",
+      "source": "기업마당",
+      "title": "[제주] 2026년 2차 월동채소 해외 마케팅 경쟁력 강화 지원사업 공고",
+      "org": "제주특별자치도",
+      "region": "전국",
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-09",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127530",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "a8768e8aaa",
+      "source": "기업마당",
+      "title": "[대구] 2026년 창업도시 조성 프로젝트 참가기업 모집 공고",
+      "org": "대구광역시",
+      "region": "전국",
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-09",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127529",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "996f11f45b",
+      "source": "기업마당",
+      "title": "2026년 대구 지역거점 AX 혁신 기술개발 사업 신규지원 대상과제 공고(표준모델 AX R&D)",
+      "org": "산업통상부",
+      "region": "전국",
+      "start_date": "2026-10-26",
+      "end_date": "2026-11-09",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127523",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "897051ac0e",
+      "source": "기업마당",
+      "title": "2026년 5차 K-브랜드 정부인증제도 참여기업 모집 공고",
+      "org": "지식재산처",
+      "region": "전국",
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-09",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127504",
       "is_priority": false,
       "stage": null
     },
@@ -2171,6 +2375,18 @@
       "start_date": "2026-10-14",
       "end_date": "2026-11-10",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179520",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "de666fff2b",
+      "source": "기업마당",
+      "title": "[제주] 2026년 4차 양식장 친환경에너지보급사업(인버터) 대상자 모집 공고",
+      "org": "제주특별자치도",
+      "region": "전국",
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-10",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127527",
       "is_priority": false,
       "stage": null
     },
@@ -2283,14 +2499,14 @@
       "stage": null
     },
     {
-      "id": "5da1edc43f",
-      "source": "기업마당",
-      "title": "2026년 강원연구개발특구육성(R&D)사업 강원 특구 배치 프로그램 1기 창업기업 모집 공고",
-      "org": "강원특별자치도",
-      "region": "전국",
-      "start_date": "2026-10-21",
-      "end_date": "2026-11-11",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127411",
+      "id": "fe21002c34",
+      "source": "K-Startup",
+      "title": "[도봉구청년창업센터]  2026  도봉 오픈 창업 스쿨 -  2027 NEXT STAGE",
+      "org": "도봉구 청년창업센터장",
+      "region": "서울",
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-12",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179635",
       "is_priority": false,
       "stage": null
     },
@@ -2367,14 +2583,38 @@
       "stage": null
     },
     {
-      "id": "1887d3f3e4",
-      "source": "K-Startup",
-      "title": "[무료 AI 역량강화 교육] 글로벌 공공조달 AX 전략 전문가 과정 (선착순 모집)",
-      "org": "(주)글로벌창업연구소",
+      "id": "a573600212",
+      "source": "기업마당",
+      "title": "[부산] 기장군 2026년 3차 어선어업자 어구 지원사업 신청 공고",
+      "org": "부산광역시",
       "region": "전국",
-      "start_date": "2026-10-12",
+      "start_date": "2026-10-27",
       "end_date": "2026-11-13",
-      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179497",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127525",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "3879d32891",
+      "source": "기업마당",
+      "title": "[서울] 2027년 Dream Play(LGD 스타트업 육성프로그램 9기) 모집 공고",
+      "org": "서울특별시",
+      "region": "전국",
+      "start_date": "2026-10-22",
+      "end_date": "2026-11-13",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127514",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "fa0c36d186",
+      "source": "기업마당",
+      "title": "[경북] 2026년 K-통합 마케팅 생태계 조성 사업 오프라인 특판전(롯데백화점(인천점)) 참가기업 모집 공고",
+      "org": "경상북도",
+      "region": "전국",
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-13",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127508",
       "is_priority": false,
       "stage": null
     },
@@ -2427,42 +2667,6 @@
       "stage": null
     },
     {
-      "id": "81fd3cb3f6",
-      "source": "기업마당",
-      "title": "[서울] 강남구 2026년 일자리창출 우수기업 인증제 신청기업 모집 공고",
-      "org": "서울특별시",
-      "region": "전국",
-      "start_date": "2026-10-29",
-      "end_date": "2026-11-13",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127425",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "f51c6023bc",
-      "source": "기업마당",
-      "title": "2027년 논산세계딸기산업엑스포 수출상담회 참가기업 추가모집 공고",
-      "org": "충청남도",
-      "region": "전국",
-      "start_date": "2026-10-21",
-      "end_date": "2026-11-13",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127403",
-      "is_priority": true,
-      "stage": null
-    },
-    {
-      "id": "6ee0f98762",
-      "source": "기업마당",
-      "title": "[부산] 기장군 LH임대주택 중소기업 근로자 공공임대주택 기관공급 사업 대상기업 모집계획 공고",
-      "org": "부산광역시",
-      "region": "전국",
-      "start_date": "2026-10-21",
-      "end_date": "2026-11-13",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127402",
-      "is_priority": false,
-      "stage": null
-    },
-    {
       "id": "4c1b61c6d8",
       "source": "K-Startup",
       "title": "KETI 파트너쉽 대덕특구 연구소기업",
@@ -2511,6 +2715,42 @@
       "stage": null
     },
     {
+      "id": "c65c5b3951",
+      "source": "기업마당",
+      "title": "출연연 지역조직의 지역혁신 역량 고도화 방안 기획ㆍ연구 재공고",
+      "org": "과학기술정보통신부",
+      "region": "전국",
+      "start_date": "2026-10-28",
+      "end_date": "2026-11-16",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127533",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "aab099d38d",
+      "source": "기업마당",
+      "title": "[부산] 서구 한시적 수출 수산식품 포장재 지원사업 3차 신청 공고",
+      "org": "부산광역시",
+      "region": "전국",
+      "start_date": "2026-10-26",
+      "end_date": "2026-11-16",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127521",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "d972c88e55",
+      "source": "기업마당",
+      "title": "2026년 연구개발특구진흥재단 X 알테오젠 바이오 딥테크 오픈이노베이션 참여기업ㆍ연구기관 모집 공고",
+      "org": "과학기술정보통신부",
+      "region": "전국",
+      "start_date": "2026-10-26",
+      "end_date": "2026-11-16",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127506",
+      "is_priority": false,
+      "stage": null
+    },
+    {
       "id": "9395042d28",
       "source": "기업마당",
       "title": "[충남] 2026년 충남관광기업지원센터 스타트업 모집 공고",
@@ -2531,18 +2771,6 @@
       "start_date": "2026-10-26",
       "end_date": "2026-11-16",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127451",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "e6cb9dbf74",
-      "source": "기업마당",
-      "title": "2027년 전통시장 및 상점가 활성화 지원사업 수정 공고",
-      "org": "중소벤처기업부",
-      "region": "전국",
-      "start_date": "2026-10-20",
-      "end_date": "2026-11-16",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127417",
       "is_priority": false,
       "stage": null
     },
@@ -2607,6 +2835,18 @@
       "stage": null
     },
     {
+      "id": "ce8bd26125",
+      "source": "기업마당",
+      "title": "[울산] 2026년 청년 웰스테이 지원사업 추가 모집 연장 수정 공고",
+      "org": "울산광역시",
+      "region": "전국",
+      "start_date": "2026-10-23",
+      "end_date": "2026-11-18",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127507",
+      "is_priority": false,
+      "stage": null
+    },
+    {
       "id": "1b9f296d60",
       "source": "K-Startup",
       "title": "[서초창업스테이션] 서리풀 소상공인 창업 클리닉(11월) - 소상공인 1:1 컨설팅",
@@ -2639,6 +2879,18 @@
       "start_date": "2026-10-19",
       "end_date": "2026-11-20",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179614",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "842d4c795e",
+      "source": "기업마당",
+      "title": "[전북] 2026년 9차 전북특별자치도 ILP 서비스 지원사업 ILP 서비스 기술연결 수요기업 모집 공고",
+      "org": "전북특별자치도",
+      "region": "전국",
+      "start_date": "2026-10-26",
+      "end_date": "2026-11-20",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127505",
       "is_priority": false,
       "stage": null
     },
@@ -2679,42 +2931,6 @@
       "stage": null
     },
     {
-      "id": "6dd7ed38d9",
-      "source": "기업마당",
-      "title": "2026년 3차 인천국제공항 면세점 연계 수산식품 판매홍보관 입점업체 모집 공고",
-      "org": "농림축산식품부",
-      "region": "전국",
-      "start_date": "2026-10-22",
-      "end_date": "2026-11-20",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127428",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "554f65a664",
-      "source": "기업마당",
-      "title": "2026년 3차 기계장비산업기술개발사업 신규지원 대상과제 공고",
-      "org": "산업통상부",
-      "region": "전국",
-      "start_date": "2026-10-29",
-      "end_date": "2026-11-20",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127422",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "ec7c47e0f9",
-      "source": "기업마당",
-      "title": "[인천] 2026 중소기업 지식재산 기반 기술경쟁력 강화 통합지원 공고",
-      "org": "인천광역시",
-      "region": "전국",
-      "start_date": "2026-10-20",
-      "end_date": "2026-11-20",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127406",
-      "is_priority": false,
-      "stage": null
-    },
-    {
       "id": "70012faac6",
       "source": "K-Startup",
       "title": "[인탑스 액셀러레이팅 6기 모집] 제품 디자인·설계·양산부터 IR까지! 하드웨어 스타트업 올인원 스케일업",
@@ -2723,6 +2939,30 @@
       "start_date": "2026-10-19",
       "end_date": "2026-11-22",
       "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179558",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "63ace80699",
+      "source": "기업마당",
+      "title": "2026년 제4회 과학벨트 어워드 모집 공고",
+      "org": "과학기술정보통신부",
+      "region": "전국",
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-23",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127512",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "d50bbbf165",
+      "source": "K-Startup",
+      "title": "[무료 AI 역량강화 교육] 생성형 AI 기반 무역 금융 리스크 최적화 과정(선착순 모집)",
+      "org": "(주)글로벌창업연구소",
+      "region": "전국",
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-27",
+      "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179631",
       "is_priority": false,
       "stage": null
     },
@@ -2847,6 +3087,90 @@
       "stage": null
     },
     {
+      "id": "dc7135654e",
+      "source": "기업마당",
+      "title": "[제주] 2026년 그린 MICE 인센티브 지원 추가 공고",
+      "org": "제주특별자치도",
+      "region": "전국",
+      "start_date": null,
+      "end_date": null,
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127528",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "63ed7ea90a",
+      "source": "기업마당",
+      "title": "[전남광주] 여수시 2026년 농어촌민박 소방안전시설 지원 사업 모집 공고",
+      "org": "전남광주통합특별시",
+      "region": "전국",
+      "start_date": null,
+      "end_date": null,
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127526",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "b0196ff32f",
+      "source": "기업마당",
+      "title": "[강원] 제42회 국제의료기기ㆍ병원설비전시회(KIMES 2027) 강원공동관 참가기업 3차 모집 공고",
+      "org": "강원특별자치도",
+      "region": "전국",
+      "start_date": null,
+      "end_date": null,
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127517",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "e83dc165f8",
+      "source": "기업마당",
+      "title": "2026년 바이오글로벌 사업화지원센터 기업지원사업 상시 공고",
+      "org": "산업통상부",
+      "region": "전국",
+      "start_date": null,
+      "end_date": null,
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127513",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "aa4fb293b3",
+      "source": "기업마당",
+      "title": "2026년 글로벌 진출 스마트 휴머니제이션 사업 상시 공고",
+      "org": "산업통상부",
+      "region": "전국",
+      "start_date": null,
+      "end_date": null,
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127511",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "1a1025921c",
+      "source": "기업마당",
+      "title": "[경기] 안양시 2026년 유망기업 유통상담회 연계 투자상담회 참가기업 모집 공고",
+      "org": "경기도",
+      "region": "전국",
+      "start_date": null,
+      "end_date": null,
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127503",
+      "is_priority": false,
+      "stage": null
+    },
+    {
+      "id": "0399c95b5c",
+      "source": "기업마당",
+      "title": "[울산] 2026년 창업시리즈N 전문가 멘토링 프로그램 참여기업 모집 공고",
+      "org": "울산광역시",
+      "region": "전국",
+      "start_date": null,
+      "end_date": null,
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127502",
+      "is_priority": false,
+      "stage": null
+    },
+    {
       "id": "789e611020",
       "source": "기업마당",
       "title": "2026년 연천군 중소기업 육성자금 융자 지원사업 공고",
@@ -2903,90 +3227,6 @@
       "start_date": null,
       "end_date": null,
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127434",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "e963eb36a8",
-      "source": "기업마당",
-      "title": "[대구] 2026년 대학ㆍ기업 공동 기술ㆍ제품 기획지원 과제기업 모집 공고 (지산학연 협업기반 시장선도 제품화 지원)",
-      "org": "대구광역시",
-      "region": "전국",
-      "start_date": null,
-      "end_date": null,
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127429",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "f74782830c",
-      "source": "기업마당",
-      "title": "[충북] 2026년 3차 중소기업육성자금 융자(이차보전) 지원계획 변경 공고",
-      "org": "충청북도",
-      "region": "전국",
-      "start_date": null,
-      "end_date": null,
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127427",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "37448c32c4",
-      "source": "기업마당",
-      "title": "[전남광주] 2026년 청년기업 인증 계획 공고",
-      "org": "전남광주통합특별시",
-      "region": "전국",
-      "start_date": null,
-      "end_date": null,
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127426",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "89fd50a309",
-      "source": "기업마당",
-      "title": "[대구] 2026년 5차 대경 이음 미래모빌리티 일자리고도화 수혜기업 모집 수정 재공고(지역산업맞춤형 일자리지원사업 대경권 광역이음프로젝트)",
-      "org": "고용노동부",
-      "region": "전국",
-      "start_date": null,
-      "end_date": null,
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127424",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "ead9b442f5",
-      "source": "기업마당",
-      "title": "2026년 기술경영촉진 컴퍼니빌더 지원형 공공기술 PoC 인프라 연계 지원사업 모집 공고",
-      "org": "충청남도",
-      "region": "전국",
-      "start_date": null,
-      "end_date": null,
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127421",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "5077cb0507",
-      "source": "기업마당",
-      "title": "2026년 분산에너지 국제인증 지원사업 수정(지원기간 및 범위 등) 공고",
-      "org": "기후에너지환경부",
-      "region": "전국",
-      "start_date": null,
-      "end_date": null,
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127418",
-      "is_priority": false,
-      "stage": null
-    },
-    {
-      "id": "4364222474",
-      "source": "기업마당",
-      "title": "[서울] 서초구 2026년 하반기 중소기업육성기금 융자지원 공고",
-      "org": "서울특별시",
-      "region": "전국",
-      "start_date": null,
-      "end_date": null,
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127399",
       "is_priority": false,
       "stage": null
     },
