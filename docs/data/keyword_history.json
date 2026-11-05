@@ -1,20 +1,4 @@
 {
-  "2026-10-21": {
-    "수출": 35,
-    "바이어": 20,
-    "프로바이오틱스": 2,
-    "건강기능식품": 5,
-    "관세": 1,
-    "단백질": 2,
-    "gut health": 1,
-    "protein": 7,
-    "functional food": 2,
-    "plant-based": 1,
-    "mou": 1,
-    "postbiotic": 1,
-    "healthy aging": 1,
-    "wellness": 1
-  },
   "2026-10-22": {
     "건강기능식품": 5,
     "dietary supplement": 1,
@@ -226,5 +210,24 @@
     "mou": 2,
     "슈퍼푸드": 1,
     "plant-based": 2
+  },
+  "2026-11-05": {
+    "수출": 36,
+    "바이어": 20,
+    "건강기능식품": 5,
+    "프로바이오틱스": 3,
+    "관세": 1,
+    "protein": 6,
+    "buyer": 1,
+    "tariff": 1,
+    "단백질": 2,
+    "수입": 1,
+    "plant-based": 1,
+    "prebiotic": 1,
+    "sourcing": 1,
+    "functional food": 1,
+    "probiotic": 1,
+    "gut health": 1,
+    "healthy aging": 1
   }
 }
