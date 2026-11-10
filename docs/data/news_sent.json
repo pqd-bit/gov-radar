@@ -1,46 +1,6 @@
 {
   "sent": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UanRoQ3BJdlMxVDk5OVdyYTlpZXF2bF9nTzhCaU9uaEhyeXNFLUZxZGVVaGdlelREUG0tc09kNnY3bEM2Y0t6amVjS21MN3JxRkE?oc=5",
-      "sent_at": "2026-10-26"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOSnI0a191b1p0X3FualpjQXpoQ3NJSzQzdUdfMlc0SGh2T3VBd0VBcmZwYlFTd0lralhCNjFiYWpMR3JJNDdZcUp4LXNXN0F3aDlBcF9kejhzTGdCY3NsSzk2Q0xNRlhZT2xZUw?oc=5",
-      "sent_at": "2026-10-26"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZRkM3ZlhHQ21mYnVEdk1WNmJNcHNKZmNWTW1qejdpaUp5R1RfOVhPbndvSFdyTWpreGt1SWw4RGQ3VFJrczRHNlhNWU4?oc=5",
-      "sent_at": "2026-10-26"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUNXRFZXJNc2tzZk1vaHpsaVAweERROUplVVRsTjI2a2EtcldWaUhZZ2VSQzA3eUZTV3B0YnM5N0dfcnFabE1pUENaVlZ5T2wxSTctXzhBZWdsVmEwSmxGOEEzbGJCc0k4X3dURGxld3I2MzjSAXdBVV95cUxOWGo0U21XcDl0eEVSMzNoZVJGUG5PZV8wWG9LQ1VmOENmM0t4elpORVBqdVVINnNKSHJFVzZFX01paXl4V2I1S3ZiQzA2d0l2UWZvQ095YnRsMEVyLTZMMV9JMXZOSlBkcHNQNHRVU0ZTOXdLelFocw?oc=5",
-      "sent_at": "2026-10-26"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyVExsTGIxaHM2T0xCdml4bHpiOU8wVVdTcUZJN0Rqb1lXMHpwN0syMjlldmV1cGxlTXFQdkJZanlkcnJsMXBnRUpjdFp3T3RzczI2YnVjQ1BuYkpPbzY1N05meFnSAWhBVV95cUxOWG9KMjduUURoVy1EMlY1MGE1aTR3UXdLcnlfQ3JSTEpITnpBTGQ0MGtmS2dma0dpUzdobVZyNVRNYzQ0NER5aTVaRjRUazZaVTZYYjdRSkxfQU5KYld0cUFad2hRQkRhSw?oc=5",
-      "sent_at": "2026-10-26"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xeVA1ZndSc0xfU2IwRGNJRkYxLTMzaWx0RjN4OU1RMXFFOTNrU3NleWpCWFFDX2RqSjNRVmdkQnpUb24zVTNnTV9MU2JaYk02eTdsME1RaF9rbHlU?oc=5",
-      "sent_at": "2026-10-26"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtMUVPYlR5SHQ1SVJRQXlpMk81QUhXcnNMSldoeVctcDRBRUN3OXk2QUNuRHZnczhSNlAwb05PZWE4MWtGNzVQRlpYaE1YOGtGMjU5QkZ5WDZ4dTdOa2ZTN2tvUnNoMl9QTUhYa2V3dmVvU1HSAXNBVV95cUxQbTFFT2JUeUh0NUlSUUF5aTJPNUFIV3JzTEpXaHlXLXA0QUVDdzl5NkFDbkR2Z3M4UjZQMG9OT2VhODFrRjc1UEZaWGhNWDhrRjI1OUJGeVg2eHU3TmtmUzdrb1JzaDJfUE1IWGtld3Zlb1NR?oc=5",
-      "sent_at": "2026-10-26"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zNEVBcnJsVjlvTWtrNGg5Z1FGNGZQVlduNnAtVVBSUXpuS2tYaVE1dEdMNUtGeXBrSkY3cm05dWp4Zm0tVW1Yc29XRVg5NWxJUzJnbFJla2l5cjR5NUJOLWo1dlM5WmVa?oc=5",
-      "sent_at": "2026-10-26"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oY25welFXc2hBY19yOU51X1ZrVlFOSHplSDA1bjRvREFSU1EtOUVfRlpWTC1pYVNsMlJCNXI2QnN6VG13V2tUR3V2NkNvQi05R01qVkVtYk02emtWdGZKUENLMGw5MUg3LXRaa0VuWEQ1eEHSAXdBVV95cUxNeHE3OGMwZXBEYUFRMmw5dnV2eFUtQmNnRm51a1JnVzNfN1JiZ1NxRjBtVFNZTGlYMlNxSnVEUXcwRmxEM0YzU05qZE9kWEYtN2xYaTc4VFVZWW92OTBqMkpXbldxaGwtRHYwSFRQLTA3NlBqSDhKWQ?oc=5",
-      "sent_at": "2026-10-26"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLWFzUzRQb1pSOHpVSmY5clRTZ2EzQldIZFRDLXBySkwtU0pwSFdzR09ZaDFEald2Rjg2aXVYMTh5QVljdDhvOTZldUhZdWp1V082NGxUSkRsXzVFdE5PX0s0aHU3MWstc0RjLXhhdGRjbDlvYmV6YzdCTlppX1BkLVplVmZlUWREdHhjemxVUElpLUExZHozR2h0aDdUZw?oc=5",
-      "sent_at": "2026-10-26"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54X2RvOEFDNWtPTnVEMWZZUmJvQmtsdndiS1dEVEZPdEt0cFVaZWFYaF95Sy1pcTZSSGV1Vk1qNmticmpjaVRiUWlXR190dDNzZmxodjlmZDNReUpxa2plbWhBb3Rqc0owRm5GRG5nNlJxS2M?oc=5",
       "sent_at": "2026-10-27"
     },
@@ -599,6 +559,46 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbkh6MnRsTGJiSERxXy00eEZ0YzUtSmJabEcwTTdNeHV5cXhndF9mVjdPZjlNODZBYTBtcERtSS1yUlJIbXI2bHZWR1h6S2RkQkl2T1ZmdjRxZkpXSXN0ZkkxcDNRUVNmQm0yQkZreC1MZWR6RW5UMHh4ZkF2V3dXclQyTmR1bFhqUWItNXlsUFVNVzVJTVZ5a2ZPZTVNVl9qb29zMGpUaHlkNFp5X001UGx6MXBGSGhtNXcwWWRaRjVMUzBmd0pWNENB?oc=5",
       "sent_at": "2026-11-09"
+    },
+    {
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=120911",
+      "sent_at": "2026-11-10"
+    },
+    {
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=120912",
+      "sent_at": "2026-11-10"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95NzNDSVBGS2xoaGtZLVdpZEVPNm05YzJCRU1DcDFtSld1NHZ3S1dMX0trcWpKQTJZSHlTZE11WG56emlCTllpRllYanNhTkd0Mk8wUDUxdF9RUQ?oc=5",
+      "sent_at": "2026-11-10"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ia1d0cDJMNjlUU1ROX0xqRjBtSHB6VTAzNEpsMW9kRnRqT085TjZwc1JLM0w5dF9MVWlXZS1OOUYwb29rbU5rMWxvUjQ0c19CVl9uV0NFX1Y?oc=5",
+      "sent_at": "2026-11-10"
+    },
+    {
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=120887",
+      "sent_at": "2026-11-10"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcjdnY0ZHRUtYQjZJWlhlc1VPdWRsT1FyeURpSExtQ2FwYnZKejNHQ3N4S1UxaUNheEJwRmdFdXJsQjliWXdjQ0NtQzhEVEh1d0ZvdWtXWHBfeXZGUUhUaTFlN0NwMlNuTHNkZzJPTDdscE02U3FpSUc3bENCWU5LNGlCMnZ3T2hqYlltNjczMjhyLWdnUDFMTno0a21LNkU0Umx5YTlQWmpyT25xYnh6Ylc0djFuTjR3Szc0X3FHTE1vc0lxcHpRV3RiX3ViY1FLZGZIMmlad9IB3AFBVV95cUxQZzdxLUNGUWx4ME9rX3Z1NVRWT01iWEY3TGFOUS1JdUZDZnNndmpjeWd1bUY5VF9yZjJ4cFh1R1BjYnAyZ052MmZ2V3ZaMVFGR3luejBoRDhoMGpoYkxVREhnX3RWNGM1ZGVPMk4xMzN4TW9oWHZzcHRnNkZEYXZLMVU4Q1F2bFFwZWpTY194WjBWVURtRmxtMG5WYk14TzBVUHJKNDVsenNlM0dtNWdNWHN0cWptWUdrOEd1XzlwZjdJczlLUThNMjhuVndLdHVYN0ZpUkkxRzRJZjU3?oc=5",
+      "sent_at": "2026-11-10"
+    },
+    {
+      "url": "https://www.foodnavigator.com/Article/2026/11/09/food-companies-should-prepare-for-scrutiny-of-price-hikes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sent_at": "2026-11-10"
+    },
+    {
+      "url": "https://www.bakeryandsnacks.com/Article/2026/11/09/us-bakery-investment-how-tariffs-affect-european-bakers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sent_at": "2026-11-10"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRnZ6XzZJYkxlX3JkTlZ3UjRBV1NGTExRczZRNzYzcXk3ZE5UdVJtQlB4bUxPQ0xYQVdfekh3a1Q0T0JzN0dzNWJNQmJuVFZ1T3BFSXlmUHZaM2tNTkNuRUhYVUU5d0ZkSTVseER2UDBVcEVhM192T0x5NDZqZHowTWhnUTNfN0xSLXhkUHFZU29mQkhRZ2F5OWVxMGpaZTdMZWZZZlJUc0tLRXh5eXNrVmV5UjVmUmp0ZEY2VVZKd0tHQTJKWUJwY2Fn?oc=5",
+      "sent_at": "2026-11-10"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlc0VTdWZkJkaF9VbXpJZVRQYWFsN3Byc01odEZOU1ZUd0dMb2psQ3NTeFl3aUo4aXJqWElNU3d5eGpGN2lrdnRWdFVTdzAwaTI5Q0tpYmhaLW5Ram9FWnY1aXZSd2ZwS2tYaUpGYXdreXRVNUpXZjVrRTV5MWgzWE1LOE1DV3hYaU5WaEZBbw?oc=5",
+      "sent_at": "2026-11-10"
     }
   ]
 }
