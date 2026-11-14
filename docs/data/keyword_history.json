@@ -1,22 +1,4 @@
 {
-  "2026-10-30": {
-    "수출": 51,
-    "건강기능식품": 8,
-    "바이어": 12,
-    "mou": 5,
-    "기능성 원료": 4,
-    "functional food": 2,
-    "nutraceutical": 2,
-    "plant-based": 3,
-    "단백질": 3,
-    "헬시플레저": 1,
-    "수입": 2,
-    "gut health": 3,
-    "probiotic": 2,
-    "protein": 6,
-    "healthy aging": 1,
-    "wellness": 2
-  },
   "2026-10-31": {
     "건강기능식품": 3,
     "수출": 24,
@@ -230,5 +212,23 @@
     "gut health": 1,
     "healthy aging": 1,
     "wellness": 1
+  },
+  "2026-11-14": {
+    "건강기능식품": 7,
+    "단백질": 4,
+    "수출": 32,
+    "mou": 5,
+    "바이어": 7,
+    "wellness": 3,
+    "plant-based": 3,
+    "프로바이오틱스": 1,
+    "protein": 5,
+    "prebiotic": 1,
+    "기능성 원료": 1,
+    "functional food": 1,
+    "nutraceutical": 2,
+    "tariff": 1,
+    "수입": 1,
+    "healthy aging": 1
   }
 }
